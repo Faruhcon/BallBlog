@@ -34,10 +34,10 @@ Several images in a row?
 
 <img src="vfbH_volleyball2_example.png" width="275" height="350"><img src="vfbH_frisbee3.png" width="275" height="350"><img src="vfbH_barkIt_example.png" width="275" height="350">
 
-<img src="vfbH_volleyball2_example.png" width="275" height="375"> <img src="vfbH_frisbee3.png" width="275" height="375"> <img src="vfbH_barkIt_example.png" width="275" height="375">
+<img src="vfbH_volleyball2_example.png" width="275" height="375">   <img src="vfbH_frisbee3.png" width="275" height="375">   <img src="vfbH_barkIt_example.png" width="275" height="375">
 
 
-<img src="vfbH_volleyball2_example.png" width="270" height="400"> <img src="vfbH_frisbee3.png" width="270" height="400"> <img src="vfbH_barkIt_example.png" width="270" height="400">
+<img src="vfbH_volleyball2_example.png" width="270" height="375">   <img src="vfbH_frisbee3.png" width="270" height="375">   <img src="vfbH_barkIt_example.png" width="270" height="375">
 
 <div class="article-header">
 
