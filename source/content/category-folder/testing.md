@@ -35,9 +35,9 @@ Several images in a row?
 ![[vfbH_volleyball2_example.png]]![[vfbH_frisbee3.png]]
 ![[vfbH_barkIt_example.png]]
 
-Several images in a row round 2?
+Several images in a row round 2? yeah?
 
-<img src="vfbH_volleyball2_example.png" width="200" height="100"><img src="vfbH_frisbee3.png" width="200" height="100"><img src="vfbH_barkIt_example.png" width="200" height="100">
+<img src="vfbH_volleyball2_example.png" width="300" height="400"><img src="vfbH_frisbee3.png" width="300" height="400"><img src="vfbH_barkIt_example.png" width="300" height="400">
 
 Several images in a row round 3?
 ![](vfbH_volleyball2_example.png =100x200)![](vfbH_frisbee3.png =100x200)
