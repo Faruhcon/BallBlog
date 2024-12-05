@@ -39,6 +39,9 @@ Several images in a row?
 
 <img src="vfbH_volleyball2_example.png" width="270" height="375">   <img src="vfbH_frisbee3.png" width="270" height="375">   <img src="vfbH_barkIt_example.png" width="270" height="375">
 
+So, overview of all VFB on this page or split them up?
+What info to put down here?
+
 <div class="article-header">
 
 # Other Testing
