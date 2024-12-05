@@ -55,15 +55,15 @@ And this is another kind of list
 
 </div>
 
-Footnote testing[^1]
+Footnote testing, does it need link?[^1]
 
 <br>
 <br>
 
 <div class="navigation-container">
 <a href="Some note" class="navigation-button">
-<p>Click me!</p>
+<p>To some note, click me!</p>
 </a>
 </div>
 
-[^1]: hey footnote?
+[^1]: [hey footnote?](https://google.com)
