@@ -52,6 +52,8 @@ And this is another kind of list
   <br/>
   <p>and use the above code to provide a paragraph break</p>
   <p>look at more of these classes</p>
+  <p>why is the box not showing up here or for button, do they need to be added to repo somewhere?
+  <p>why does footnote not properly link? or is it working now?
 
 </div>
 
