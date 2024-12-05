@@ -51,9 +51,11 @@ And this is another kind of list
   <p> This is how you add a message to this box</p>
   <br/>
   <p>and use the above code to provide a paragraph break</p>
-  <p>look at more of these classes[^1]</p>
+  <p>look at more of these classes</p>
 
 </div>
+
+Footnote testing[^1]
 
 <br>
 <br>
