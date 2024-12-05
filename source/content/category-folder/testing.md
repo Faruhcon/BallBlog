@@ -27,10 +27,13 @@ Hey look a way to link to stuff
 </div>
 
 Single image
+
 ![[vfbH_parkOverhead_withNumbers_example.png]]
 
 Several images in a row?
-![[vfbH_volleyball2_example.png]] ![[vfbH_frisbee3.png]] ![[vfbH_barkIt_example.png]]
+
+![[vfbH_volleyball2_example.png]]![[vfbH_frisbee3.png]]
+![[vfbH_barkIt_example.png]]
 
 <div class="article-header">
 
