@@ -37,12 +37,10 @@ Several images in a row?
 
 Several images in a row round 2? yeah?
 
-<img src="vfbH_volleyball2_example.png" width="300" height="400"><img src="vfbH_frisbee3.png" width="300" height="400"><img src="vfbH_barkIt_example.png" width="300" height="400">
+<img src="vfbH_volleyball2_example.png" width="275" height="350"><img src="vfbH_frisbee3.png" width="275" height="350"><img src="vfbH_barkIt_example.png" width="275" height="350">
 
-Several images in a row round 3?
-![](vfbH_volleyball2_example.png =100x200)![](vfbH_frisbee3.png =100x200)
-![](vfbH_barkIt_example.png =100x200)
 
+<img src="vfbH_volleyball2_example.png" width="275" height="400"><img src="vfbH_frisbee3.png" width="275" height="400"><img src="vfbH_barkIt_example.png" width="275" height="400">
 
 <div class="article-header">
 
