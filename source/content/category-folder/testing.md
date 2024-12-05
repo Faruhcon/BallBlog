@@ -35,6 +35,11 @@ Several images in a row?
 ![[vfbH_volleyball2_example.png]]![[vfbH_frisbee3.png]]
 ![[vfbH_barkIt_example.png]]
 
+Several images in a row round 2?
+
+<img src="vfbH_volleyball2_example.png" width="200" height="100"><img src="vfbH_frisbee3.png" width="200" height="100"><img src="vfbH_barkIt_example.png" width="200" height="100">
+
+
 <div class="article-header">
 
 # Other Testing
