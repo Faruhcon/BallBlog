@@ -39,6 +39,10 @@ Several images in a row round 2?
 
 <img src="vfbH_volleyball2_example.png" width="200" height="100"><img src="vfbH_frisbee3.png" width="200" height="100"><img src="vfbH_barkIt_example.png" width="200" height="100">
 
+Several images in a row round 3?
+![](vfbH_volleyball2_example.png =100x200)![](vfbH_frisbee3.png =100x200)
+![](vfbH_barkIt_example.png =100x200)
+
 
 <div class="article-header">
 
