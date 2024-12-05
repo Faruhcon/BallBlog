@@ -32,15 +32,12 @@ Single image
 
 Several images in a row?
 
-![[vfbH_volleyball2_example.png]]![[vfbH_frisbee3.png]]
-![[vfbH_barkIt_example.png]]
-
-Several images in a row round 2? yeah?
-
 <img src="vfbH_volleyball2_example.png" width="275" height="350"><img src="vfbH_frisbee3.png" width="275" height="350"><img src="vfbH_barkIt_example.png" width="275" height="350">
 
+<img src="vfbH_volleyball2_example.png" width="275" height="375"> <img src="vfbH_frisbee3.png" width="275" height="375"> <img src="vfbH_barkIt_example.png" width="275" height="375">
 
-<img src="vfbH_volleyball2_example.png" width="275" height="400"><img src="vfbH_frisbee3.png" width="275" height="400"><img src="vfbH_barkIt_example.png" width="275" height="400">
+
+<img src="vfbH_volleyball2_example.png" width="270" height="400"> <img src="vfbH_frisbee3.png" width="270" height="400"> <img src="vfbH_barkIt_example.png" width="270" height="400">
 
 <div class="article-header">
 
