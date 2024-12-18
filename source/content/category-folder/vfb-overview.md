@@ -38,7 +38,7 @@ For, more detailed information on each of our VFB iterations, please use the but
 
 Add buttons here
 
-
+Add references to papers here as footnotes?
 
 Some additional notes:
 
