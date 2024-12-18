@@ -12,13 +12,27 @@ insert VFB arch picture here
 
 I worked on the Virtual Fitness Buddy (VFB) system and its prototypes for over a decade. The core tennet of the VFB system is to encourage children to engage in healthier physical activity (PA) habits. This was done through the use of a virtual buddy in the form of a customizable virtual dog and a PA tracker. As a child engaged in PA, their VFB's health would level up, which meant that they could play for longer and could unlock new minigames and tricks to perform. As that child met their daily PA goals, they would earn points to be used in the shop for VFB customizations and additional toys for fetch. This separation was made so that all PA would be rewarded in becoming healthier while still encouraging the child to set realistic PA goals without penalizing them from new playable content. 
 
-I was responsible for...
+Header: My contributions
 
+For this project, I have worn many hats over the years as we had a small dev team. My primary focus was designing, programming, and testing the VFB Unity3D application itself, which included the script architecture, user interfaces, world layout, minigame implementation, data formatting and processing, and input control systems. Basically, if you see it in the game, I more than likely had my hand in it. I even dabbled with basic art and audio design. Additionally, I helped to design our second kiosk in terms of testing the potential new hardware and hardware upgrades for feasibility and assembly. Lastly, while we largely had two developers for these apps, I did lead a team of undergrads consisting of both programmers and artists for some time.
+
+In terms of the overall study, I also wore many hats while working on an interdisciplinary team. Since I was one of the primary developers, I was tasked with system troubleshooting both remotely and on-site once our systems were deployed in the field, communicating with site directors for problems and pain points that they noticed. I also was a primary tech support when a parent and/or child had any issues with data entry or PA trackers, walking parents through tracker setup when necessary. For our statisticians, I aided in gathering system and application data, getting the desired data into a more readily processible format. For our psychologists and kinesiologists, I translated study goals into actionable application elements. Lastly, I both designed the program to perform data analysis and analyzed gameplay metrics, looking for information on what to adjust for future versions of the VFB system.  
+
+Since the VFB project was made in the context of academic research, our dev team was small 
+
+largely only consisting of my professor and myself. except for a couple iterations where i lead a team of undergrads
+
+kiosk/hardware design
 front end
 minigames
+some sound and art
 organizing the required data (vfb settings, pa)
 tech support while study running both for fitbit and kiosk troubleshooting
 data analysis
+team lead
+cross-displinary
+
+Header: ??? System Overview
 
 insert the kiosk, ipad, and headset pictures here? or break them up between paragraphs? which looks better
 
