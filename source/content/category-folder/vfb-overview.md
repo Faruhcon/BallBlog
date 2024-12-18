@@ -18,19 +18,7 @@ For this project, I have worn many hats over the years as we had a small dev tea
 
 In terms of the overall study, I also wore many hats while working on an interdisciplinary team. Since I was one of the primary developers, I was tasked with system troubleshooting both remotely and on-site once our systems were deployed in the field, communicating with site directors for problems and pain points that they noticed. I also was a primary tech support when a parent and/or child had any issues with data entry or PA trackers, walking parents through tracker setup when necessary. For our statisticians, I aided in gathering system and application data, getting the desired data into a more readily processible format. For our psychologists and kinesiologists, I translated study goals into actionable application elements. Lastly, I both designed the program to perform data analysis and analyzed gameplay metrics, looking for information on what to adjust for future versions of the VFB system.  
 
-Since the VFB project was made in the context of academic research, our dev team was small 
-
-largely only consisting of my professor and myself. except for a couple iterations where i lead a team of undergrads
-
-kiosk/hardware design
-front end
-minigames
-some sound and art
-organizing the required data (vfb settings, pa)
-tech support while study running both for fitbit and kiosk troubleshooting
-data analysis
-team lead
-cross-displinary
+switch above to lists instead maybe??
 
 Header: ??? System Overview
 
@@ -42,7 +30,15 @@ These kiosks were designed to be used in public spaces. Thus with the onset of t
 
 The last iteration of the VFB system I worked on was the immersive, virtual reality (VR) based system which utilized the Meta Quest 2 (dissertation ref?). We returned to the real world movement of our kiosk-based VFB systems, adapting several of the minigames to the new explorable VFB world designed for the iPad-based VFB system. I also briefly worked on early prototypes of the watch companion app that was in development as I was graduating. This was an idea my professor and I had talked about for a long time. The watch app would allow children to take their VFB with them on walks, which we thought would help foster their bond. 
 
+Header: Overall Study Statistics?
+
 Insert discussion and chart for overview of participant data across all of the VFB studies
+
+For, more detailed information on each of our VFB iterations, please use the buttons below to navigate to the desired page. 
+
+Add buttons here
+
+
 
 Some additional notes:
 
