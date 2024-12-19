@@ -1,6 +1,5 @@
 ---
-title: Virtual STEM Buddy
-draft: true
+title: Virtual STEM Buddy Overview
 #issueNo: 1
 ---
 

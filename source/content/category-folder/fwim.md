@@ -1,5 +1,6 @@
 ---
 title: Filtering Worlds in Miniature
+draft: true
 #issueNo: 1
 ---
 
