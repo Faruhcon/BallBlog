@@ -8,4 +8,6 @@ title: Virtual Buddy Dev History
 # VxB Timeline
 </div>
 
-filler for VB timeline page
+TODO: generate timeline image
+
+TODO: add subsections for VB-F&V, VFB-C, VSB-M, VFB-A, VFB-H, VFB-I(?)

@@ -5,6 +5,8 @@ title: Papers
 
 TODO: Add links to papers here or maybe just google scholar? dont forget appropriate footnotes on individual pages
 
+TODO: link to the individual pages on this website using title as link text?? might be confusing that it doesn't link to the paper.. maybe buttons instead?
+
 These are only my papers
 
 Google scholar page link?
