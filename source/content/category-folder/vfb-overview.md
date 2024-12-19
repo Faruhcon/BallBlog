@@ -8,17 +8,31 @@ title: Virtual Fitness Buddy Overview
 # What is the Virtual Fitness Buddy?
 </div>
 
-insert VFB arch picture here
+<img src="vfbH_frisbee1.png" width="600" height="400"> TODO: Center and caption, resize?
+is there already a concept of figure or do I need to make one?
 
-I worked on the Virtual Fitness Buddy (VFB) system and its prototypes for over a decade. The core tennet of the VFB system is to encourage children to engage in healthier physical activity (PA) habits. This was done through the use of a virtual buddy in the form of a customizable virtual dog and a PA tracker. As a child engaged in PA, their VFB's health would level up, which meant that they could play for longer and could unlock new minigames and tricks to perform. As that child met their daily PA goals, they would earn points to be used in the shop for VFB customizations and additional toys for fetch. This separation was made so that all PA would be rewarded in becoming healthier while still encouraging the child to set realistic PA goals without penalizing them from new playable content. 
+I was a core developer for the Virtual Fitness Buddy (VFB) system and its prototypes for nearly a decade, ending with my graduation from the University of Georgia in Fall 2023. The guiding priciple for the VFB system is to encourage children to engage in healthier physical activity (PA) habits. This was achieved using a customizable virtual dog and a PA tracker. As a child engaged in PA, their VFB could play for longer and could unlock new minigames and tricks to perform. As that child met their daily PA goals, they would earn points to purchase VFB and toy customizations. This distinction was made so that all PA would be rewarded in becoming healthier while still encouraging the child to set realistic PA goals without penalizing them from new playable content. During this time, we grew this system from our pilot studies at a single summer camp site with xxx children total to yyy children across zzz sites utilizing a mulimillion dollar grant.
 
-Header: My contributions
+Header: My contributions 
 
 For this project, I have worn many hats over the years as we had a small dev team. My primary focus was designing, programming, and testing the VFB Unity3D application itself, which included the script architecture, user interfaces, world layout, minigame implementation, data formatting and processing, and input control systems. Basically, if you see it in the game, I more than likely had my hand in it. I even dabbled with basic art and audio design. Additionally, I helped to design our second kiosk in terms of testing the potential new hardware and hardware upgrades for feasibility and assembly. Lastly, while we largely had two developers for these apps, I did lead a team of undergrads consisting of both programmers and artists for some time.
 
 In terms of the overall study, I also wore many hats while working on an interdisciplinary team. Since I was one of the primary developers, I was tasked with system troubleshooting both remotely and on-site once our systems were deployed in the field, communicating with site directors for problems and pain points that they noticed. I also was a primary tech support when a parent and/or child had any issues with data entry or PA trackers, walking parents through tracker setup when necessary. For our statisticians, I aided in gathering system and application data, getting the desired data into a more readily processible format. For our psychologists and kinesiologists, I translated study goals into actionable application elements. Lastly, I both designed the program to perform data analysis and analyzed gameplay metrics, looking for information on what to adjust for future versions of the VFB system.  
 
+programmer
+QA
+UI/UX designer
+data engineer
+hardware designer
+team lead
+on-site/field consultant
+
+
 switch above to lists instead maybe??
+
+Header: Overall Study Statistics?
+
+Insert discussion and chart for overview of participant data across all of the VFB studies
 
 Header: ??? System Overview
 
@@ -30,9 +44,6 @@ These kiosks were designed to be used in public spaces. Thus with the onset of t
 
 The last iteration of the VFB system I worked on was the immersive, virtual reality (VR) based system which utilized the Meta Quest 2 (dissertation ref?). We returned to the real world movement of our kiosk-based VFB systems, adapting several of the minigames to the new explorable VFB world designed for the iPad-based VFB system. I also briefly worked on early prototypes of the watch companion app that was in development as I was graduating. This was an idea my professor and I had talked about for a long time. The watch app would allow children to take their VFB with them on walks, which we thought would help foster their bond. 
 
-Header: Overall Study Statistics?
-
-Insert discussion and chart for overview of participant data across all of the VFB studies
 
 For, more detailed information on each of our VFB iterations, please use the buttons below to navigate to the desired page. 
 
