@@ -32,9 +32,9 @@ Given our team size, I performed many tasks for the Virtual Fitness Buddy (VFB) 
 - On-site/Field Consultant
 - Tech Support
 
-TODO navigations buttons here too???
+<!--- TODO navigations buttons here too???
 
-TODO: add subheaders for each of the roles above?? with links in the above list to these subsections with even more info than is contained in the paragraphs below? Markdown headings to autogenerate list?
+TODO: add subheaders for each of the roles above?? with links in the above list to these subsections with even more info than is contained in the paragraphs below? Markdown headings to autogenerate list? --->
 
 Additional information regarding these roles are enumerated in the following sections.
 
@@ -241,6 +241,7 @@ Additional information regarding these roles are enumerated in the following sec
 
 Expand on the list above with what I did for each role so folks know what they're getting when hiring me for these roles. Don't forget the buzzwords like SQL, etc
 
+<!---
 For this project, my primary focus was designing, programming, and testing the VFB Unity3D application itself, which included the script architecture, user interfaces, world layout, minigame implementation, data formatting and processing, and input control systems. I even dabbled with basic art and audio design. Basically, if you see it in the game, I more than likely had my hand in it. Additionally, I helped to design our second kiosk in terms of testing the potential new hardware and hardware upgrades for feasibility and assembly. Lastly, while we largely had two developers for these apps, I did lead a team of undergrads consisting of both programmers and artists for some time.
 
 In terms of the overall study, I had additional responsibilites while working with our interdisciplinary team. Since I was one of the primary developers, I was tasked with system troubleshooting both remotely and on-site once our systems were deployed in the field, communicating with site directors for any issues or pain points that they noticed. I also was a primary tech support when a parent and/or child had any issues with data entry or PA trackers, walking parents through tracker setup when necessary. For our statisticians, I aided in gathering system and application data, getting the desired data into a more readily processible format. For our psychologists and kinesiologists, I translated study goals into actionable application elements. Lastly, I both designed the program to perform data analysis and analyzed gameplay metrics, looking for information on what to adjust for future versions of the VFB system.  
@@ -249,7 +250,7 @@ Header: Overall Study Statistics? or maybe something like additional study info?
 
 Insert discussion and chart for overview of participant data across all of the VFB studies
 
-Header: ??? System Overview --> change to
+Header: ??? System Overview
 
 insert the kiosk, ipad, and headset pictures here? or break them up between paragraphs? which looks better
 
@@ -292,7 +293,7 @@ About me and "cv" pages? one click link on how to make me stand out as a good ca
 # Job Win Notes
 
 - ???
-- win is one sentence to impress someone who wants to hire you
+- win is one sentence to impress someone who wants to hire you --->
 
 
 

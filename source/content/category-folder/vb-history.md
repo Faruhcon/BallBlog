@@ -8,7 +8,9 @@ title: Virtual Buddy Dev History
 # VxB Timeline
 </div>
 
-TODO: generate timeline image
+COMING SOON
+
+<!--- TODO: generate timeline image 
 
 TODO: add subsections for VB-F&V, VFB-C, VSB-M, VFB-A, VFB-H, VFB-I(?)
 
@@ -50,4 +52,4 @@ learned and grew from the older projects and also vb-f&v and vsb-m, which will b
 
 something something (on the specific page for it): tried to have the physical fitness go down but we were too harsh on it and for the sake of the study, opted to remove this feature as we did not have time to properly test it in the lab before the next iterations
 
-vb-f&v offshoot/spinoff of VFB projects
+vb-f&v offshoot/spinoff of VFB projects --->
