@@ -178,6 +178,9 @@ Additional information regarding these roles are enumerated in the following sec
 - PA rewards split -- All PA rewarded but goals earn points (study target)
 - show upcoming unlocks as additional incentive 
 
+
+- TODO: Avatar 180 rotation - really helped kids more readily pick up the system, basically as their rl hand moved forward, their virtual hand did too (vs mirrored approach)
+
 ### Hardware Designer
 
 - TODO: what to carry over from other sections?
