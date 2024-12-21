@@ -185,7 +185,6 @@ Additional information regarding these roles are enumerated in the following sec
 - more coming soon
 
 
-<!---
 ### Game Designer
 
 - Overlap with UX
@@ -289,7 +288,7 @@ Additional information regarding these roles are enumerated in the following sec
 - Fitbit setup
 - Web troubles
 - kiosk troubles
-- fitbit tracking troubles --->
+- fitbit tracking troubles 
 
 <!---
 Expand on the list above with what I did for each role so folks know what they're getting when hiring me for these roles. Don't forget the buzzwords like SQL, etc
