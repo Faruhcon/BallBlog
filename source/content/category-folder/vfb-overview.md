@@ -40,34 +40,152 @@ Additional information regarding these roles are enumerated in the following sec
 
 ### Programmer
 
-- designed intuitive interface for children that required 0 training
-- designed interface that stayed working with no problems for 5 years** maybe hardware
-- Unity3D application scripting was largely me (C#)
-- iOS, VR, AR, and PC development
-- SQL to interact with database and query it
-- Python/Pandas for data analysis and visualizations
-- Minigames
-- user controls
-- VB behavior (state machine)
-- game loop
-- user input processing
-- UI
-- retrieving/uploading/processing data
-- Game script architecture design
-  - MVC and MVVM approaches
-  - make user controls independent of agent behavior
-    - easier to swap out hardware without having to change a million different broken scripts
-    - easier to swap other stuff too
-- Worked with navigation meshes
-- Data architecture design (JSON)
-- Audio execution and looping
-- Terrain design and some optimizing
-- Some shader knowledge
-- Basic database interactions
-- Remote viewing/updating
-- Created and mainted both control and treatment applications
+- From UI/UX Designer
+  - TODO: add input systems
+    - User Controls
+      - User input processing
+  - TODO: add aids
+  - TODO: add various ui
+  - TODO: add login mechanisms
+  - TODO: add data syncing evolution
+- TODO: anymore things to add here???
+- Languages and Platforms*
+  - Unity3D application scripting was largely me (C#)*
+  - iOS, VR, AR, and PC development*
+  - SQL to interact with database and query it*
+  - Python/Pandas for data analysis and visualizations*
+- Minigame Related*
+  - Minigames*
+    - VB-F&V
+      - Checking artery elasticity
+      - Checking how easy it is to pump heart
+    - VFB-A
+      - Fetch
+      - Slingshot*
+      - Volleyball
+      - Soccer
+      - More??
+    - VFB-H
+      - Fetch
+      - Agility
+      - Bark-It
+      - Basketball
+      - Frisbee*
+      - Soccer
+      - Volleyball
+- Scene Designed Related (?)
+  - Audio execution and looping
+  - Terrain design and some optimizing
+  - Some shader knowledge
+  - Worked with navigation meshes
+- Virtual Buddy Related*
+  - VB behavior (state machine)
+- Architecure*
+  - Game script architecture design*
+    - MVC and MVVM approaches*
+      - make user controls independent of agent behavior*
+        - easier to swap out hardware without having to change a million different broken scripts*
+        - easier to swap other stuff too*
+  - Data architecture design (JSON)*
+- more coming soon 
+
+- Unsorted
+  - designed intuitive interface for children that required 0 training
+  - designed interface that stayed working with no problems for 5 years** maybe hardware
+  - game loop
+  - retrieving/uploading/processing data
+  - Basic database interactions
+  - Remote viewing/updating
+  - Created and maintained both control and treatment applications
+  
+### Game Designer
+
+- TODO: What to add here from Programmer?
+- TODO: What to add here from UI/UX Designer?
+
+- more coming soon
+
+### UI/UX Designer
+
+- Input Systems
+  - Added intuitive touchscreen selection to the existing motion control gameplay (VSB, VFB-A)*
+  - Haptics for F&V (novel interaction system with feedback?)
+  - Implemented common touchscreen app input mechanisms 
+    - Virtual Joysticks (VFB-H)
+  - Often had multiple ways to trigger something
+    - ex: menu selection and voice activation
+  - Implemented novel mid-air interaction gestures*
+    - Grab*
+    - Trick Gestures
+  - Voice control as easter egg because of environmental noise levels and mic location
+  - Adapted the motion-based minigame controls to fully touchscreen based controls for the iPad iteration (VFB-H)
+    - broadened what we could do (in regards to the games we could design as we had a "physical button" now for user intent indication which we did not have before)
+  - Updated interaction systems over time based on user feedback
+  - Software
+    - 3D Keyboard (VFB-A Pilot)
+    - Shop Menu 
+    - Inventory Menu
+    - Virtual Joysticks (VFB-H)
+    - Shot Zone for trick gestures and throwing (VFB-A C2)
+    - VFB-C cursor mode
+    - Grab and other gestures
+- Aids (what kind???)
+  - power meter/other meters to have visual representation of otherwise ambiguous measurements/values
+  - navigation arrow to show where to go
+  - multiple ways to let user know that they are in the correct location
+    - audio chime
+    - particle effect
+    - visual cue
+      - spot on ground
+      - color change
+      - guide arrow disappears
+  - Agility course route indicators
+- Kiosk-related
+  - kiosk design -- low maintenance by staff ("self-contained")*
+  - App relaunch software in case of crash*
+  - designed interface in case things went wrong with instructions on how to fix
+- Environmental considerations*
+  - safety*
+  - convenience*
+  - voice
+- Various UI
+  - Inventory
+  - Trophy System
+  - VFB-H Popup menus
+  - VFB-H in world menus for minigames
+  - Messaging?
+  - Leaderboards
+    - both overall and recent so folks behind at first would be less discouraged
+    - utilized to encourage competitive folks
+    - both for PA and scores
+    - for individual, family when applicable, site when application, and overall study if opted in
+  - virtual kiosks scalable to accommodate more game modes
+  - Buddy naming and customizations*
+- Login Mechanisms*
+- Translate study goals into actionable game designs
+- Real world concepts built into minigame mechanics*
+- Data syncing evolution
+  - sync on login so immediate feedback
+  - became problem because of extended study duration so had more data to sync which then prevented folks from logging in
+  - sync in background instead
+    - still had issues with extended syncing times
+  - sync with different application so as to not obstruct login
+- family review fail
+  - idea was to try to get kids to bug parents to go over what they had done, reinforcing the study goals
+  - failed to achieve this and then kids were demotivated because they could not see the impact of their physical activity until review happened
+  - plan would be to change this and maybe add something like a multiplier to points for completing family review
+    - similar logic to VFB health and point split for PA and meeting goals
+- PA rewards split -- All PA rewarded but goals earn points (study target)
+- show upcoming unlocks as additional incentive 
+
+### Hardware Designer
+
+- TODO: what to carry over from other sections?
+
+- more coming soon
 
 
+<!---
 ### Game Designer
 
 - Overlap with UX
@@ -79,7 +197,7 @@ Additional information regarding these roles are enumerated in the following sec
   - built in reward for meeting daily PA goals
   - incentive for setting and meeting higher PA goals
   - also quick visual feedback on meeting PA goals
-- Bones as decoration --> dog themed
+- Bones as decoration -- dog themed
 - Dog house as VFB starting point
   - give consistent place to start
   - VFB doesn't just pop into existence
@@ -102,81 +220,14 @@ Additional information regarding these roles are enumerated in the following sec
 - Tweaking game mechanics to better fit time constraints
 - VSB needed better tutorial where the VSB was more involved and interactive
 
-### UI/UX Designer
-
-- designed interface in case things went wrong with instructions on how to fix
-- VFB-C cursor mode
-- Shot zones? (gestures/throwing)
-- Multiple ways to trigger something
-  - Optional voice activation
-  - or menu selection
-- Touchscreen select with motion controls --> more intuitive
-- 3D Keyboard
-- Shop Menu
-- Inventory and Inventory Menu
-- Blaster?
-- Trophy System
-- Login Mechanisms
-- VFB-H Popup menus
-- VFB-H in world menus for minigames
-- Buddy naming and customizations
-- Grab and other gestures
-- Virtual Joysticks
-- Updated interaction systems based on user feedback
-- power meter/other meters to have visual representation of otherwise ambiguous measurements/values
-- navigation arrow to show where to go
-- multiple ways to let user know that they are in the correct location
-  - audio chime
-  - particle effect
-  - visual cue
-    - spot on ground
-    - color change
-    - guide arrow disappears
-- real world concepts --> baked into minigame mechanics
-- kiosk design --> low maintenance by staff ("self-contained")
-- Agility course route indicators
-- App relaunch software in case of crash
-- audio and text for CMOA in case user without parents and cannot read (well)
-- haptics for F&V
-- Leverage common application mechanics (virtual joysticks)
-- Messaging?
-- Environmental considerations --> safety, convenience, voice
-- Voice control as easter egg because of environmental noise levels and mic location
-- Changing lever hero from auto balance to balance when placed
-  - less convenient but enforced the learning mechanics more
-- Trajectory for slingshot shown --> higher difficulties would be removed or shortened
-- Data syncing evolution
-  - sync on login so immediate feedback
-  - became problem because of extended study duration so had more data to sync which then prevented folks from logging in
-  - sync in background instead
-    - still had issues with extended syncing times
-  - sync with different application so as to not obstruct login
-- family review fail
-  - idea was to try to get kids to bug parents to go over what they had done, reinforcing the study goals
-  - failed to achieve this and then kids were demotivated because they could not see the impact of their physical activity until review happened
-  - plan would be to change this and maybe add something like a multiplier to points for completing family review
-    - similar logic to VFB health and point split for PA and meeting goals
-- PA rewards split --> All PA rewarded but goals earn points (study target)
-- Leaderboards
-  - both overall and recent so folks behind at first would be less discouraged
-  - utilized to encourage competitive folks
-  - both for PA and scores
-  - for individual, family when applicable, site when application, and overall study if opted in
-- virtual kiosks scalable to accommodate more game modes
-- translating study goals into actionable game designs
-- lever hero rotate arrows as visual aids
-- Adapting motion/kinect minigames to iPad controls
-  - broadened what we could do
-- show upcoming unlocks as additional incentive 
-
 ### Hardware Designer
 
 - Based on study goals and environmental constraints
-- Hide cabling --> to help avoid hardware failures
+- Hide cabling -- to help avoid hardware failures
 - Mobile to make easier to get out of the way for school day
 - Wood and metal design so wireless signals are less blocked 
-- Kiosk not practical in home --> iPad instead
-- Touchscreen >>> mid air interactions
+- Kiosk not practical in home -- iPad instead
+- Touchscreen much better than mid air interactions
   - intuitive
   - familiarity
   - ease of use
@@ -187,7 +238,7 @@ Additional information regarding these roles are enumerated in the following sec
   - Novint Falcon fail (VB-F&V)
 - Able to accommodate a lot of throughput
 - VSB ran years without fail except for early hardware hiccups
-  - graphics card fail *2 (faulty? --> overheat)
+  - graphics card fail *2 (faulty? -- overheat)
   - twist cord break
 - Fail: VFB-A could not auto on TV because hardware limitation was not considered while purchases were being made for kiosk
 - Reduce points of failure
@@ -198,6 +249,7 @@ Additional information regarding these roles are enumerated in the following sec
 - Minimize unwanted use of hardware
   - ex: watch youtube on pc
   - solution: hide keyboard and mouse inside locked kiosk 
+
 
 ### QA
 
@@ -237,11 +289,11 @@ Additional information regarding these roles are enumerated in the following sec
 - Fitbit setup
 - Web troubles
 - kiosk troubles
-- fitbit tracking troubles
-
-Expand on the list above with what I did for each role so folks know what they're getting when hiring me for these roles. Don't forget the buzzwords like SQL, etc
+- fitbit tracking troubles --->
 
 <!---
+Expand on the list above with what I did for each role so folks know what they're getting when hiring me for these roles. Don't forget the buzzwords like SQL, etc
+
 For this project, my primary focus was designing, programming, and testing the VFB Unity3D application itself, which included the script architecture, user interfaces, world layout, minigame implementation, data formatting and processing, and input control systems. I even dabbled with basic art and audio design. Basically, if you see it in the game, I more than likely had my hand in it. Additionally, I helped to design our second kiosk in terms of testing the potential new hardware and hardware upgrades for feasibility and assembly. Lastly, while we largely had two developers for these apps, I did lead a team of undergrads consisting of both programmers and artists for some time.
 
 In terms of the overall study, I had additional responsibilites while working with our interdisciplinary team. Since I was one of the primary developers, I was tasked with system troubleshooting both remotely and on-site once our systems were deployed in the field, communicating with site directors for any issues or pain points that they noticed. I also was a primary tech support when a parent and/or child had any issues with data entry or PA trackers, walking parents through tracker setup when necessary. For our statisticians, I aided in gathering system and application data, getting the desired data into a more readily processible format. For our psychologists and kinesiologists, I translated study goals into actionable application elements. Lastly, I both designed the program to perform data analysis and analyzed gameplay metrics, looking for information on what to adjust for future versions of the VFB system.  
