@@ -11,12 +11,14 @@ title: Virtual Fitness Buddy Overview
 
 <img src="vfbH_frisbee1.png" width="600" height="400"> 
 
+<span class="caption"> A VFB something something TODO: finish writing and center</span>
+
 TODO: Center and caption, resize?
 is there already a concept of figure or do I need to make one?
 
-I was a core developer for the Virtual Fitness Buddy (VFB) system and its prototypes for nearly a decade, ending with my graduation from the University of Georgia in Fall 2023. The guiding priciple for the VFB system is to encourage children to engage in healthier physical activity (PA) habits. This was achieved using a customizable virtual dog and a PA tracker. As a child engaged in PA, their VFB could play for longer and could unlock new minigames and tricks to perform. As that child met their daily PA goals, they would earn points to purchase VFB and toy customizations. This distinction was made so that all PA would be rewarded in becoming healthier while still encouraging the child to set realistic PA goals without penalizing them from new playable content. During this time, we grew this system from our pilot studies at a single summer camp site with xxx children total to yyy children across zzz sites utilizing a mulimillion dollar grant.
+I was a core developer for the Virtual Fitness Buddy (VFB) system and its prototypes for nearly a decade, ending with my graduation from the University of Georgia in Fall 2023. The guiding principle for the VFB system is to encourage children to engage in healthier physical activity (PA) habits. This was achieved using a customizable virtual dog and a PA tracker. As a child engaged in PA, their VFB could play for longer and could unlock new minigames and tricks to perform. As that child met their daily PA goals, they would earn points to purchase VFB and toy customizations. This distinction was made so that all PA would be rewarded in becoming healthier while still encouraging the child to set realistic PA goals without penalizing them from new playable content. During this time, we grew this system from our pilot studies at a single summer camp site with xxx children total to yyy children across zzz sites utilizing a multimillion dollar grant.
 
-TODO navigations buttons here too or just below?
+TODO navigation buttons here too or just below?
 
 ## My Responsibilities
 
@@ -29,16 +31,95 @@ Given our team size, I performed many tasks for the Virtual Fitness Buddy (VFB) 
 - QA
 - Development Team Lead
 - Data Engineer
-- On-site/Field Consultant
+- Field Consultant
 - Tech Support
 
-<!--- TODO navigations buttons here too???
+<!--- TODO navigation buttons here too???
 
 TODO: add subheaders for each of the roles above?? with links in the above list to these subsections with even more info than is contained in the paragraphs below? Markdown headings to autogenerate list? --->
 
 Additional information regarding these roles are enumerated in the following sections.
 
+<!--- final-ish bullet points --->
+- Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by xxx ((thousands of)) children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). TODO: add numbers
+- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
+
+<!--- Non-Erin Approved (lol) --->
+- Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
+- Architected application using MVC & MVVM design patterns to decouple modules for scaling the project.
+- Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).
+  - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability 
+
+<!--- notes --->
+- I designed a way to be intentional about interactions in a system where there are no physical buttons where expression is free form.
+- Intuitive to children
+- Designed motion interfaces prior to the advent of consumer virtual reality headsets (2015 Oculus CV1 and 2019 for Meta Quest)
+  - I was researching what was effective prior to there were widespread solutions for midair interactions
+- Hardware design limitations factor - do not have something that could be carried away or extended beyond physical limitations (tablet cable)
+  - This was done prior to the advent of consumer virtual reality headsets, such as the Oculus CV1 in 2015 and Meta Quest in 2019.
+- Originally this was designed for a large public display system but was then converted to a handheld iPad based system.
+- something something in designing this system.... next bullet point
+- I was aware of considering ways of targeting personally identifiable information, included facial recognition and body motions.
+  - Didn't want to identify face or who just that **someone** was there
+- Safeguarded child privacy by avoiding capturing and storing personally identifiable information, such as facial recognition.
+- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
+  - ex: VSB needed to work in a smaller physical space and needed to be aware of a ton of kids running around.
+  - ex: too loud for voice activation
+  - here's the level of destruction and resistance that we were working with
+  - VSB ran for 5 years with only issues in first few months
+  - VFB ran with minimal site staff assistance across xxx sites for xxx months.
+    - Designed robust systems that ran for several years across several sites
+- Designed robust systems that ran for several years across several sites TODO: FIX IT to sound better and move to final-ish
+- TODO: languages and platforms
+- TODO: architecture
+- Was able to maximize developed content by using as easter eggs to encourage play and discovery and reward intrinsic sense of discovery, ask questions and explore limits of system
+  - ex: voice activation
+- quickly able to design and test prototypes and weed out "fails"
+- user software feedback mechanisms ("aids")
+
+Architecture
+
+- Combined MVC and MVVM design patterns into MVCVM pattern to support the ability to update the incoming data and hardware with minimal disruptions to existing scripts.
+  - Known design patterns
+  - easier to migrate from pc/kinect to ios
+  - chose off the shelf hardware and able to implement architecture evolved we were able to introduce new hardware with minimal rework -- didn't spend grant money on custom hardware
+    - real world problem solver in lieu of laboratory/controlled environment problem solver
+    - Architecture used off the shelf hardware
+    - Translated "well" from laboratory setting to real world/field setting
+    - lessons learned: coupling login mechanism/ID to PA data syncing was a bad idea
+      - Coupling PA data syncing with login/the ability to interact with the treatment application was a terrible idea.
+- Utilized JSON for data storage
+
+Minigames
+
+- Designed to mimic real world tasks/games
+- Designs limited by hardware choices (instead of choosing hardware for that best fits games)
+  - chose off the shelf hardware and able to implement architecture evolved we were able to introduce new hardware with minimal rework
+- Designed to support smaller play sessions so many children could play per day (limited time)
+  - Time limits on games and on overall playtime
+  - Overall playtime increased as pet became healthier
+- Designed to continuously improve score as VFB became healthier (faster), making it easier to achieve higher scores in order to reinforce the study aim of encouraging healthier exercise habits
+  - Agility: More time remaining = higher score; thus faster buddy = less commute time = less time used = higher score
+  - Basketball, Soccer: Returning ball faster thus increasing the max possible shots in time limit
+    - Soccer: Originally had VFB blocking but this meant it would become harder to score as pet became healthier
+  - Frisbee: Returning frisbee faster thus increasing max possible throws in time limit and reduced the time target value decreased (it decreased over time)
+  - Volleyball: Return serves faster and thus increasing the max possible streak in time limit
+  - BarkIt: unfortunately, became harder as pet learned new tricks, increasing the variety of tricks that needed to be memorized 
+    - Our planned fix consisted of...
+
+VSB
+- Designed interface for individuals who may be unable to read (young children)
+- Minigames:
+  - Lever Hero:
+  - Slingshot:
+
 ### Programmer
+
+- Languages: C#, Python, SQL
+- Major Libraries: PANDAS, Seaborn, Google Speech-to-Text, Oculus/Meta VR (Virtual Reality), HTC Vive VR (TODO: what's the name??), Microsoft Mixed Reality (TODO: what's the name), Apple iOS/iPadOS AR (Augmented Reality), Microsoft Kinect, Fitbit
+  - TODO: combine the VR stuff together instead of separate??
+- Game Engine: Unity3D
+- Platforms: PC, Android, iOS, VR, and AR
 
 - From UI/UX Designer
   - TODO: add input systems
@@ -51,7 +132,7 @@ Additional information regarding these roles are enumerated in the following sec
 - TODO: anymore things to add here???
 - Languages and Platforms*
   - Unity3D application scripting was largely me (C#)*
-  - iOS, VR, AR, and PC development*
+  - iOS, Android, VR, AR, and PC development*
   - SQL to interact with database and query it*
   - Python/Pandas for data analysis and visualizations*
 - Minigame Related*
@@ -80,7 +161,7 @@ Additional information regarding these roles are enumerated in the following sec
   - Worked with navigation meshes
 - Virtual Buddy Related*
   - VB behavior (state machine)
-- Architecure*
+- Architecture*
   - Game script architecture design*
     - MVC and MVVM approaches*
       - make user controls independent of agent behavior*
@@ -279,7 +360,39 @@ Additional information regarding these roles are enumerated in the following sec
 - Both for quick idea analysis and deeper analysis
 - Quick for game to down/upload and process
 
-### On-site/Field Consultant
+- list out anything you know or did with database
+  - know or did with data structure or tables, such as is this concept encapsulated by one or more table, conforms to third normal form
+  - put pandas here
+  - json data structure
+  - data dictionary - here is dictionary of what these words mean, what would analyst need to know without talking to you again
+  - did to prepare data to be ready for use by others
+  - how did you capture the data, architectural
+    - talk about how data went out and into the app
+    - extract (from database), transform (into usable form), load (into app and use it) 
+    - make sure to have acronym ETL on page because buzz word
+    - also buzzword exploratory data analysis
+
+- Architecture*
+  - Game script architecture design*
+    - MVC and MVVM approaches* hey mvcvm model is a thing too
+      - MVCVM is probably the closest thing to what we did
+      - make user controls independent of agent behavior*
+        - easier to swap out hardware without having to change a million different broken scripts*
+        - easier to swap other stuff too*
+      - make data manipulation independent of the view displaying it
+      - Basically decouple these things and only update the thing converting the info to be utilized by model and view and controller
+        - ex: swapping from kinect to iPad meant that the only pre-existing script that should need upgrading would be the one translating the info from the model to the view and controller (and vice versa)
+          - Basically don't update the thing manipulating (Controller), displaying (View), or holding the data (Model)
+          - ONLY update the thing(s) translating the data between MVC (ViewModel)
+          - ...Obviously and iPad vs Kinect would be different controllers but they can be designed to accept and manipulate the same info from the VM (and thus the Model) and to utilize the same functions to update the View
+          - If Model changes, need to update VM 
+            - Unless there are NEW data to display or manipulate
+          - If View changes, need to update VM but not M and C
+            - Unless there are NEW displayed value(s) to manipulate
+          - If Controller changes, need to update VM
+  - Data architecture design (JSON)*
+
+### Field Consultant (and Tech Support??)
 
 - would go out and visit sites in person
   - to observe and record how folks used systems
