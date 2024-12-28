@@ -9,9 +9,12 @@ title: Virtual Fitness Buddy Overview
 
 </div>
 
-<img src="vfbH_frisbee1.png" width="600" height="400"> 
+<figure>
+  <img class=scale-w100 src="vfbH_frisbee1.png">
+  <figcaption>A VFB excitedly awaiting frisbee throw. TODO: sound good?
 
-<span class="caption"> A VFB something something TODO: finish writing and center</span>
+  TODO: is there a way to make reference to figure?</figcaption>
+</figure>
 
 TODO: Center and caption, resize?
 is there already a concept of figure or do I need to make one?

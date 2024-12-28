@@ -13,11 +13,40 @@
     background-color: crimson;
 }
 
-.center-fig{
-
-
-}
-
 .vfb-subheader {
     text-align:center
 }
+
+//Figure related
+figure{
+    float:center;
+    width: 75%;
+    text-align: center;
+    text-indent: 0;
+    //font-size: small;
+    font-style: italic;
+    //border: thin gray solid;
+    margin: 0.5em;
+    padding: 0.5em;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+img.scale-w100{
+    width: 100%;
+}
+
+img.scale-h50{
+    height:50%
+}
+
+img.scale-h75{
+    height:75%
+}
+
+img.scale-h100{
+    height:100%
+}
+
+
+
