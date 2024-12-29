@@ -7,6 +7,7 @@
     border-radius: 5px;
     margin-top: 50px;
     padding: 25px;
+    text-align: center;
 }
 
 #demoVFB {
@@ -34,6 +35,10 @@ figure{
 
 img.scale-w100{
     width: 100%;
+}
+
+img.scale-h25{
+    height:25%
 }
 
 img.scale-h50{

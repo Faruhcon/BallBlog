@@ -1,17 +1,22 @@
 ---
 title: Virtual STEM Buddy
 #draft: true
-#issueNo: 1
 ---
 
 Disclaimer: The following was initially written as part of my dissertation, which was submitted as partial fulfillment of the requirements for my degree at the University of Georgia.[^diss]
 
+TODO: add links to other pages
+
 <div class="article-header">
 
-# What is Virtual STEM Buddy?
+# What is the Virtual STEM Buddy?
+
+TODO: make the kiosk the background??
 </div>
 
 TODO: how do figure references? Pandoc?
+
+TODO: link to VSB-C page
 
 <!---
 \chapter{Museum-Based Virtual Buddy System}
@@ -22,12 +27,12 @@ The Virtual STEM (Science, Technology, Engineering, and Mathematics) Buddy syste
 
 ## Hardware
 
-The VSB-M system utilized a kiosk consisting of a large-screen TV and Microsoft Kinect for Windows (see Figure 1)<!--- TODO: \ref{fig:vsb-kiosk} --->, allowing us to track a child’s real-world movements. These movements were then used to interact with the virtual world. Given our troubles with hover selection from the Virtual Fitness Buddy Camp-based system (VFB-C)[^vfb-c1], we needed to implement a different selection interface for this new system so that our participants could easily customize their VSB and select which minigame to play. 
+The VSB-M system utilized a kiosk consisting of a large-screen TV and Microsoft Kinect for Windows (see Figure 1) <!--- TODO: \ref{fig:vsb-kiosk} --->, allowing us to track a child’s real-world movements. These movements were then used to interact with the virtual world. Given our troubles with hover selection from the Virtual Fitness Buddy Camp-based system (VFB-C)[^vfb-c1], we needed to implement a different selection interface for this new system so that our participants could easily customize their VSB and select which minigame to play. 
 
 <!--- TODO: \ref{fig:vsb-kiosk} --->
 <figure>
   <img class=scale-w100 src="vsb_kiosk.png">
-  <figcaption>Figure 1: The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
+  <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
 </figure>
 
 Given the prevalence of smartphones and touchscreens being used for other CMOA exhibits, we opted to include an Android tablet alongside this kiosk as a likely familiar interface. In the field, we found that participants were able to learn and use this new touch interface much more easily than the hover selection interface. However, we did have an issue where the tablet and its encasing were rotated in such a way that snapped the tablet's charging cable. This was quickly addressed by restricting the movement of the tablet and there was no subsequent incident of the charge cable breaking for the duration of the installation of the VSB-M kiosk. We opted to have the tablet and kiosk computer communicate via bluetooth. Fortunately, we did not experience any issues with this communication stream in the field.
@@ -45,7 +50,7 @@ With all of this in mind, we designed a "grab" mechanic that seemed to work well
 <!---TODO: (see Figure ~\ref{fig:vsb-buddies}) --->
 <figure>
   <img class=scale-h75 src="vsb_buddy_creation.png">    <img class=scale-h75 src="vsb_buddies.png">
-  <figcaption>Figure 2: The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
+  <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
 </figure>
 
 The VSB was designed to be a personalizable buddy which was intended to act both as a motivating buddy and as a teacher. It would help children and their parents understand the underlying STEM concepts of each minigame while encouraging them as they solved each problem, cheering for them from the sidelines. Since part of our intended audience may not be able to read, these VSBs utilized both text and audio to convey both how to play each minigame and facts about the underlying STEM concepts. Each component of the VSB could be customized prior to starting a minigame, allowing children to design their own unique VSB (see Figure 2) <!--- TODO: ~\ref{fig:vsb-buddies}--->. If a child did not wish to customize the VSB, the system would simply use the previous VSB. Each VSB could be saved using a randomized, unique code which could be texted to a parent. This allowed a child to bring back their personalized VSB during a return visit to the exhibit. An area of interest was also chosen as part of the VSB personalization. This area of interest was used to customize the minigames, where players would complete an image based on the area of interest as they progressed in the minigames. The goal with the personalizable VSB and area of interest was to increase player investment while interacting with the system. It was intended to feel like their own experience and their personal buddy, which in turn was intended to gain their interest while playing the minigames. 
@@ -61,7 +66,7 @@ We designed two motion-based minigames, where the child would use their real-wor
 <!---TODO: (see Figure ~\ref{fig:vsb-skeleton})-->
 <figure>
   <img class=scale-h50 src="vsb_skeleton.png">
-  <figcaption>Figure 3: The skeleton avatar representing the player from the VSB system.</figcaption>
+  <figcaption>Figure 3. The skeleton avatar representing the player from the VSB system.</figcaption>
 </figure>
 
 Additionally, we designed the area of interest system with the goal of the virtual world to showing growth with them as participants became better at playing these minigames. For example, this would have included displaying the images they completed along the virtual wall. The goal of this area of interest was to get participants to become more invested in the system as it was tailored to them and their experiences. It would change based upon their work and progress. This system would have complemented the one where their VSB tailored their experience based upon their interests and game performance. For the purposes of this study, the area of interest only impacted what image participants completed as they played the minigames. 
@@ -80,7 +85,7 @@ The goal of both of these minigames was to be entertaining while providing infor
 TODO: same line? hq images where?
 <figure>
   <img class=scale-h100 src="vsb_leverHero.png">   <img class=scale-h100 src="vsb_slingshot.png">
-  <figcaption>Figure 4: The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
+  <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
     \centering\includegraphics[width=0.5\textwidth]{figures/VSB-M/vsb\_leverHero\_example.png}\includegraphics[width=0.5\textwidth]{figures/VSB-M/vsb\_slingshot\_example.png}
@@ -95,7 +100,7 @@ Our second game, Slingshot, was designed around trajectories and how to use them
 <!-- TODO: (see Figure ~\ref{fig:vsb-slingshot}) --->
 <figure>
   <img class=scale-w100 src="vsb_slingshot_shot.png">
-  <figcaption>Figure 5: A player attempting to shoot a block during the slingshot minigame from the VSB-M system.</figcaption>
+  <figcaption>Figure 5. A player attempting to shoot a block during the slingshot minigame from the VSB-M system.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
     \centering\includegraphics[width=0.8\textwidth]{figures/VSB-M/vsb\_slingshot\_shot\_example.png}
@@ -112,7 +117,7 @@ For future iterations, we conceptualized a tutorial system where a participant's
 <!--- TODO: (see Figure ~\ref{fig:vsb-stats}) --->
 <figure>
   <img class=scale-w100 src="vsb_resultsTable.png">
-  <figcaption>Figure 6: Play statistics for the VSB-M minigames after each system upgrade.</figcaption>
+  <figcaption>Figure 6. Play statistics for the VSB-M minigames after each system upgrade.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
     \centering\includegraphics[width=0.8\textwidth]{figures/VSB-M/vsb\_resultsTable\_example.png}
