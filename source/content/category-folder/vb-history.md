@@ -1,14 +1,68 @@
 ---
 title: Virtual Buddy Dev History
-#issueNo: 1
+#draft: true
 ---
 
 <div class="article-header">
 
-# VxB Timeline
+# Virtual Buddy Development History
 </div>
 
 COMING SOON
+
+TODO: intro
+
+During my studies, several of my projects focus on utilizing virtual buddies to motivate children to achieve some goal, such as learning STEM concepts or engaging in healthier physical activity habits.These projects were built iteratively, learning and building upon the earlier ones. The goal of this page is to provide an overview of some of these major changes and why they were made. Further details on these projects can be found on their individual pages.
+
+* TODO: timeline image like a usual timeline but have boxes that include the info for each project in boxes
+* TODO: Two evolution maps: one for hardware and another for software
+  * Maybe do smaller ones for each subsection showing the evolution for each category?
+
+
+* TODO: timeline image
+* TODO: evolution map - one master or several sub-maps?
+
+
+## Hardware Evolution
+
+TODO: mini intro?
+
+* Kiosk
+
+## Software Evolution
+
+TODO: mini intro?
+
+### Controls and Input
+
+* Controls
+* Choice Selection
+* Trick Activation
+* Trick Execution
+
+### Virtual Buddy-Related
+
+* VB Customize
+* Health Changes
+* Impacts VB Health
+
+### Login and Data
+
+* Data Sync
+* Login Method
+* Earning Points
+* Unlocks
+
+### Activity-Related
+
+* Activities
+* Minigame Mechanics
+
+### Social Elements
+
+* Parent Messaging
+* Leaderboards
+
 
 <!--- TODO: generate timeline image 
 

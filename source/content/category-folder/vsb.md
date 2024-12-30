@@ -35,6 +35,11 @@ The VSB-M system utilized a kiosk consisting of a large-screen TV and Microsoft 
   <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
 </figure>
 
+<figure>
+  <img style src="vsb_kiosk.png">
+  <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
+</figure>
+
 Given the prevalence of smartphones and touchscreens being used for other CMOA exhibits, we opted to include an Android tablet alongside this kiosk as a likely familiar interface. In the field, we found that participants were able to learn and use this new touch interface much more easily than the hover selection interface. However, we did have an issue where the tablet and its encasing were rotated in such a way that snapped the tablet's charging cable. This was quickly addressed by restricting the movement of the tablet and there was no subsequent incident of the charge cable breaking for the duration of the installation of the VSB-M kiosk. We opted to have the tablet and kiosk computer communicate via bluetooth. Fortunately, we did not experience any issues with this communication stream in the field.
 
 This kiosk was largely self-maintained and seldom needed further assistance from museum staff beyond turning the kiosk on in the morning and off at the end of the day. We had the kiosk set up such that once the pc, locked behind the wooden doors of the kiosk, was turned on, it automatically logged in and launched the VSB-M app. Similarly, the tablet was locked down to only run the VSB-M app, which could be reset by museum staff by pressing an invisible button several times and entering a passcode. Early in the study, we had an issue where the graphics card in the computer failed twice. The first time, we simply installed a new one, suspecting it might be a faulty graphics card. The second time, we realized that maybe the computer was overheating inside the kiosk as its design did not incorporate openings for ventilation. This was then addressed, and we had no further issues with the computer nor with the graphics card.
