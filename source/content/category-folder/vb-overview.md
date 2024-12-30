@@ -12,11 +12,12 @@ TODO: find the vfb video I made?? should be on youtube
 
 TODO: insert interface pic here?
 
-The Virtual Fitness Buddy Home (VFB-H) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual buddy (a dog). As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system. 
+The Virtual Fitness Buddy Home (VFB-H) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system. 
 
+TODO: add chart for VFB-H stats here
 TODO: add pics for the diff pets and maybe toys?
 
-As part of this app, I designed six different minigames: agility, BarkIt, basketball, frisbee, soccer, and volleyball. See below for more details on these games. I implemented leaderboards that would track their top 3 personal scores in addition to the top 3 scores for their family and across the entire study for each minigame. In addition to these games, children were able to get their VFB to perform tricks using their voice and could play fetch without having to interact with a minigame.
+As part of this app, I designed six different minigames: agility, bark it, basketball, frisbee, soccer, and volleyball. See below for more details on these games. I implemented leaderboards that would track their top 3 personal scores in addition to the top 3 scores for their family and across the entire study for each minigame. In addition to these games, children were able to get their VFB to perform tricks using their voice and could play fetch without having to interact with a minigame.
 
 TODO: minigame "table" with pics and blurbs
 
@@ -38,8 +39,29 @@ In addition to designing and implementing these minigames, I was also responsibl
 
 ## Virtual Fitness Buddy Afterschool
 
+TODO: Similar to VFB-H... mention kiosk and using their bodies to interact
+
+TODO: put leading team here
+
+TODO: add minigame "table" with pics and blurbs
+
+TODO: my responsibilities list: look at prospectus for help
+
 ## Virtual STEM Buddy at Museum
 
-## Virtual Fitness Buddy Summer Camp
+TODO: insert interface pic here
 
-## Virtual Buddy Fruit and Vegetable Summer Camp
+The Virtual STEM Buddy (VFB) Museum exhibit was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy.
+
+TODO: talk about how buddy was customizable, used kinect and large screen tv, which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?, mention using speech to provide instructions because read, mention CMOA
+
+TODO: Add buddy customization pics here
+
+TODO: add minigame "table" with pics and blurbs
+TODO: add results chart??
+
+TODO: my responsibilities list: look at prospectus for help
+
+<!--- TODO: ## Virtual Fitness Buddy Summer Camp
+
+TODO: ## Virtual Buddy Fruit and Vegetable Summer Camp --->
