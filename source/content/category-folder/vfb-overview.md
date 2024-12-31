@@ -9,7 +9,7 @@ title: Virtual Fitness Buddy Overview
 
 </div>
 
-<figure>
+<figure class=img-fig>
   <img class=scale-w100 src="vfbH_frisbee1.png">
   <figcaption>A VFB excitedly awaiting frisbee throw. TODO: sound good?
 

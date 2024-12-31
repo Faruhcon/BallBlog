@@ -19,7 +19,7 @@
 }
 
 //Figure related
-figure{
+figure.img-fig{
     float:center;
     width: 75%;
     text-align: center;
@@ -30,7 +30,7 @@ figure{
     margin: 0.5em;
     padding: 0.5em;
     margin-left: auto;
-    margin-right:auto;
+    margin-right: auto;
 }
 
 img.scale-w25{
@@ -63,6 +63,42 @@ img.scale-h75{
 
 img.scale-h100{
     height:100%
+}
+
+div.mgTable{
+    border: thin gray solid;
+    float: center;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+div.mgTable-pic{
+    width: 60%;
+    padding: 0.5em;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+div.mgTable-list{
+    width: 30%;
+    padding: 0.5em;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+p.mgTable-title{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    //TODO: Remove the padding between list and this header
+}
+
+ul.mgTable{
+    padding-left: 0.5em;
+    text-indent: -0.25em;
 }
 
 

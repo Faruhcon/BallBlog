@@ -30,13 +30,8 @@ The Virtual STEM (Science, Technology, Engineering, and Mathematics) Buddy syste
 The VSB-M system utilized a kiosk consisting of a large-screen TV and Microsoft Kinect for Windows (see Figure 1) <!--- TODO: \ref{fig:vsb-kiosk} --->, allowing us to track a child’s real-world movements. These movements were then used to interact with the virtual world. Given our troubles with hover selection from the Virtual Fitness Buddy Camp-based system (VFB-C)[^vfb-c1], we needed to implement a different selection interface for this new system so that our participants could easily customize their VSB and select which minigame to play. 
 
 <!--- TODO: \ref{fig:vsb-kiosk} --->
-<figure>
+<figure class=img-fig>
   <img class=scale-w100 src="vsb_kiosk.png">
-  <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
-</figure>
-
-<figure>
-  <img style src="vsb_kiosk.png">
   <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
 </figure>
 
@@ -53,8 +48,8 @@ With all of this in mind, we designed a "grab" mechanic that seemed to work well
 ### STEM Buddy
 
 <!---TODO: (see Figure ~\ref{fig:vsb-buddies}) --->
-<figure>
-  <img class=scale-h75 src="vsb_buddy_creation.png">    <img class=scale-h75 src="vsb_buddies.png">
+<figure class=img-fig>
+  <img class=scale-h75 src="vsb_buddy_creation.png"> <img class=scale-h75 src="vsb_buddies.png">
   <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
 </figure>
 
@@ -69,7 +64,7 @@ The larger vision of the buddy was to design a system where they could take thei
 We designed two motion-based minigames, where the child would use their real-world body to interact with the virtual world. This body was displayed as a collection of spheres in the virtual world (see Figure 3) <!--- TODO: ~\ref{fig:vsb-skeleton}-->. Given that we knew the exact amount of space we were able to use at CMOA, we were able to scale the child’s movements to ensure they were able to reach the necessary areas of the virtual world safely. Before designing the games, we decided the STEM concepts that we wanted those minigames to convey. These concepts were then integrated into the primary game mechanics of each game. This integration demonstrated the concept while the VSB explained the concept behind it. 
 
 <!---TODO: (see Figure ~\ref{fig:vsb-skeleton})-->
-<figure>
+<figure class=img-fig>
   <img class=scale-h50 src="vsb_skeleton.png">
   <figcaption>Figure 3. The skeleton avatar representing the player from the VSB system.</figcaption>
 </figure>
@@ -88,7 +83,7 @@ The goal of both of these minigames was to be entertaining while providing infor
 
 <!--- TODO: (see Figure ~\ref{fig:vsb-minigames}) --->
 TODO: same line? hq images where?
-<figure>
+<figure class=img-fig>
   <img class=scale-h100 src="vsb_leverHero.png">   <img class=scale-h100 src="vsb_slingshot.png">
   <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
 </figure>
@@ -103,7 +98,7 @@ TODO: same line? hq images where?
 Our second game, Slingshot, was designed around trajectories and how to use them to hit a target (see Figure 4 (right)) <!--- TODO: ~\ref{fig:vsb-minigames} --->. It used a stationary slingshot that children had to aim with the aid of a visible trajectory based on their relative location and distance from the slingshot. As they hit each target, the block then moved to the background, forming an image similar to Lever Hero. The goal of this game was to complete the image without paint splats obscuring it, meaning the child needed to hit the top or sides of the target block. As mentioned in the lever hero section, we designed a grab technique that allowed the slingshot pouch to snap to a participant's virtual hands as they brought their real-world hands close together. When they were ready to fire the slingshot, they pulled their hands apart to let go of the slingshot pouch (see Figure 5) <!-- TODO: (see Figure ~\ref{fig:vsb-slingshot}) --->. Similar to lever hero, we also designed a system to scale difficulty by gradually reducing the length of the trajectory. This would then require participants to rely on their understanding of trajectories more than an on-screen indicator in order to hit the blocks.
 
 <!-- TODO: (see Figure ~\ref{fig:vsb-slingshot}) --->
-<figure>
+<figure class=img-fig>
   <img class=scale-w100 src="vsb_slingshot_shot.png">
   <figcaption>Figure 5. A player attempting to shoot a block during the slingshot minigame from the VSB-M system.</figcaption>
 </figure>
@@ -120,7 +115,7 @@ The VSB-M system was played 28,122 times in about two years from 1/10/2017 to 1/
 For future iterations, we conceptualized a tutorial system where a participant's VSB would play the game along with them the first time, showing them how to mechanically play the game. This system would move the VSB from being a stationary figure off to the side to one that would have been actively involved during gameplay. Along with the increased minigame difficulty mentioned earlier, their VSB could also aid them in completing problems. For example, it could be holding an additional counterweight during Lever Hero, giving the opportunity for the VSB to expand participants' understanding on how lever balancing works while further incorporating itself into gameplay.
 
 <!--- TODO: (see Figure ~\ref{fig:vsb-stats}) --->
-<figure>
+<figure class=img-fig>
   <img class=scale-w100 src="vsb_resultsTable.png">
   <figcaption>Figure 6. Play statistics for the VSB-M minigames after each system upgrade.</figcaption>
 </figure>

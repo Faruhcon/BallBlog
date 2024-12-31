@@ -3,6 +3,10 @@ title: Virtual Buddy Projects Overview
 #draft: true
 ---
 
+<style>
+    div {}
+</style>
+
 # Page Header
 
 intro blurb
@@ -65,3 +69,32 @@ TODO: my responsibilities list: look at prospectus for help
 <!--- TODO: ## Virtual Fitness Buddy Summer Camp
 
 TODO: ## Virtual Buddy Fruit and Vegetable Summer Camp --->
+
+<!--- VFB-H Minigame Table --->
+<div class="mgTable"> <!--- Table Cell --->
+    <div class="mgTable-pic"> <!--- Pic --->
+        <img src="vfbH_agility_example.png">
+    </div> <!--- End Pic --->
+    <div class="mgTable-list"> <!--- List --->
+        <p class="mgTable-title"><u>Agility</u></p>
+        <ul class="mgTable">
+            <li>test</li>
+            <li>test2</li>
+            <li>This is a sentence, how much space?</li>
+        </ul>
+    </div> <!--- End List --->
+</div> <!--- End Table Cell --->
+
+<div class="mgTable"> <!--- Table Cell --->
+    <div class="mgTable-pic"> <!--- Pic --->
+        <img src="vfbH_agility_example.png">
+    </div> <!--- End Pic --->
+    <div class="mgTable-list"> <!--- List --->
+        <ul class="mgTable">
+            <li>test</li>
+            <li>test2</li>
+            <li>test2</li>
+        </ul>
+    </div> <!--- End List --->
+</div> <!--- End Table Cell --->
+<!--- End VFB-H Minigame Table --->
