@@ -71,21 +71,35 @@ div.mgTable{
     width: 95%;
     margin-left: auto;
     margin-right: auto;
-    display: inline-block;
+    padding: 0.25em;
+    margin-bottom: 0.5em;
+    //padding-bottom: 0.5em;
+    vertical-align: center;
 }
 
 div.mgTable-pic{
-    width: 60%;
+    width: 55%;
     padding: 0.5em;
-    display: inline-block;
+    display: inline-table;
     vertical-align: text-top;
 }
 
 div.mgTable-list{
-    width: 30%;
+    width: 35%;
     padding: 0.5em;
-    display: inline-block;
+    display: inline-table;
+    text-align: top;
     vertical-align: text-top;
+}
+
+div.mgTable-listLeft{
+    width: 35%;
+    padding: 0.5em;
+    display: inline-table;
+    vertical-align: text-top;
+    text-align: top;
+    margin-left: 0.5em;
+    margin-right: 0.7em;
 }
 
 p.mgTable-title{
@@ -93,7 +107,8 @@ p.mgTable-title{
     font-size: larger;
     font-weight: bold;
     text-decoration: underline;
-    //TODO: Remove the padding between list and this header
+    vertical-align: text-top;
+    margin-bottom: -0.5em;
 }
 
 ul.mgTable{
