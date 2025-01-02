@@ -7,11 +7,10 @@ title: Virtual Buddy Projects Overview
 
 intro blurb
 TODO: find the vfb video I made?? should be on youtube
-
 ## Virtual Fitness Buddy at Home
 
 ### boop
-
+>
 <details open>
     <summary>VFB-H Info TODO: keep title?</summary>
     <figure class=img-fig>
@@ -253,6 +252,7 @@ TODO: find the vfb video I made?? should be on youtube
             </table>
         </div>
     </details>
+    <p>TODO: put minigame info here</p>
     <details open>
         <summary>VFB-A Minigames</summary>
         <!--- Basketball --->
@@ -337,7 +337,7 @@ TODO: find the vfb video I made?? should be on youtube
         <img class=scale-w100 src="vsb_kiosk.png">
         <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
     </figure>
-    <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
+    <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
     <details open>
         <summary>VSB-M Stats</summary>
         <div class="table-container">
@@ -383,10 +383,10 @@ TODO: find the vfb video I made?? should be on youtube
             </table>
         </div>
     </details>
-    <p>TODO: talk about how buddy was customizable, used kinect and large screen tv, which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?, mention using speech to provide instructions because read, mention CMOA</p>
+    <p>TODO: talk about how buddy was customizable, kinect which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?</p>
     <figure class=img-fig>
         <img class=scale-h75 src="vsb_buddies_combo.png">
-        <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
+        <figcaption>The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
     </figure>
     <p>TODO: minigames blurb</p>
     <details open>
@@ -401,6 +401,7 @@ TODO: find the vfb video I made?? should be on youtube
                 <p class="mgTable-title">Lever Hero</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Lever balancing game</li>
+                    <li><u>STEM Concept: </u>Levers</li>
                     <li><u>Goal:</u> Balance levers as quickly and accurately as possible </li>
                     <li><u>Controls:</u> Kinect movement</li>
                 </ul>
@@ -413,6 +414,7 @@ TODO: find the vfb video I made?? should be on youtube
                 <p class="mgTable-title">Slingshot</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Trajectory game</li>
+                    <li><u>STEM Concept:</u> Trajectories</li>
                     <li><u>Goal:</u> Complete picture with minimal paint splats</li>
                     <li><u>Controls:</u> Kinect movement</li>
                 </ul>
