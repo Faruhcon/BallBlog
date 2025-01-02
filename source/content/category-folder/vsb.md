@@ -48,8 +48,12 @@ With all of this in mind, we designed a "grab" mechanic that seemed to work well
 ### STEM Buddy
 
 <!---TODO: (see Figure ~\ref{fig:vsb-buddies}) --->
-<figure class=img-fig>
+<!---<figure class=img-fig>
   <img class=scale-h75 src="vsb_buddy_creation.png"> <img class=scale-h75 src="vsb_buddies.png">
+  <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
+</figure>--->
+<figure class=img-fig>
+  <img class=scale-h75 src="vsb_buddies_combo.png">
   <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
 </figure>
 
@@ -83,8 +87,12 @@ The goal of both of these minigames was to be entertaining while providing infor
 
 <!--- TODO: (see Figure ~\ref{fig:vsb-minigames}) --->
 TODO: same line? hq images where?
-<figure class=img-fig>
+<!--- <figure class=img-fig>
   <img class=scale-h100 src="vsb_leverHero.png">   <img class=scale-h100 src="vsb_slingshot.png">
+  <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
+</figure> --->
+<figure class=img-fig>
+  <img class=scale-w100 src="vsb_minigame_combo.png">
   <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
