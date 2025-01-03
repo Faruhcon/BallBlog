@@ -5,7 +5,10 @@ title: Virtual Buddy Projects Overview
 
 # TODO: Page Header
 
-intro blurb
+TODO: intro blurb
+
+This page contains info on some of the virtual buddy applications that I built through the course of my PhD work. Primarily, this includes two major versions of the Virtual Fitness Buddy system and the Virtual STEM Buddy system, which encouraged children to engage in healthier exercise habits and to learn about various STEM concepts respectively. <!-- TODO: more specific info on these projects can be found on their individual pages (links). -->
+
 TODO: find the vfb video I made?? should be on youtube
 ## Virtual Fitness Buddy at Home
 
@@ -181,6 +184,7 @@ TODO: find the vfb video I made?? should be on youtube
     </details>
     <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
     <ul>
+        <li>Lead designer and software engineer</li>
         <li>Designing and implementing:</li>
         <ul>
             <li>New park layout to allow for exploration</li>
@@ -196,6 +200,7 @@ TODO: find the vfb video I made?? should be on youtube
         <li>Recording and editing a video to show how to use the VFB-H app (for the pilot, include?)</li>
         <li>Setting up the iPads to auto-update when we issued updates to the app</li>
         <li>Bug troubleshooting and fixes for both VFB app and Fitbit syncing</li>
+        <li>Tech support and troubleshooting iPads and physical activity trackers</li>
         <li>Data analysis on game play metrics</li>
     </ul>
 </details>
@@ -204,9 +209,11 @@ TODO: find the vfb video I made?? should be on youtube
 
 <details open>
     <summary>VFB-A Info TODO: keep title?</summary>
-    <p>The Virtual Fitness Buddy Afterschool (VFB-A) project</p>
-    <p>TODO: Similar to VFB-H... mention kiosk and using their bodies to interact</p>
-    <p>TODO: put leading team here</p>
+    <figure class=img-fig>
+        <img class=scale-w100 src="vfbA_kioskComparison.png">
+        <figcaption>  Kiosks used during the VFB-A pilot (left) and C1-A and C2-A (right). The C1-A/C2-A kiosk added a touchscreen display for menu selection.</figcaption>
+    </figure>
+    <p>The Virtual Fitness Buddy Afterschool (VFB-A) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-A was built as a kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.</p>
     <details open>
         <summary>VFB-A Stats</summary>
         <div class="table-container">
@@ -252,22 +259,25 @@ TODO: find the vfb video I made?? should be on youtube
             </table>
         </div>
     </details>
-    <p>TODO: put minigame info here</p>
+    <figure class=img-fig>
+        <img class=scale-w75 src="VFB-A-H and VFB-C Comparison - Motion Blur.png">
+        <figcaption>The evolution of the VFB model from older systems (left) to the VFB-A system (right) with the UGA Arch in the background.</figcaption>
+    </figure>
+    <p>As part of this app, I designed six different minigames: agility, bark it, basketball, frisbee, soccer, and volleyball. See below for more details on these games. In addition to these games, children were able to get their VFB to perform tricks using their voice and could play fetch without having to interact with a minigame. To achieve this, I implemented various midair gesture-based systems that players would use to perform the necessary actions for the minigames, tricks, and fetch.</p>
     <details open>
         <summary>VFB-A Minigames</summary>
         <!--- Basketball --->
         <div class="mgTable"> <!--- Table Cell --->
             <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vfbH_basketball_example2.png">
+                <img src="vfbA_basketball.png">
             </div> <!--- End Pic --->
             <div class="mgTable-list"> <!--- List --->
                 <p class="mgTable-title">Basketball</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> Goal throws from random locations game</li>
+                    <li><u>Type:</u> Goal scoring game</li>
                     <li><u>Goal:</u> Maximize basketballs scored in 60 seconds</li>
                     <li><u>Scoring:</u> Goals scored</li>
-                    <li><u>Controls:</u> Virtual joystick and buttons (touchscreen) and iPad AR movement</li>
-                    <li><u>Aids:</u> Guide arrow to next location and hoop</li>
+                    <li><u>Controls:</u> Shot zone system and Kinect movement</li>
                 </ul>
             </div> <!--- End List --->
         </div> <!--- End Table Cell --->
@@ -279,29 +289,27 @@ TODO: find the vfb video I made?? should be on youtube
                 <ul class="mgTable">
                     <li><u>Type:</u> Balloon popping game</li>
                     <li><u>Goal:</u> Maximize balloons popped in 60 seconds</li>
-                    <li><u>Scoring:</u> Sum of balloon values plus VFB catch bonuses</li>
-                    <li><u>Controls:</u> Virtual buttons (touchscreen) and iPad AR movement</li>
-                    <li><u>Aids:</u> Guide arrow to current balloon</li>
+                    <li><u>Scoring:</u> Sum of balloon values</li>
+                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
                 </ul>
             </div> <!--- End List --->
             <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vfbH_frisbee_example.png">
+                <img src="vfbA_slingshot.png">
             </div> <!--- End Pic --->
         </div> <!--- End Table Cell --->
         <!--- End Slingshot --->
         <!--- Soccer --->
         <div class="mgTable"> <!--- Table Cell --->
             <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vfbH_soccer_example.png">
+                <img src="vfbA_soccer.png">
             </div> <!--- End Pic --->
             <div class="mgTable-list"> <!--- List --->
                 <p class="mgTable-title">Soccer</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> Goal kicks from random locations game</li>
+                    <li><u>Type:</u> Goal scoring game</li>
                     <li><u>Goal:</u> Maximize soccer balls scored in 60 seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
-                    <li><u>Controls:</u> Virtual joystick and buttons (touchscreen) and iPad AR movement</li>
-                    <li><u>Aids:</u> Guide arrow to next location and goal</li>
+                    <li><u>Controls:</u> Virtual paddle attached to foot for kicking</li>
                 </ul>
             </div> <!--- End List --->
         </div> <!--- End Table Cell --->
@@ -314,18 +322,35 @@ TODO: find the vfb video I made?? should be on youtube
                     <li><u>Type:</u> Serve streak game</li>
                     <li><u>Goal:</u> Perform longest serve streak in 60 seconds</li>
                     <li><u>Scoring:</u> Length of streak</li>
-                    <li><u>Controls:</u> Virtual paddle using iPad AR movement</li>
-                    <li><u>Aids:</u> Guide arrow to net</li>
+                    <li><u>Controls:</u> Virtual paddle attached to hand to return serve</li>
                 </ul>
             </div> <!--- End List --->
             <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vfbH_volleyball_example.png">
+                <img src="vfbA_volleyball.png">
             </div> <!--- End Pic --->
         </div> <!--- End Table Cell --->
         <!--- End Volleyball --->
     </details>
+    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
     <ul>
-        <li>TODO: my responsibilities list: look at prospectus for help</li>
+        <li>Lead designer and software engineer</li>
+        <li>Lead a small team of artists and programmers</li>
+        <li>Designed and implemented:</li>
+        <ul>
+            <li>Avatar</li>
+            <li>Touchscreen selection system</li>
+            <li>Two different throwing and trick gesture systems</li>
+            <li>Leaderboards</li>
+            <li>Data logging and data structures</li>
+        </ul>
+        <li>Setting up and maintaining both control and treatment kiosks</li>
+        <li>Tech support and troubleshooting for both kiosks and physical activity trackers</li>
+        <li>Data engineer</li>
+        <ul>
+            <li>Creating notes on what each data point meant</li>
+            <li>Converting this data into a format our statisticians could use to process the data easily</li>
+        </ul>
+        <li>TODO: my responsibilities list</li>
     </ul>
 </details>
 
@@ -384,14 +409,14 @@ TODO: find the vfb video I made?? should be on youtube
         </div>
     </details>
     <p>TODO: talk about how buddy was customizable, kinect which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?</p>
+    <p>The tablet provided a familiar museum exhibit interface that was used for complex selection tasks, such as customizing their VSB. While the Kinect provided a more novel interface where players used their real world movements to interact with their VSB and play the minigames.</p>
     <figure class=img-fig>
         <img class=scale-h75 src="vsb_buddies_combo.png">
         <figcaption>The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
     </figure>
-    <p>TODO: minigames blurb</p>
+    <p>As part of this app, I designed two different minigames: Lever Hero and Slingshot. They were designed to target the concepts of lever balancing and trajectories respectively. See below for more details on these games.</p>
     <details open>
         <summary>VSB-M Minigames</summary>
-        <p>TODO: add minigame "table" with pics and blurbs</p>
         <!--- Lever Hero --->
         <div class="mgTable"> <!--- Table Cell --->
             <div class="mgTable-pic"> <!--- Pic --->
@@ -403,7 +428,7 @@ TODO: find the vfb video I made?? should be on youtube
                     <li><u>Type:</u> Lever balancing game</li>
                     <li><u>STEM Concept: </u>Levers</li>
                     <li><u>Goal:</u> Balance levers as quickly and accurately as possible </li>
-                    <li><u>Controls:</u> Kinect movement</li>
+                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
                 </ul>
             </div> <!--- End List --->
         </div> <!--- End Table Cell --->
@@ -416,7 +441,7 @@ TODO: find the vfb video I made?? should be on youtube
                     <li><u>Type:</u> Trajectory game</li>
                     <li><u>STEM Concept:</u> Trajectories</li>
                     <li><u>Goal:</u> Complete picture with minimal paint splats</li>
-                    <li><u>Controls:</u> Kinect movement</li>
+                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
                 </ul>
             </div> <!--- End List --->
             <div class="mgTable-pic"> <!--- Pic --->
@@ -425,7 +450,24 @@ TODO: find the vfb video I made?? should be on youtube
         </div> <!--- End Table Cell --->
         <!--- End Slingshot --->
     </details>
-    <p>TODO: my responsibilities list: look at prospectus for help</p>
+    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
+    <ul>
+        <li>Lead designer and software engineer</li><!-- TODO: instructions and text to voice, game play logic and loop-->
+        <li>Designing and implementing:</li>
+        <ul>
+            <li>VSB interactivity</li>
+            <li>Data logging system and its data structures</li>
+        </ul>
+        <li>Worked with CMOA staff to:</li>
+        <ul>
+            <li>Scale the interactions to the exhibit's allocated physical space</li>
+            <li>Design game mechanics that would fit well and safely into the museum environment</li>
+        </ul>
+        <li>Observing and recording interactions in person in order to update the system to address any issues that arose</li>
+        <li>Data analysis on game play metrics</li>
+        <li>Tech support and troubleshooting the kiosk</li>
+    </ul>
+    <p>TODO: my responsibilities list</p>
 </details>
 
 <!--- TODO: ## Virtual Fitness Buddy Summer Camp
