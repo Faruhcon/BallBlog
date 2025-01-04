@@ -79,3 +79,44 @@ stat: data collection and gathering
 psyc/kine: PA to VFB impact
 psyc: minigames, overall design, skeleton
 paper writing
+
+##### Unity/Programming Stuff
+
+TODO: unreal blueprint system
+TODO: cool unity stuff
+
+Multiplatform
+
+I was able to take my vfb and port it easily with minimal changes using engine native capabilities for ios, android, vr, kinect
+
+preprocessor directives, conditional compilation
+
+Designed VFB architecture in s
+
+Implemented modular design in VFB project and utilized Unity3D's ease of cross-platform deployment to support PC, iOS/iPadOS, and Virtual Reality (Meta Quest) builds.
+
+to use Unity3D multiplatform deployment for VFB ()
+
+TODO: simulation - fwim
+TODO: navigation - heart tour
+
+
+
+
+Understanding trade offs of user experience and navigation
+
+recognize that the value of experience was guided navigation and not free form nav - focus energy on importance of the tour itself rather than the novel concept of 3d heart to explore
+
+Designed virtual reality tour of 3D modeled heart using Unity3D that competed at 2016 IEEEVR Conference. TODO: link paper and demo paper
+
+Expanded the boundaries of a VR guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility. (TODO: cite heartx2)
+
+Designed a virtual reality exploratory data analysis (EDA) tool using Unity3D to simplify understanding of heart study interactions (TODO: cite all 3 fwim+2 heart).
+
+worrying about navigation
+
+not free form with no rails but targeted a technique that let them forget about navigation
+
+with a novel navigation system - on track, compact, didn't care about turns
+
+realized a conceptual 3d modeled heart tour

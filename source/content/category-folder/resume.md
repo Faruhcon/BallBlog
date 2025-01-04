@@ -14,8 +14,8 @@ title: Resume/CV
 
 #### Education / Experience:
 
-- *Bachelor of Computer Science or equivalent Game Development qualifications*
-- *Preferred: Post-graduate qualification in game design or related field*
+- ~~Bachelor of Computer Science or equivalent Game Development qualifications~~
+- ~~Preferred: Post-graduate qualification in game design or related field~~
 - *Certifications or experience in Unity3D, Blender, Unreal Engine or similar a plus*
 - *Portfolio of games, educational preferred, or interactive projects successfully completed and launched*
 
@@ -37,8 +37,8 @@ title: Resume/CV
 #### Bonus points:
 
 - *Worked on Narrative-driven games or programming interactive dialogue*
-- *Broad exposure to web technology stack*
-- *Any experience with pixel streaming or cloud rendering*
+- ~~*Broad exposure to web technology stack*~~
+- ~~*Any experience with pixel streaming or cloud rendering*~~
 - *Experience with AR/VR or mixed reality technologies a plus*
 
 ## About me
@@ -50,7 +50,10 @@ title: Resume/CV
 - Translated child feedback into actionable design updates to gameplay mechanics that eliminated negative feedback.
 - Integrated Children's Museum of Atlanta deployment requirements into Virtual STEM Buddy mixed reality exhibit that had no reported physical incidents over 5 year life span.
 - Iterated bi weekly for VFB on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. 
-
+- Implemented modular design in VFB project and utilized Unity3D's ease of cross-platform deployment to support PC, iOS/iPadOS, and Virtual Reality (Meta Quest) builds.
+- Implemented virtual reality tour of 3D modeled heart using Unity3D that competed at the 2016 IEEEVR Conference. TODO: link paper and demo paper, video??
+- Expanded the boundaries of a VR guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility. (TODO: cite heartx2)
+- Designed a virtual reality exploratory data analysis (EDA) tool using Unity3D to simplify understanding of heart study interactions (TODO: cite all 3 fwim+2 heart).
 
 
 <!--- Ideas to massage --->
@@ -59,11 +62,14 @@ title: Resume/CV
 - TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer and hardware)
 - TODO: tech support bullet point regarding site staff feedback and implementation
 - TODO: novel hardware choices (kinect, novint falcon), off the shelf hardware choices (software too?)
+- TODO: (programming): notebook on what system stats mean, documentation
+- TODO: state machine for vfb/vsb animations and maybe arduino??
+- TODO: AR/VR/MR experience
 
 <!--- Non-Erin Approved (lol) --->
 - Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
 - Architected application using MVC & MVVM design patterns to decouple modules for scaling the project.
-- Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).
+- ~~Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).~~
   - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability
 
 ### Notes and brainstorming
@@ -142,3 +148,5 @@ STEM
   - TODO: combine the VR stuff together instead of separate??
 - Game Engine: Unity3D
 - Platforms: PC, Android, iOS, VR, and AR
+
+TODO: add "advertisement" for all projects on this page, maybe dupe it on landing page (teaser for what it is, pic, and link for further info and/or demo)
