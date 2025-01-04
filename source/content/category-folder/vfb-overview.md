@@ -51,7 +51,11 @@ Additional information regarding these roles are enumerated in the following sec
 - Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
 - Architected application using MVC & MVVM design patterns to decouple modules for scaling the project.
 - Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).
-  - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability 
+  - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability
+
+<!--- Working Ideas --->
+- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
+- I designed a way to be intentional about interactions in a system where there are no physical buttons where expression is free form.
 
 <!--- notes --->
 - I designed a way to be intentional about interactions in a system where there are no physical buttons where expression is free form.

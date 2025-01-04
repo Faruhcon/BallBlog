@@ -457,6 +457,7 @@ TODO: find the vfb video I made?? should be on youtube
         <ul>
             <li>VSB interactivity</li>
             <li>Data logging system and its data structures</li>
+            <li>New player avatar system</li>
         </ul>
         <li>Worked with CMOA staff to:</li>
         <ul>
@@ -474,11 +475,37 @@ TODO: find the vfb video I made?? should be on youtube
 
     <details open>
         <summary>VFB-C Info TODO: keep title?</summary>
+        <p>TODO: I was responsible for the following:</p>
+        <ul>
+            <li>Designing and implementing</li>
+            <ul>
+                <li>Updated user interface (UI)</li>
+                <li>Hover selection technique for menu selection</li>
+                <li>Trick shop</li>
+                <li>Trick and Fitbit selection systems</li>
+            </ul>
+            <li>Observing and troubleshooting VFB-C system throughout the study</li>
+            <li>Fitbit setup and troubleshooting</li>
+            <li>Administering post-treatment questionnaires</li>
+        </ul>
     </details>
-
-TODO: ## Virtual Buddy Fruit and Vegetable Summer Camp
+--->
+<!--- TODO: ## Virtual Buddy Fruit and Vegetable Summer Camp
 
     <details open>
         <summary>VB-F&V Info TODO: keep title?</summary>
+        <p>TODO: I was responsible for the following:</p>
+        <ul>
+            <li>Designing and implementing:</li>
+            <ul>
+                <li>Haptic joystick input system</li>
+                <li>Reward system based on fruit and vegetable consumption</li>
+                <li>RFID login system</li>
+                <li>Heart and artery testing minigames</li>
+                <li>Updating gesture system to use the haptic joystick</li>
+            </ul>
+            <li>Observing and troubleshooting VB-F&V system throughout the study</li>
+            <li>Administering post-treatment questionnaires</li>
+        </ul>
     </details>
 --->
