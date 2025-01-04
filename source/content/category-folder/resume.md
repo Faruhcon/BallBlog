@@ -60,11 +60,14 @@ title: Resume/CV
 - TODO: add a bullet point for how we managed our feedback collection process
 - TODO: how to reach out to the community to get them involved
 - TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer and hardware)
+- TODO: heart navigation/learning trade-off (software/ux)
 - TODO: tech support bullet point regarding site staff feedback and implementation
 - TODO: novel hardware choices (kinect, novint falcon), off the shelf hardware choices (software too?)
 - TODO: (programming): notebook on what system stats mean, documentation
 - TODO: state machine for vfb/vsb animations and maybe arduino??
 - TODO: AR/VR/MR experience
+- TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back
+
 
 <!--- Non-Erin Approved (lol) --->
 - Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
