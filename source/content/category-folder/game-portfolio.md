@@ -159,7 +159,9 @@ Like this: https://www.remedygames.com/games
 <h2>Game Jams</h2>
 <details open> <!-- Game Jams -->
     <summary>Game Jams</summary>
-    <p>TODO: add the board game one? any others?</p>
+    <p>TODO: add the board game one? what about the other ghosty one?</p>
+    <p>https://gamedevbrook.itch.io/ghost-quest</p>
+    <p>https://gamedevbrook.itch.io/race-against-the-machine</p>
     <h3>2018 Global Game Jam: VRus</h3>
     <details open> <!-- 2018 Global Game Jam: VRus -->
         <summary>2018 Global Game Jam: VRus</summary>
@@ -167,9 +169,13 @@ Like this: https://www.remedygames.com/games
         <p>TODO: make video?</p>
     </details> <!-- 2018 Global Game Jam: VRus -->
     <h3>2017 Athens Game Jam: DMVania</h3>
-    <details open> <!-- 2017 Athens Game Jam: DMVania -->
+    <details> <!-- 2017 Athens Game Jam: DMVania -->
         <summary>2017 Athens Game Jam: DMVania</summary>
-        <p>TODO: link itch io here</p>
-        <p>TODO: make video?</p>
+        <p>https://gamedevbrook.itch.io/dmvania</p>
+        <p>TODO: make video? or find one</p>
+        <figure class=img-fig>
+            <img src="dmvania_elevator.png">
+            <figcaption>2017 Athens Game Jam: DMVania</figcaption>
+        </figure>
     </details> <!-- End 2017 Athens Game Jam: DMVania -->
 </details> <!-- End Game Jams -->
