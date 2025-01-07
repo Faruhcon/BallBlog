@@ -15,7 +15,11 @@
 }
 
 .vfb-subheader {
-    text-align:center
+    text-align:center;
+}
+
+.papers-abstract {
+    text-align: left;
 }
 
 //Figure related
@@ -152,6 +156,29 @@ ul.mgTable{
     margin-top: 0.5em;
     margin-bottom: -0.25em;
     min-height: 60px;
+}
+
+//.responsive-link-grid{
+.link-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Exactly 2 columns, each taking equal space */
+    //gap: 5px;
+    grid-auto-flow: row;
+}
+
+/* @media (max-width: 200px) {
+    .responsive-link-grid {
+      grid-template-columns: 1fr; // Stack images in a single column on smaller screens
+    }
+}*/
+
+.grid-link-item{
+    text-align: center;
+    justify-content: center;
+    font-size: 1.2em;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    padding-top: 0.5em;
 }
 
 .portfolio-header{
