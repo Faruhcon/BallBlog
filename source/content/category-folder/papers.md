@@ -33,7 +33,8 @@ Google scholar page link? --->
 </div> <!-- End Dissertation (VSB-H) -->
 <div class="vfb-subheader"> <!-- VSB-M -->
 
-## [VSB-M](vsb.md)
+<!-- ## [VSB-M](vsb.md) -->
+## VSB-M
 
 ### [Design and Field Study of Motion-based Informal Learning Games for a Children’s Museum](https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf)[^vsb1]
 

@@ -273,7 +273,7 @@ TODO: drop videos for now
         <!-- TODO: pick and modify video and link video -->
         <!-- TODO: see pc pictures folder for alternatives -->
         <!-- TODO: Spring 2014 VR Final: Jane Bond Jetpack Maze -->
-        <p class="grid-header-txt">Jane Bond Jetpack Maze</p>
+        <p class="grid-header-txt">Jane Bond VR Jetpack Maze</p>
         <img class="grid-img"
             src="janeBond_outside.png"
             alt="The outside of a lava-filled maze."
@@ -289,7 +289,7 @@ TODO: drop videos for now
         <!-- TODO: modify video and link video -->
         <!-- TODO: where project repo? -->
         <!-- TODO: Spring 2014 VR Project 4: Mewer Mech-->
-        <p class="grid-header-txt">Mewer Mech: The Simulation</p>
+        <p class="grid-header-txt">MR Mewer Mech: The Simulation</p>
         <img class="grid-img"
             src="mech_mixedReality_explode4b.png"
             alt="An exploded block surrounded by other blocks."
