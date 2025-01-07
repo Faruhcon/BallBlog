@@ -1,5 +1,6 @@
 ---
 title: Resume/CV
+draft: true
 ---
 
 ## Job Listing info

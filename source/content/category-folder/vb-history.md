@@ -1,6 +1,6 @@
 ---
 title: Virtual Buddy Dev History
-#draft: true
+draft: true
 ---
 
 <div class="article-header">

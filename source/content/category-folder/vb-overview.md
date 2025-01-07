@@ -12,8 +12,6 @@ This page contains info on some of the virtual buddy applications that I built t
 TODO: find the vfb video I made?? should be on youtube
 ## Virtual Fitness Buddy at Home
 
-### boop
->
 <details open>
     <summary>VFB-H Info TODO: keep title?</summary>
     <figure class=img-fig>
@@ -205,6 +203,123 @@ TODO: find the vfb video I made?? should be on youtube
     </ul>
 </details>
 
+## Virtual STEM Buddy at Museum
+
+<details open>
+    <summary>VSB-M Info TODO: keep title?</summary>
+    <figure class=img-fig>
+        <img class=scale-w100 src="vsb_kiosk.png">
+        <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
+    </figure>
+    <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
+    <details open>
+        <summary>VSB-M Stats</summary>
+        <div class="table-container">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Name</td>
+                        <td>Virtual STEM Buddy Museum (VSB-M)</td>
+                    </tr>
+                    <tr>
+                        <td>Dates</td>
+                        <td>January 2017 to May 2022</td>
+                    </tr>
+                    <tr>
+                        <td>Location</td>
+                        <td>Children's Museum of Atlanta (CMOA)</td>
+                    </tr>
+                    <tr>
+                        <td>Sites</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <td>Cohorts</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <td>Duration</td>
+                        <td>5 years</td>
+                    </tr>
+                    <tr>
+                        <td>Participants</td>
+                        <td>Unknown – 28,122 recorded plays over 2 years</td>
+                    </tr>
+                    <tr>
+                        <td>Focus</td>
+                        <td>STEM Education</td>
+                    </tr>
+                    <tr>
+                        <td>Controls</td>
+                        <td>Motion and Touch</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </details>
+    <p>TODO: talk about how buddy was customizable, kinect which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?</p>
+    <p>The tablet provided a familiar museum exhibit interface that was used for complex selection tasks, such as customizing their VSB. While the Kinect provided a more novel interface where players used their real world movements to interact with their VSB and play the minigames.</p>
+    <figure class=img-fig>
+        <img class=scale-h75 src="vsb_buddies_combo.png">
+        <figcaption>The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
+    </figure>
+    <p>As part of this app, I designed two different minigames: Lever Hero and Slingshot. They were designed to target the concepts of lever balancing and trajectories respectively. See below for more details on these games.</p>
+    <details open>
+        <summary>VSB-M Minigames</summary>
+        <!--- Lever Hero --->
+        <div class="mgTable"> <!--- Table Cell --->
+            <div class="mgTable-pic"> <!--- Pic --->
+                <img src="vsb_leverHero.png">
+            </div> <!--- End Pic --->
+            <div class="mgTable-list"> <!--- List --->
+                <p class="mgTable-title">Lever Hero</p>
+                <ul class="mgTable">
+                    <li><u>Type:</u> Lever balancing game</li>
+                    <li><u>STEM Concept: </u>Levers</li>
+                    <li><u>Goal:</u> Balance levers as quickly and accurately as possible </li>
+                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
+                </ul>
+            </div> <!--- End List --->
+        </div> <!--- End Table Cell --->
+        <!--- End Lever Hero --->
+        <!--- Slingshot --->
+        <div class="mgTable"> <!--- Table Cell --->
+            <div class="mgTable-listLeft"> <!--- List --->
+                <p class="mgTable-title">Slingshot</p>
+                <ul class="mgTable">
+                    <li><u>Type:</u> Trajectory game</li>
+                    <li><u>STEM Concept:</u> Trajectories</li>
+                    <li><u>Goal:</u> Complete picture with minimal paint splats</li>
+                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
+                </ul>
+            </div> <!--- End List --->
+            <div class="mgTable-pic"> <!--- Pic --->
+                <img src="vsb_slingshot.png">
+            </div> <!--- End Pic --->
+        </div> <!--- End Table Cell --->
+        <!--- End Slingshot --->
+    </details>
+    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
+    <ul>
+        <li>Lead designer and software engineer</li><!-- TODO: instructions and text to voice, game play logic and loop-->
+        <li>Designing and implementing:</li>
+        <ul>
+            <li>VSB interactivity</li>
+            <li>Data logging system and its data structures</li>
+            <li>New player avatar system</li>
+        </ul>
+        <li>Worked with CMOA staff to:</li>
+        <ul>
+            <li>Scale the interactions to the exhibit's allocated physical space</li>
+            <li>Design game mechanics that would fit well and safely into the museum environment</li>
+        </ul>
+        <li>Observing and recording interactions in person in order to update the system to address any issues that arose</li>
+        <li>Data analysis on game play metrics</li>
+        <li>Tech support and troubleshooting the kiosk</li>
+    </ul>
+    <p>TODO: my responsibilities list</p>
+</details>
+
 ## Virtual Fitness Buddy Afterschool
 
 <details open>
@@ -352,123 +467,6 @@ TODO: find the vfb video I made?? should be on youtube
         </ul>
         <li>TODO: my responsibilities list</li>
     </ul>
-</details>
-
-## Virtual STEM Buddy at Museum
-
-<details open>
-    <summary>VSB-M Info TODO: keep title?</summary>
-    <figure class=img-fig>
-        <img class=scale-w100 src="vsb_kiosk.png">
-        <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
-    </figure>
-    <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
-    <details open>
-        <summary>VSB-M Stats</summary>
-        <div class="table-container">
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual STEM Buddy Museum (VSB-M)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>January 2017 to May 2022</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>Children's Museum of Atlanta (CMOA)</td>
-                    </tr>
-                    <tr>
-                        <td>Sites</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>5 years</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>Unknown – 28,122 recorded plays over 2 years</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>STEM Education</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Motion and Touch</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </details>
-    <p>TODO: talk about how buddy was customizable, kinect which meant they used their bodies to interact, maybe talk about gestures and adding the touchscreen because familiar interface?</p>
-    <p>The tablet provided a familiar museum exhibit interface that was used for complex selection tasks, such as customizing their VSB. While the Kinect provided a more novel interface where players used their real world movements to interact with their VSB and play the minigames.</p>
-    <figure class=img-fig>
-        <img class=scale-h75 src="vsb_buddies_combo.png">
-        <figcaption>The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
-    </figure>
-    <p>As part of this app, I designed two different minigames: Lever Hero and Slingshot. They were designed to target the concepts of lever balancing and trajectories respectively. See below for more details on these games.</p>
-    <details open>
-        <summary>VSB-M Minigames</summary>
-        <!--- Lever Hero --->
-        <div class="mgTable"> <!--- Table Cell --->
-            <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vsb_leverHero.png">
-            </div> <!--- End Pic --->
-            <div class="mgTable-list"> <!--- List --->
-                <p class="mgTable-title">Lever Hero</p>
-                <ul class="mgTable">
-                    <li><u>Type:</u> Lever balancing game</li>
-                    <li><u>STEM Concept: </u>Levers</li>
-                    <li><u>Goal:</u> Balance levers as quickly and accurately as possible </li>
-                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
-                </ul>
-            </div> <!--- End List --->
-        </div> <!--- End Table Cell --->
-        <!--- End Lever Hero --->
-        <!--- Slingshot --->
-        <div class="mgTable"> <!--- Table Cell --->
-            <div class="mgTable-listLeft"> <!--- List --->
-                <p class="mgTable-title">Slingshot</p>
-                <ul class="mgTable">
-                    <li><u>Type:</u> Trajectory game</li>
-                    <li><u>STEM Concept:</u> Trajectories</li>
-                    <li><u>Goal:</u> Complete picture with minimal paint splats</li>
-                    <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
-                </ul>
-            </div> <!--- End List --->
-            <div class="mgTable-pic"> <!--- Pic --->
-                <img src="vsb_slingshot.png">
-            </div> <!--- End Pic --->
-        </div> <!--- End Table Cell --->
-        <!--- End Slingshot --->
-    </details>
-    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
-    <ul>
-        <li>Lead designer and software engineer</li><!-- TODO: instructions and text to voice, game play logic and loop-->
-        <li>Designing and implementing:</li>
-        <ul>
-            <li>VSB interactivity</li>
-            <li>Data logging system and its data structures</li>
-            <li>New player avatar system</li>
-        </ul>
-        <li>Worked with CMOA staff to:</li>
-        <ul>
-            <li>Scale the interactions to the exhibit's allocated physical space</li>
-            <li>Design game mechanics that would fit well and safely into the museum environment</li>
-        </ul>
-        <li>Observing and recording interactions in person in order to update the system to address any issues that arose</li>
-        <li>Data analysis on game play metrics</li>
-        <li>Tech support and troubleshooting the kiosk</li>
-    </ul>
-    <p>TODO: my responsibilities list</p>
 </details>
 
 <!--- TODO: ## Virtual Fitness Buddy Summer Camp

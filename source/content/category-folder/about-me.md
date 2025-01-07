@@ -1,6 +1,6 @@
 ---
 title: About Me
-#issueNo: 1
+#draft: true
 ---
 
-what to put here that's not in the other pages?
+Coming Soon!

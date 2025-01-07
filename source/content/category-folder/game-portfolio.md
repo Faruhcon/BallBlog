@@ -100,10 +100,10 @@ TODO: drop videos for now
             <a class="grid-link-item" 
                 href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">
                 Overview</a>
-            <a class="grid-link-item"
-                href="https://www.doctorcatball.com/category-folder/vsb">
+            <!-- <a class="grid-link-item"
+                href="https://www.doctorcatball.com/category-folder/vsb"> -->
                 <!-- href="vsb.md"> -->
-                More Info</a> <!-- TODO: why border?? -->
+                <!-- More Info</a> --> <!-- TODO: why border?? -->
             <!-- <a class="grid-link-item"
                 href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">
                 Video</a> --> <!-- TODO: -->
