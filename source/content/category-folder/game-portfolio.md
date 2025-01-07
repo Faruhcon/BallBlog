@@ -2,6 +2,38 @@
 title: Game Portfolio Overview
 ---
 
+TODO: swap links to buttons? or rather: keep or remove link background?
+<!-- TODO: put below in css and update:
+.link-list {
+  display: flex; /* Arrange list items in a single line */
+  justify-content: center; /* Center-align the list */
+  gap: 8px; /* Add space between links */
+  list-style: none; /* Remove default bullets */
+  padding: 0; /* Remove default padding */
+  margin-top: 8px; /* Add some space above the list */
+}
+
+.link-list li {
+  display: inline-flex; /* Ensure links adjust to content width */
+}
+
+.link-list a {
+  display: inline-block; /* Allow padding and width adjustments */
+  padding: 8px 12px; /* Add padding around the text */
+  background-color: #f0f0f0; /* Background for the link */
+  border: 1px solid #ddd; /* Border for the link */
+  border-radius: 4px; /* Rounded corners for the link */
+  text-decoration: none; /* Remove underline from the link */
+  color: #333; /* Text color */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.link-list a:hover {
+  background-color: #e0e0e0; /* Change background on hover */
+  color: #000; /* Change text color on hover */
+}
+-->
+
 <h2 class="portfolio-header">Research Projects</h2>
 <div class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
@@ -16,7 +48,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- VFB-H Link Grid -->
             <a class="grid-link-item" 
                 href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">
-                Research Paper</a>
+                Research</a>
             <a class="grid-link-item" 
                 href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-at-home">
                 Overview</a>
@@ -33,7 +65,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- VSB-M Link Grid -->
             <a class="grid-link-item" 
                 href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">
-                Research Paper</a>
+                Research</a>
             <a class="grid-link-item"
                 href="https://www.doctorcatball.com/category-folder/vsb">
                 <!-- href="vsb.md"> -->
@@ -58,7 +90,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- VFB-A Link Grid -->
             <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">
-                Research Paper</a>
+                Research</a>
                 <a class="grid-link-item" 
                 href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-afterschool">
                 Overview</a>
@@ -78,7 +110,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- VFB-C Link Grid -->
             <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">
-                Research Paper</a>
+                Research</a>
         </div> <!-- End VFB-C Link Grid -->
     </div> <!-- End VFB-C -->
     <div class="grid-item"> <!-- VB-F&V -->
@@ -93,7 +125,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- VB-F&V Link Grid -->
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
-                Research Paper</a>
+                Research</a>
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
                 Video</a> <!-- TODO: name for this, it's a proof of concept, also link -->
@@ -111,10 +143,10 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- Heart Tour Link Grid -->
             <a class="grid-link-item" 
                 href="https://wevr.adalsimeone.me/2016/WEVR2016_Ball.pdf">
-                Research Paper</a>
+                Research</a>
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Kyle-Johnsen-2/publication/304781751_First-Person_VR_Design_for_Cardiac_Anatomy_Education/links/577a74b908ae355e74f06b7e/First-Person-VR-Design-for-Cardiac-Anatomy-Education.pdf">
-                Conference Demo</a>
+                Demo Paper</a>
             <a class="grid-link-item" 
                 href="https://wevr.adalsimeone.me/2016/WEVR2016_Ball.pdf">
                 Video</a> <!-- TODO: -->
@@ -133,7 +165,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- fWIM Link Grid -->
             <a class="grid-link-item" 
                 href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
-                Conference Poster</a>
+                Poster</a>
             <a class="grid-link-item" 
                 href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
                 Video</a> <!-- TODO: -->
@@ -171,7 +203,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- Merkules Link Grid -->
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
-                Playable Demo</a>
+                Playable</a> <!-- TODO: Demo</a> -->
         </div> <!-- Merkules Link Grid -->
     </div> <!-- End Merkules -->
     <div class="grid-item"> <!-- ImpactJS Demo -->
@@ -188,7 +220,7 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- ImpactJS Demo Link Grid TODO: -->
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
-                Playable Demo</a>
+                Playable</a> <!-- TODO: Demo</a> -->
         </div> <!-- ImpactJS Demo Link Grid -->
     </div> <!-- End ImpactJS Demo -->
     <div class="grid-item"> <!-- Prisoner's Dilemma -->
@@ -288,7 +320,8 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- SuperViRus Link Grid -->
             <a class="grid-link-item" 
                 href="https://v3.globalgamejam.org/2018/games/supervirus">
-                Global Game Jam</a>
+                <!-- Global Game Jam</a> -->
+                More Info</a> <!-- TODO: or Product or something else? -->
         </div> <!-- SuperViRus Link Grid -->
     </div> <!-- End SuperViRus -->
     <div class="grid-item"> <!-- Ghost Quest -->
@@ -303,7 +336,8 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- Ghost Quest Link Grid -->
             <a class="grid-link-item" 
                 href="https://gamedevbrook.itch.io/ghost-quest">
-                itch.io</a>
+                <!-- itch.io</a> -->
+                More Info</a> <!-- TODO: or Product or something else? -->
         </div> <!-- Ghost Quest Link Grid -->
     </div> <!-- End Ghost Quest -->
     <div class="grid-item"> <!-- DMVania -->
@@ -318,7 +352,8 @@ title: Game Portfolio Overview
         <div class="link-grid"> <!-- DMVania Link Grid -->
             <a class="grid-link-item" 
                 href="https://gamedevbrook.itch.io/dmvania">
-                itch.io</a>
+                <!-- itch.io</a> -->
+                More Info</a> <!-- TODO: or Product or something else? -->
         </div> <!-- DMVania Link Grid -->
     </div> <!-- End DMVania -->
 </div> <!-- End Game Jam Projects Grid -->

@@ -161,24 +161,36 @@ ul.mgTable{
 //.responsive-link-grid{
 .link-grid{
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Exactly 2 columns, each taking equal space */
-    //gap: 5px;
+    grid-template-columns: repeat(4, 1fr); /* Exactly 4 columns, each taking equal space */
+    gap: 5px;
     grid-auto-flow: row;
+    //display: flex; //TODO: if not full, center buttons
+    //align-items: center; //TODO:
+    justify-items: center;
 }
 
 /* @media (max-width: 200px) {
     .responsive-link-grid {
-      grid-template-columns: 1fr; // Stack images in a single column on smaller screens
+      grid-template-columns: 1fr; // Stack links in a single column on smaller screens
     }
 }*/
 
 .grid-link-item{
     text-align: center;
     justify-content: center;
-    font-size: 1.2em;
-    padding-left: 0.2em;
-    padding-right: 0.2em;
-    padding-top: 0.5em;
+    font-size: 1.09em;
+    padding-left: 0.05em;
+    padding-right: 0.05em;
+    padding-top: 0.05em;
+    padding-bottom: 0.05em;
+    color: black;
+    background: #6096e6;
+    //border: 1px solid #5687d1;
+    border-radius: 5px;
+    margin-top: 0.5em;
+    display: flex;
+    align-items: center;
+    width: 98%;
 }
 
 .portfolio-header{
