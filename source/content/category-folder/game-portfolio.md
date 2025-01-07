@@ -2,7 +2,6 @@
 title: Game Portfolio Overview
 ---
 
-TODO: swap links to buttons? or rather: keep or remove link background?
 <!-- TODO: put below in css and update:
 .link-list {
   display: flex; /* Arrange list items in a single line */
@@ -33,9 +32,41 @@ TODO: swap links to buttons? or rather: keep or remove link background?
   color: #000; /* Change text color on hover */
 }
 -->
+TODO: blurb below headings?
+
+TODO: intro blurb?
+
+TODO: collapsible sections? old method won't look good so need new method
+
+TODO: setup table of contents
+
+TODO: fix links: sort videos how I want them to be
+
+TODO: drop videos for now 
+
+<!-- ## <div class="portfolio-header">Research Projects</div>
+
+## <div class="portfolio-header">Class Projects</div>
+
+## Research Projects
+
+## Class Projects -->
+
+<!-- > [!info] Title
+> 
+> This is a callout! -->
+
+<nav class="toc">
+    <h2>Table of Contents</h2>
+    <ul>
+      <li><a href="#Research_Projects">Research Projects</a></li>
+      <li><a href="#Class_Projects">Class Projects</a></li>
+      <li><a href="#Game_Jam_Projects">Game Jam Projects</a></li>
+    </ul>
+</nav>
 
 <h2 class="portfolio-header">Research Projects</h2>
-<div class="responsive-image-grid"> <!-- Research Projects Grid -->
+<div id="Research_Projects" class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
         <!-- TODO: Page link once setup -->
         <!-- TODO: early how to play video??? -->
@@ -66,16 +97,16 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             <a class="grid-link-item" 
                 href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">
                 Research</a>
-            <a class="grid-link-item"
-                href="https://www.doctorcatball.com/category-folder/vsb">
-                <!-- href="vsb.md"> -->
-                More Info</a> <!-- TODO: why border?? -->
             <a class="grid-link-item" 
                 href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">
                 Overview</a>
             <a class="grid-link-item"
+                href="https://www.doctorcatball.com/category-folder/vsb">
+                <!-- href="vsb.md"> -->
+                More Info</a> <!-- TODO: why border?? -->
+            <!-- <a class="grid-link-item"
                 href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">
-                Video</a> <!-- TODO: -->
+                Video</a> --> <!-- TODO: -->
         </div> <!-- End VSB-M Link Grid -->
     </div> <!-- End VSB-M -->
     <div class="grid-item"> <!-- VFB-A -->
@@ -94,9 +125,9 @@ TODO: swap links to buttons? or rather: keep or remove link background?
                 <a class="grid-link-item" 
                 href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-afterschool">
                 Overview</a>
-            <a class="grid-link-item" 
+            <!-- <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">
-                Video</a> <!-- TODO: -->
+                Video</a> --> <!-- TODO: -->
         </div> <!-- End VFB-A Link Grid -->
     </div> <!-- End VFB-A -->
     <div class="grid-item"> <!-- VFB-C -->
@@ -126,9 +157,9 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
                 Research</a>
-            <a class="grid-link-item" 
+            <!-- <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
-                Video</a> <!-- TODO: name for this, it's a proof of concept, also link -->
+                Video</a> --> <!-- TODO: name for this, it's a proof of concept, also link -->
         </div> <!-- End VB-F&V Link Grid -->
     </div> <!-- End VB-F&V -->
     <div class="grid-item"> <!-- Heart Tour -->
@@ -147,9 +178,9 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Kyle-Johnsen-2/publication/304781751_First-Person_VR_Design_for_Cardiac_Anatomy_Education/links/577a74b908ae355e74f06b7e/First-Person-VR-Design-for-Cardiac-Anatomy-Education.pdf">
                 Demo Paper</a>
-            <a class="grid-link-item" 
+            <!-- <a class="grid-link-item" 
                 href="https://wevr.adalsimeone.me/2016/WEVR2016_Ball.pdf">
-                Video</a> <!-- TODO: -->
+                Video</a> --> <!-- TODO: -->
         </div> <!-- End Heart Tour Grid -->
     </div> <!-- End Heart Tour -->
     <div class="grid-item"> <!-- fWIM -->
@@ -166,14 +197,14 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             <a class="grid-link-item" 
                 href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
                 Poster</a>
-            <a class="grid-link-item" 
+            <!-- <a class="grid-link-item" 
                 href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
-                Video</a> <!-- TODO: -->
+                Video</a> --> <!-- TODO: -->
         </div> <!-- End fWIM Link Grid -->
     </div> <!-- End fWIM -->
 </div> <!-- End Research Projects Grid -->
 
-<h2 class="portfolio-header">Class Projects</h2>
+<h2 id="Class_Projects" class="portfolio-header">Class Projects</h2>
 <div class="responsive-image-grid"> <!-- Class Projects Grid -->
     <div class="grid-item"> <!-- Enrage Timer -->
         <!-- TODO: modify video and link video -->
@@ -184,11 +215,11 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             alt="A virtual turret aiming at a flying bunny enemy."
             title="Enrage Timer"
         >
-        <div class="link-grid"> <!-- Enrage Timer Link Grid TODO:-->
+        <!-- <div class="link-grid"> Enrage Timer Link Grid TODO:
             <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">
                 Video</a>
-        </div> <!-- Enrage Timer Link Grid -->
+        </div> --> <!-- Enrage Timer Link Grid -->
     </div> <!-- End Enrage Timer -->
     <div class="grid-item"> <!-- Merkules -->
         <!-- TODO: link github playable demo here -->
@@ -206,23 +237,6 @@ TODO: swap links to buttons? or rather: keep or remove link background?
                 Playable</a> <!-- TODO: Demo</a> -->
         </div> <!-- Merkules Link Grid -->
     </div> <!-- End Merkules -->
-    <div class="grid-item"> <!-- ImpactJS Demo -->
-        <!-- TODO: Keep? -->
-        <!-- TODO: link github playable demo here -->
-        <!-- TODO: make video? -->
-        <!-- TODO: Spring 2015 Project 1: ImpactJS Maze Game -->
-        <p class="grid-header-txt">ImpactJS Demo</p>
-        <img class="grid-img"
-            src="impactjs_start.png"
-            alt="A maze filled with green pellets."
-            title="ImpactJS Demo"
-        >
-        <div class="link-grid"> <!-- ImpactJS Demo Link Grid TODO: -->
-            <a class="grid-link-item" 
-                href="https://faruhcon.github.io/Project2b/">
-                Playable</a> <!-- TODO: Demo</a> -->
-        </div> <!-- ImpactJS Demo Link Grid -->
-    </div> <!-- End ImpactJS Demo -->
     <div class="grid-item"> <!-- Prisoner's Dilemma -->
         <!-- TODO: Keep? -->
         <!-- TODO: modify video and link video -->
@@ -233,11 +247,11 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             alt="A text grid explaining the rules for the prisoner's dilemma."
             title="Networked VR Prisoner's Dilemma"
         >
-        <div class="link-grid"> <!-- Prisoner's Dilemma Link Grid TODO: -->
+        <!-- <div class="link-grid"> Prisoner's Dilemma Link Grid TODO:
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
                 Video</a>
-        </div> <!-- Prisoner's Dilemma Link Grid -->
+        </div> --> <!-- Prisoner's Dilemma Link Grid -->
     </div> <!-- End Prisoner's Dilemma -->
     <div class="grid-item"> <!-- VR Target Throw Demo -->
         <!-- TODO: Keep? -->
@@ -249,11 +263,11 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             alt="A virtual ball being thrown at a bullseye."
             title="VR Target Throw Demo"
         >
-        <div class="link-grid"> <!-- VR Target Throw Link Grid TODO: -->
+        <!-- <div class="link-grid"> VR Target Throw Link Grid TODO: 
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
                 Video</a>
-        </div> <!-- VR Target Throw Demo Link Grid -->
+        </div> --> <!-- VR Target Throw Demo Link Grid -->
     </div> <!-- End VR Target Throw Demo -->
     <div class="grid-item"> <!-- Jetpack Maze -->
         <!-- TODO: pick and modify video and link video -->
@@ -265,47 +279,47 @@ TODO: swap links to buttons? or rather: keep or remove link background?
             alt="The outside of a lava-filled maze."
             title="Jane Bond Jetpack Maze"
         >
-        <div class="link-grid"> <!-- Jetpack Maze Link Grid TODO: -->
+        <!-- <div class="link-grid"> Jetpack Maze Link Grid TODO:
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
                 Video</a>
-        </div> <!-- Jetpack Maze Link Grid -->
+        </div> --> <!-- Jetpack Maze Link Grid -->
     </div> <!-- End Jetpack Maze -->
-    <div class="grid-item"> <!-- MGM: The Simulation -->
+    <div class="grid-item"> <!-- MM: The Simulation -->
         <!-- TODO: modify video and link video -->
         <!-- TODO: where project repo? -->
-        <!-- TODO: Spring 2014 VR Project 4: Virtual Metal Gear Mewer -->
-        <p class="grid-header-txt">Metal Gear Mewer: The Simulation</p>
+        <!-- TODO: Spring 2014 VR Project 4: Mewer Mech-->
+        <p class="grid-header-txt">Mewer Mech: The Simulation</p>
         <img class="grid-img"
             src="mech_mixedReality_explode4b.png"
             alt="An exploded block surrounded by other blocks."
-            title="Metal Gear Mewer: The Simulation"
+            title="Mewer Mech: The Simulation"
         >
-        <div class="link-grid"> <!-- MGM: The Simulation Link Grid TODO: -->
+        <!-- <div class="link-grid"> MM: The Simulation Link Grid TODO:
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
                 Video</a>
-        </div> <!-- MGM: The Simulation Link Grid -->
-    </div> <!-- End MGM: The Simulation -->
-    <div class="grid-item"> <!-- MGM: The Controls -->
+        </div> --> <!-- MM: The Simulation Link Grid -->
+    </div> <!-- End MM: The Simulation -->
+    <div class="grid-item"> <!-- MR Memory Match -->
         <!-- TODO: modify video and link video -->
         <!-- TODO: where project repo? -->
         <!-- TODO: Spring 2014 VR Project 3: Memory Match -->
-        <p class="grid-header-txt">Metal Gear Mewer: The Controls</p>
+        <p class="grid-header-txt">MR Memory Match</p>
         <img class="grid-img"
             src="memMatch_mixedReality_start.png"
             alt="A start screen displaying virtual controllers."
-            title="Metal Gear Mewer: The Controls"
+            title="MR Memory Match"
         >
-        <div class="link-grid"> <!-- MGM: The Controls Link Grid TODO: -->
+        <!-- <div class="link-grid"> MR Memory Match Link Grid TODO:
             <a class="grid-link-item" 
                 href="https://faruhcon.github.io/Project2b/">
                 Video</a>
-        </div> <!-- MGM: The Controls Link Grid -->
-    </div> <!-- End MGM: The Controls -->
+        </div> --><!-- MR Memory Match Link Grid -->
+    </div> <!-- End MR Memory Match -->
 </div> <!-- End Class Projects Grid -->
 
-<h2 class="portfolio-header">Game Jam Projects</h2>
+<h2 id="Game_Jam_Projects" class="portfolio-header">Game Jam Projects</h2>
 <div class="responsive-image-grid"> <!-- Game Jam Projects Grid -->
     <div class="grid-item"> <!-- SuperViRus -->
         <!-- TODO: upload video? found some on pc in web desktop folder -->
