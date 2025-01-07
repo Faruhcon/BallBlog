@@ -116,5 +116,37 @@ ul.mgTable{
     text-indent: -0.25em;
 }
 
+.responsive-image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Exactly 2 columns, each taking equal space */
+    gap: 16px;
+    grid-auto-flow: row;
+}
+  
+@media (max-width: 600px) {
+    .responsive-image-grid {
+      grid-template-columns: 1fr; /* Stack images in a single column on smaller screens */
+    }
+}
 
+.grid-item {
+    //border: thin gray solid;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
 
+.grid-img {
+    height: 400px;
+    width: 100%;
+    margin-bottom: -0.25em;
+}
+
+.grid-header-txt {
+    text-align: center;
+    font-size: 1.75em;
+    text-wrap: balance;
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: -0.25em;
+    min-height: 60px;
+}
