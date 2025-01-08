@@ -13,6 +13,8 @@ Google scholar page link? --->
 
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ)
 
+TODO: intro blurb?
+
 <!--- links to subsections below?? --->
 
 <div class="article-header"> <!-- Virtual Buddy Header -->

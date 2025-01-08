@@ -20,7 +20,10 @@ Given the onset of the COVID-19 pandemic at the beginning of 2020, we were no lo
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-interface}) --->
 <figure>
-  <img class=scale-w100 src="vfbH_interface_example.png">
+  <img class=scale-w100 
+    src="vfbH_interface_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 1. The VFB-H iPad interface, featuring the Bark It minigame. The personal leaderboard is shown on the left. The player’s hand avatar is shown in the middle of the screen near the bottom.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -36,7 +39,10 @@ The resulting system used real-world iPad rotation to rotate the camera view and
 
 <!--- TODO: Figure ~\ref{fig:vfbh-avatar} --->
 <figure>
-  <img class=scale-w50 src="vfbH_avatar-hand-cropped.png">
+  <img class=scale-w50 
+    src="vfbH_avatar-hand-cropped.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 2. The VFB-H user avatar was a hand that, when as item was being held, would change to that item.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -49,7 +55,10 @@ As mentioned, we did design this to use both motion and touch controls. This is 
 
 <!--- TODO: (see Figure~\ref{fig:vfbh-powerMeter}) --->
 <figure>
-  <img class=scale-w75 src="vfbH_Throw-Power-Meter2.png">
+  <img class=scale-w75 
+    src="vfbH_Throw-Power-Meter2.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 3. While aiming an item, the user avatar temporarily changed to that item. They would also hold down the red circles to charge the power meter./figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -65,7 +74,10 @@ In all of our previously discussed VFB studies, the environment was a park of so
 
 <!--- TODO: (Figure ~\ref{fig:vfbh-side-view})--->
 <figure>
-  <img class=scale-w100 src="vfbH_park_example.png">
+  <img class=scale-w100 
+    src="vfbH_park_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 4. A view of the VFB-H dog park showing the various minigame stations.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -76,7 +88,10 @@ In all of our previously discussed VFB studies, the environment was a park of so
 
 <!--- TODO:(Figure ~\ref{fig:vfbh-minigame-locs}) --->
 <figure>
-  <img class=scale-w100 src="vfbH_parkOverhead_withNumbers_example.png">
+  <img class=scale-w100
+    src="vfbH_parkOverhead_withNumbers_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 5. The layout of the VFB-H dog park. Each minigame has its own designated play area: Agility (1), Bark-It (2), Basketball (3), Frisbee (4), Soccer (5), and Volleyball (6).</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -89,7 +104,10 @@ As shown in Figure 5<!--- TODO:(Figure ~\ref{fig:vfbh-minigame-locs}) --->, each
 
 <!--- TODO:(Figure ~\ref{fig:vfbh-virtual-kiosk}) --->
 <figure>
-  <img class=scale-w50 src="vfbH_Virtual-Kiosk.png">
+  <img class=scale-w50 
+    src="vfbH_Virtual-Kiosk.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 6. A virtual kiosk used to start minigames, display instructions, and display high scores.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -102,7 +120,10 @@ Many of the props in the play stations we had already used in the past during th
 
 <!--- TODO: Figure ~\ref{fig:vfbh-bones} --->
 <figure>
-  <img class=scale-w75 src="vfbH_Treat-deco-examples.png">
+  <img class=scale-w75
+    src="vfbH_Treat-deco-examples.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 7. The treat model (top left) used during the VFB-A study was used as various ramps and columns for the Agility and Bark-It minigames during the VFB-H study. The UGA Arch model (middle left) also served as weaving poles during the Agility minigame.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -124,7 +145,13 @@ The Agility minigame was inspired by dog Agility competitions, where a dog and t
 
 <!--- TODO:(Figure ~\ref{fig:vfbh-agi}) --->
 <figure>
-  <img class=scale-w75 src="vfbH_agility_example.png">   <img class=scale-w75 src="vfbH_agility5.png">
+  <img class=scale-w75 
+    src="vfbH_agility_example.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-w75 
+                        src="vfbH_agility5.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 8. The Agility minigame from the VFB-H study, showing a VFB jumping over a hurdle to reach the treats on the other side. The blue banner indicates where the VFB should run next.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -147,7 +174,13 @@ The Bark It minigame (Figure 9)<!--- TODO: (Figure ~\ref{fig:vfbh-bark})--> was 
 
 <!--- TODO: (Figure ~\ref{fig:vfbh-bark})-->
 <figure>
-  <img class=scale-h50 src="vfbH_barkIt_example.png">   <img class=scale-w75 src="vfbH_barkIt2_example.png">
+  <img class=scale-h50
+    src="vfbH_barkIt_example.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-w75 
+                        src="vfbH_barkIt2_example.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 9. The Bark It minigame from the VFB-H study, showing a VFB performing the lay down (left) and spin (right) tricks on the Bark It stage. Behind the VFB, tricks are displayed in the order they need to be repeated on the Bark It screen.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -174,7 +207,10 @@ Since our participants have only been able to stay in a relatively stationary lo
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-bb})--->
 <figure>
-  <img class=scale-w75 src="vfbH_basketball_example2.png">
+  <img class=scale-w75 
+    src="vfbH_basketball_example2.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 10. The Basketball minigame from the VFB-H study. The throw power gauge changes color from red to green, increasing how far the toy will be thrown as it fills.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -192,7 +228,13 @@ The slingshot minigame from VFB-C was replaced by a new Frisbee throwing minigam
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-Frisbee})--->
 <figure>
-  <img class=scale-w75 src="vfbH_frisbee_example.png">   <img class=scale-w75 src="vfbH_frisbee4c.png">
+  <img class=scale-w75 
+    src="vfbH_frisbee_example.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-w75 
+                        src="vfbH_frisbee4c.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 11. The Frisbee minigame from the VFB-H study. During Frisbee, players must gauge how hard to throw the Frisbee so that it both hits the target and is caught by their VFB before hitting the ground to earn the most points.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -206,8 +248,11 @@ Similar to Basketball, the Soccer minigame had players move to random locations 
 
 <!--- TODO: (Figure ~\ref{fig:vfbh-Soccer})--->
 <figure>
-  <img class=scale-w75 src="vfbH_soccer_example.png">
-  <figcaption>Figure 12. The Soccer minigame from the VFB-H study. During Soccer, a foot avatar replaces the hand avatar, using this virtual foot to kick the ball.}% Lastly, the arrow navigation system (right) was used to direct players’ attention to the next objective for each minigame.</figcaption>
+  <img class=scale-w75 
+    src="vfbH_soccer_example.png"
+    alt="TODO:"
+    title="TODO:">
+  <figcaption>Figure 12. The Soccer minigame from the VFB-H study. During Soccer, a foot avatar replaces the hand avatar, using this virtual foot to kick the ball. Lastly, the arrow navigation system (right) was used to direct players’ attention to the next objective for each minigame.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
     \centering\includegraphics[width=0.8\textwidth,height=70mm,keepaspectratio]{figures/VFB-H/vfbH\_Soccer\_example.png}
@@ -223,7 +268,13 @@ During the first part of C1-H, the Agility minigame score did not compute proper
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-volley})--->
 <figure>
-  <img class=scale-h50 src="vfbH_volleyball_example.png">   <img class=scale-h50 src="vfbH_volleyball2_example.png">
+  <img class=scale-h50 
+    src="vfbH_volleyball_example.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-h50 
+                        src="vfbH_volleyball2_example.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 13. The Volleyball minigame from the VFB-H spackagetudy. During Volleyball, players work with their VFB (shown serving the ball (middle)) to maintain the longest serve streak using their virtual hands to serve.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -241,7 +292,10 @@ In addition to earning points by completing PA, we also designed and implemented
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-trophy-sizing})--->
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -252,7 +306,13 @@ In addition to earning points by completing PA, we also designed and implemented
 
 <!--- TODO: (see Figure ~\ref{fig:vfbh-dynamic-trophy})--->
 <figure>
-  <img class=scale-h50 src="vfbH_trophy2.png">   <img class=scale-h50 src="vfbH_trophy3.png">
+  <img class=scale-h50
+    src="vfbH_trophy2.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-h50
+                        src="vfbH_trophy3.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 15. Examples of a VFB performing sit (left) and stand (right) atop a PA goal trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -268,4 +328,4 @@ Lastly, given our previous troubles with syncing participants’ Fitbit data, we
 ## Results and Observations
 The goal of this dissertation is not only explaining our lessons learned by implementing these systems but also to discern if there are particular elements that increased participant engagement. As such, this was an exploration of the depth of data that we have from this study. For the purposes of analyzing this data it should be noted that where participants are not explicitly labeled as belonging to C1-H or C2-H, their cohort can still be determined by both their participant and family ids, where C1-H participants have ids in the 50,000 (5000 family) range and C2-H participants have ids in the 60,000 (6000 family) range.
 
-[^diss]: Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.
+[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537)

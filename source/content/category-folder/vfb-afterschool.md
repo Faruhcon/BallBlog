@@ -21,7 +21,13 @@ We have explored using both a virtual buddy and motion-based games to encourage 
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-kiosk-n-VFB} (second from left)) --->
 <figure>
-  <img class=scale-w100 src="vfbA_kioskComparison.png">   <img class=scale-w100 src="VFB-A-H and VFB-C Comparison - Motion Blur.png">
+  <img class=scale-w100
+    src="vfbA_kioskComparison.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-w100
+                        src="VFB-A-H and VFB-C Comparison - Motion Blur.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 1. (Left) Kiosks used during the VFB-A pilot (left) and C1-A and C2-A (right). The pilot kiosk resembles the original kiosk from the VFB-C study. The C1-A/C2-A kiosk added a touchscreen display for menu selection. (Right) The evolution of the VFB model from the VFB-O system (left) to the VFB-A system (right) with the UGA Arch in the background.</figcaption>
 </figure>
 <!---\begin{figure}[h]
@@ -34,7 +40,10 @@ Like the VFB-C system, the VFB-A system was designed to encourage children to en
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-skeleton} (left)) --->
 <figure>
-  <img class=scale-h50 src="vfbA_skeleton_example.png">
+  <img class=scale-h50
+    src="vfbA_skeleton_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 2. The VFB-A skeleton avatar featured in the VFB-A virtual park.</figcaption>
 </figure>
 <!---\begin{figure}[h]
@@ -55,7 +64,13 @@ We tried several ideas, including a bin system that would use the grab gesture f
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-3dbutton}) --->
 <figure>
-  <img class=scale-h50 src="vfbA_keyboardButton_example.png">   <img class=scale-h50 src="vfbA_setGoal_example.png">
+  <img class=scale-h50
+    src="vfbA_keyboardButton_example.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-h50
+                        src="vfbA_setGoal_example.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 3. Examples of the “keyboard” keys used for the VFB-A pilot. Similar to a computer keyboard, the red button is pressed in until it “pushes” on the black cylinder.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -99,7 +114,10 @@ Additionally, as we added more minigames beginning in C2, this new level system 
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-games}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_minigame_example.png">
+  <img class=scale-w100
+    src="vfbA_minigame_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 4. The minigames and tricks from the VFB-A study: Basketball (top left), fetch (top middle), Slingshot (top right), Soccer (bottom left), roll over (bottom middle), sit (bottom middle), and Volleyball (bottom right).</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -112,7 +130,10 @@ As previously mentioned, participants' interactions with the VFB-A system could 
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-size}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_petSize_example.png">
+  <img class=scale-w100
+    src="vfbA_petSize_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 5. A sampling of different body weights of the VFB, starting at maximum health (left) and ending at minimum health (right) both from the side (top row) and above (bottom row).</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -159,7 +180,10 @@ Given the mechanical similarities between Basketball and Slingshot, we wanted to
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-customize}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_petCustomizations_example.png">
+  <img class=scale-w100
+    src="vfbA_petCustomizations_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 6. Several VSBs using the upgraded customization options, which included collars, hats, tags, and VFB color skins.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -172,7 +196,10 @@ In addition to these minigames, we added many more customization options for the
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-toys}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_petToys_example.png">
+  <img class=scale-w100
+    src="vfbA_petToys_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 7. The expanded VFB toy options for VFB-A, which include a frisbee, bone treat, stick, tennis ball, red wiffle ball, Soccer ball, blue wiffle ball, Basketball, striped ball, and beach ball.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -185,7 +212,10 @@ Participants earned points to purchase these customizations by meeting their PA 
 
 <!--- TODO: (see Figure ~\ref{fig:vfba-messaging}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_messaging_example.png">
+  <img class=scale-w100
+    src="vfbA_messaging_example.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 8. The messaging interface from the VFB-A system. Certain phrases were customized based on the participant’s name, their VFB’s name, and who was listed as the primary guardian.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -244,7 +274,10 @@ As shown in Figures 9 and 10 <!---  Figures ~\ref{fig:vfba-basic-game-plays-play
 
 <!---  Figures ~\ref{fig:vfba-basic-game-plays-time} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays_byGame.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays_byGame.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 9. Graph depicting the number of plays for each game played during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -255,7 +288,10 @@ As shown in Figures 9 and 10 <!---  Figures ~\ref{fig:vfba-basic-game-plays-play
 
 <!---  Figures ~\ref{fig:vfba-basic-game-plays-time} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed_byGame.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed_byGame.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 10. Graph depicting the amount of time played for each game played during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]

@@ -5,7 +5,10 @@ draft: true
 
 <!--- ~\ref{fig:vfba-basic-game-plays-perDay-plays} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays-perday_byGame.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays-perday_byGame.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 11. Graphs depicting the number of plays controlled for number of days unlocked for each game played during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -16,7 +19,10 @@ draft: true
 
 <!--- ~\ref{fig:vfba-basic-game-plays-perDay-time} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed-perday_byGame.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed-perday_byGame.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 12. Graphs depicting the amount of time played controlled for number of days unlocked for each game played during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -65,7 +71,10 @@ Given this information, we implemented time limits for the max amount of time pl
 
 <!--- TODO: Figure ~\ref{fig:vfba-timelimited-game-plays-5} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed_byGame-5minMax.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed_byGame-5minMax.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 13. Graph depicting the amount of time played limited to 5 minutes per play for each game during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -76,7 +85,10 @@ Given this information, we implemented time limits for the max amount of time pl
 
 <!--- TODO: Figure ~\ref{fig:vfba-timelimited-game-plays-1} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed_byGame-1minMax.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed_byGame-1minMax.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -89,7 +101,10 @@ Figures 15 and 16 <!--- TODO: Figures ~\ref{fig:vfba-timelimited-game-plays-perD
 
 <!--- TODO: Figures ~\ref{fig:vfba-timelimited-game-plays-perDay-5} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed-perday_byGame-5minMax.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed-perday_byGame-5minMax.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 15. Graph depicting the amount of time played controlled for number of days unlocked and limited to 5 minutes per play for each game during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -100,7 +115,10 @@ Figures 15 and 16 <!--- TODO: Figures ~\ref{fig:vfba-timelimited-game-plays-perD
 
 <!--- TODO: Figures ~\ref{fig:vfba-timelimited-game-plays-perDay-1} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_timeplayed-perday_byGame-1minMax.png">
+  <img class=scale-w100
+    src="vfbA_C2_timeplayed-perday_byGame-1minMax.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 16. Graph depicting the amount of time played controlled for number of days unlocked and limited to 1 minute per play for each game during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -113,7 +131,10 @@ However, as mentioned earlier, Slingshot was the only game available to play for
 
 <!--- TODO: Figure ~\ref{fig:vfba-weekly-plays}--->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays_byGame-perWeek.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays_byGame-perWeek.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 17. Graph depicting minigame plays per week during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -126,7 +147,10 @@ Figure 18 <!--- TODO: Figure ~\ref{fig:vfba-weekly-plays-perDay} --->depicts the
 
 <!--- TODO: Figure ~\ref{fig:vfba-weekly-plays-perDay} --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays-perday_byGame-perWeek.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays-perday_byGame-perWeek.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 18. Graphs depicting minigame plays controlled for number of days unlocked per week during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -143,7 +167,10 @@ To determine if there were game play outliers that may be skewing our play data,
 
 <!--- TODO: (Figure ~\ref{fig:vfba-participant-play-info}) --->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays_byMem.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays_byMem.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 19. Graph depicting the number of plays for each participant during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -154,7 +181,10 @@ To determine if there were game play outliers that may be skewing our play data,
 
 <!--- TODO: (Figure ~\ref{fig:vfba-participant-play-info-per})--->
 <figure>
-  <img class=scale-w100 src="vfbA_C2_gamePlays-perday_byMem.png">
+  <img class=scale-w100
+    src="vfbA_C2_gamePlays-perday_byMem.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 20. Graphs depicting the number of plays controlled for days unlocked for each participant during C2-A.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]

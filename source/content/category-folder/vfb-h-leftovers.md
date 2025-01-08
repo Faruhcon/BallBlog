@@ -10,7 +10,10 @@ TODO: finish converting figures
 During preliminary analysis, we found that, once again, there was a decline in logins over time (Figure ~\ref{fig:vfbh-weekly-logins}). However, logins may not be the best proxy for engagement in this case. Participants could log in often but that does not mean that they were engaging with their VFB as they may not have stayed logged in long enough to do so. To address this drawback, we began looking at how many times and for how long participants spent playing minigames. Similar to overall login time, simply because they had started a minigame does not mean they always used this time to actually play the minigames. However, the impact of not utilizing this time is likely lower than that of being logged in and doing nothing for a long time. This is due to the fact that the minigames are timed, so, at most, a single minigame would add 60 seconds to the minigame play time. The one exception to this rule is the Bark It minigame, which does not have a time out. Additionally, the minigames were designed such that participants would be directly interacting with their VFB. As such, exploring how often and how long they were played may provide more insight into what it means to be engaged with the system. The participants showcased here are participants who at least played one game throughout the course of their respective study. There are 19 participants from C1-H and 6 participants from C2-H in this dataset, which includes the child participants cited above along with their family units.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htb]
@@ -22,7 +25,10 @@ During preliminary analysis, we found that, once again, there was a decline in l
 As shown in Figure ~\ref{fig:vfbh-participant-play-info}, there seems to be a similar trend between the number of games played and the amount of time the games were played across participants. This may indicate that many of the games were played to completion and/or that participants did not press the start/end game buttons repeatedly. There are also two individuals who played the minigames much more than the rest both for number of game plays and amount of time played. Given that games were unlocked at different levels, participants likely did not unlock minigames at the same relative time during the study. Given this, not all play counts nor play times are created equal. For example, C1-H participants received an update on October 5, 2021, which was, at most, around 38 days after they began to have access to their VFB, pending participant start date. This update released new versions (V2) of each minigame and removed the old versions (V1). This means that C1-H participants had access to the V2 versions for at most 75 days (pending participant start and end dates). C2-H participants had access to V2 games for at most 105 days. %Participant's max access days and days unlocked for each game can be seen in table xxxx.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htb]
@@ -37,7 +43,10 @@ As shown in Figure ~\ref{fig:vfbh-participant-play-info}, there seems to be a si
 Given this difference in duration of VFB access, we opted to examine how many games and how much time participants played while controlling for the number of days they had access to each game (Figure ~\ref{fig:vfbh-participant-play-info-per}). This results in participant 50121 overtaking 60042 in relative play time and games played. This means that while participant 60042 played more games, they did so across more unlock days compared to participant 50121, which is true given than participant 60042 had access to all games for 105 days and 50121 had access to V1 games for 31 days and V2 for 67 days for a total of 98 days. Figure ~\ref{fig:vfbh-participant-play-info-per} also shows us that most participants (approximately 92\%) played games for less than two minutes per day with approximately a third of participants playing under 10 seconds per day. This is much less than we had anticipated. 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -50,7 +59,10 @@ Given this difference in duration of VFB access, we opted to examine how many ga
 Given that some participants were adult guardians, perhaps they did not play as much as the child participants. As shown in Figure ~\ref{fig:vfbh-participant-play-info-per-sep}, guardians only account for 4 of the 9 participants with time played per day under 10 seconds with three guardians playing around 30 seconds or more per day. Thus, this is not a sufficient explanation to solely explain the low play time per day. 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htb]
@@ -64,7 +76,10 @@ Given that some participants were adult guardians, perhaps they did not play as 
 In addition to how much time participants spent playing the minigames, the variety of games they played is also of interest. We expected that participants would prefer a variety of games over a single game in particular. As shown in Figure ~\ref{fig:vfbh-basic-game-plays}, there seems to be a preference for Soccer in both cohorts with Agility and Bark It being the least preferred. There also seems to be the same number of relative plays across both versions of the minigames. However, as mentioned earlier, different minigames were unlocked at different levels and unlocked by participants and their families potentially at different times. Agility and Bark It are the last two games to be unlocked at levels 4 and 5 respectively. By controlling for the number of days each family had access to each game, we can account for these different unlock times. This also allows us to control for the fact that the first versions (V1) of the minigames were only accessible for at most approximately 45 days by C1-H, whereas the second versions (V2) were accessible for the remainder of C1-H and the entirety of C2-H. As shown in Figure ~\ref{fig:vfbh-basic-game-plays-perDay}, the V2 minigames were played much less controlling for days than the V1. 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50 
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- 
@@ -76,7 +91,10 @@ In addition to how much time participants spent playing the minigames, the varie
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- 
@@ -94,7 +112,10 @@ Rather than being indicative of the relative success of each version of the mini
 As shown in Figures ~\ref{fig:vfbh-participant-play-info},~\ref{fig:vfbh-participant-play-info-per}, and ~\ref{fig:vfbh-participant-play-info-per-sep}, we have two participants that played far more than the rest. As such, when examining the number of games played and time spent playing them, our previous graphs are skewed by those two participants' preferences. By looking at their play time individually across all of the games they played, we see that both of these participants had a substantial preference for the Soccer minigames (Figures ~\ref{fig:vfbh-outliers-time-somuchtime} and ~\ref{fig:vfbh-outliers-time-somuchtime-2}).
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -105,7 +126,10 @@ As shown in Figures ~\ref{fig:vfbh-participant-play-info},~\ref{fig:vfbh-partici
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -118,7 +142,10 @@ As shown in Figures ~\ref{fig:vfbh-participant-play-info},~\ref{fig:vfbh-partici
 As shown in Figure ~\ref{fig:vfbh-outliers-removed-time-all}, the preference towards the Soccer minigame was reduced for both V1 and V2 upon removing these participants from the overall play data. The play time was reduced so much that other minigames overtook Soccer in terms of overall playtime across both C1-H and C2-H. Additionally, with those outliers removed, the amount of time played for each game became more comparable than those shown in Figures ~\ref{fig:vfbh-basic-game-plays} and ~\ref{fig:vfbh-basic-game-plays-perDay}.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -133,7 +160,10 @@ Also shown in ~\ref{fig:vfbh-outliers-removed-time-all}, both versions of Agilit
 Lastly for minigame metrics, as mentioned, the variety of games participants played over time is of interest. We expected that participants would tend to prefer a variety of games throughout the course of the study. Initial attempts at visualizing gameplays in a timeline format were incredibly crowded and hard to read. Instead, we used a combination of Gantt charts (Figure ~\ref{fig:vfbh-mr-gantt}) and line graphs (Figure ~\ref{fig:vfbh-weekly-plays}). Due to the sporadic nature of daily game plays, we binned game plays into weeks since the start of the study. 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -144,7 +174,10 @@ Lastly for minigame metrics, as mentioned, the variety of games participants pla
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -159,7 +192,10 @@ Figure ~\ref{fig:vfbh-mr-gantt} shows the study weeks with contiguous plays for 
 Figure ~\ref{fig:vfbh-weekly-plays} depicts the quantity of game plays for each game during the week. As shown, C1-H V1 games were played more than their V2 counterparts for both C1-H and C2-H, which is similar to our previously mentioned findings. They also follow the trend of decreasing over the course of the study. The immediate drop off in plays for C1-H after week 5 can be explained by the participant 50121, who had many more game plays than the rest of their cohort, not playing as many games as before the V2 update (Figure ~\ref{fig:plays-line-50121} ~\ref{fig:c1h-line-outlierremoved}), greatly reducing the difference in game plays between V1 and V2. Similarly, the C2-H participant 60042 contributed many of the plays to C2-H each week (Figure ~\ref{fig:plays-line-60042} ~\ref{fig:c2h-line-outlierremoved}). 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -169,7 +205,10 @@ Figure ~\ref{fig:vfbh-weekly-plays} depicts the quantity of game plays for each 
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -179,7 +218,10 @@ Figure ~\ref{fig:vfbh-weekly-plays} depicts the quantity of game plays for each 
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -189,7 +231,10 @@ Figure ~\ref{fig:vfbh-weekly-plays} depicts the quantity of game plays for each 
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50 
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -205,7 +250,10 @@ The dataset used to examine VFB level increases is not the same data set as the 
 As previously mentioned, each game unlocked at a different level. This may contribute to the differences in relative gameplay metrics. Figures ~\ref{fig:vfbh-levelups} show VFB level increases by family for C1-H and C2-H respectively. Depicted in these figures are three red, vertical lines depicting the start and end dates for each cohort with a week removed from the start given that participants did not have access to their VFB for the first week for both cohorts. The third vertical line depicts 38 days after the earliest start time for each cohort. This line corresponds to the V2 update C1-H received on October 5, 2021, with the equivalent date (May 3, 2022) shown for C2-H. Given that all games were unlocked by level 5, this means that most participants for both C1-H and C2-H had all of the available games unlocked between 2 and 3 weeks after receiving their VFB. 
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -222,7 +270,10 @@ Given that C1-H participants continued to level their VFB not only for a longer 
 In order for the participants to be able to increase the level of their VFB and, thereby, to unlock more games and earn more points, they needed to complete a family review so that their physical activity (PA) data would be applied to their VFB. The family reviews were intended to be used for the family to assess and discuss their physical activity (PA) data. We anticipated each family would complete a family review once per week. However, as shown in in Figures ~\ref{fig:famrev-line}, this was not the case given that there were 16 families in C1-H and 9 in C2-H, that goal was never met. Although, C2-H did have eight family reviews during the first week. As with our other metrics, family reviews also saw a decrease over time.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -236,7 +287,10 @@ In order for the participants to be able to increase the level of their VFB and,
 Figures ~\ref{fig:famrev-gantt} the number of family reviews for each participant family per week, where a solid bar connecting weeks denotes that there was at least one family review each week contiguously. Family 6004, which contained our gameplay outlier mentioned earlier, had the most weeks with a family review for C2-H, which may be a contributing factor as to why they played more games than every other participant in their cohort combined. The same does not hold true for C1-H as the participant with the most gameplays was a member of family 5012. In fact, family 5001 was amongst the families with the lowest play time and game plays. Thus, by simply looking at the quantity and overall timing of family reviews, this seems to indicate that quantity nor consistency of family reviews relate to the quantity of time played nor game plays. However, given that many participants had all of the games unlocked by the third week of the study, there may not have been time for the consistency of family reviews to impact gameplay as they already had everything in that regard.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -249,7 +303,10 @@ Figures ~\ref{fig:famrev-gantt} the number of family reviews for each participan
 Lastly, a Spearman's correlation was run to determine the relationships between quantity of family reviews and any of the previous stats discussed, such as number of level ups and play time per day. Figure ~\ref{fig:heatmap} depicts the results of this correlation as a heatmap with the significance results for family reviews in Figure ~\ref{fig:heatmap-corr}. There were strong, positive correlations between the number of review days and most of the other metrics except for login days. Of those, max level (r=.70, n=25, p<.01), number of level ups (r=.86, n=25, p<0.001), plays per day (r=0.77, n=25, p<0.01), and play time per day (r=.71, n=25, p<.01) are significant. All of this seems to indicate that there is a relationship between family reviews and interaction with the VFB system that needs to be explored further. The relationship between number of family reviews and level ups also seems to indicate that individuals who did complete a family review tended to level up, which was to be expected. The reverse is always true as a level up could not happen without a family review. However, there are at least two conditions in which participants could complete family reviews without leveling up their VFB. The first is simply not meeting the required physical activity necessary to reach their VFB's next level. The other is that they never logged into the VFB system again but continued to complete family reviews. As indicated in previous sections, we do have participants that did not engage with the VFB system beyond the first few weeks of their cohort.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -259,7 +316,10 @@ Lastly, a Spearman's correlation was run to determine the relationships between 
 \end{figure}--->
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[!htbp]
@@ -285,7 +345,13 @@ Lastly, the correlation data seems to point toward there being an interaction be
 There is a lot more data to examine from the VFB-H data set. For example, we enabled both real-world and virtual movement systems for VFB-H and recorded this data for every session. We intended for participants to use the virtual joysticks to locomote through the virtual world with a combination of real-world and virtual joystick-based movement for rotating their view. Figure ~\ref{fig:vfbh-motion} shows our preliminary results from this data set, which only consists of locomotion data without any view rotation data. We expected participants to largely use the joystick locomotion system due to potentially restricted real-world space, which is what happened. It was unexpected for real-world locomotion to constitute over 20\% of the overall locomotion as we did not design our mechanics around real-world locomotion, only real-world rotation. With both their locomotion and rotation data, we can recreate their path and gaze direction and match this movement with our event log to determine if this movement was used during a particular minigame.
 
 <figure>
-  <img class=scale-h50 src="vfbH_Trophy_Sizing.png">   <img class=scale-h50 src="vfbH_Trophy_Sizing.png">
+  <img class=scale-h50
+    src="vfbH_Trophy_Sizing.png"
+    alt="TODO:"
+    title="TODO:">   <img class=scale-h50
+                        src="vfbH_Trophy_Sizing.png"
+                        alt="TODO:"
+                        title="TODO:">
   <figcaption>Figure 14. A series of PA trophies, which increase in size as higher PA goals are met. The leftmost plaque is awarded when daily goals are not met. Lastly, if a daily PA goal exceeds 11,000 steps, a randomly animated copy of the VFB is placed on top of the trophy.</figcaption>
 </figure>
 <!--- \begin{figure}[h]

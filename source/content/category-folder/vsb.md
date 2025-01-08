@@ -31,7 +31,10 @@ The VSB-M system utilized a kiosk consisting of a large-screen TV and Microsoft 
 
 <!--- TODO: \ref{fig:vsb-kiosk} --->
 <figure class=img-fig>
-  <img class=scale-w100 src="vsb_kiosk.png">
+  <img class=scale-w100 
+    src="vsb_kiosk.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 1. The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
 </figure>
 
@@ -48,12 +51,11 @@ With all of this in mind, we designed a "grab" mechanic that seemed to work well
 ### STEM Buddy
 
 <!---TODO: (see Figure ~\ref{fig:vsb-buddies}) --->
-<!---<figure class=img-fig>
-  <img class=scale-h75 src="vsb_buddy_creation.png"> <img class=scale-h75 src="vsb_buddies.png">
-  <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
-</figure>--->
 <figure class=img-fig>
-  <img class=scale-h75 src="vsb_buddies_combo.png">
+  <img class=scale-h75 
+    src="vsb_buddies_combo.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 2. The VSB customization interface (left) along with six customized VSBs showing the various color and shape options (right).</figcaption>
 </figure>
 
@@ -69,7 +71,10 @@ We designed two motion-based minigames, where the child would use their real-wor
 
 <!---TODO: (see Figure ~\ref{fig:vsb-skeleton})-->
 <figure class=img-fig>
-  <img class=scale-h50 src="vsb_skeleton.png">
+  <img class=scale-h50 
+    src="vsb_skeleton.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 3. The skeleton avatar representing the player from the VSB system.</figcaption>
 </figure>
 
@@ -92,7 +97,10 @@ TODO: same line? hq images where?
   <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
 </figure> --->
 <figure class=img-fig>
-  <img class=scale-w100 src="vsb_minigame_combo.png">
+  <img class=scale-w100 
+    src="vsb_minigame_combo.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 4. The Lever Hero (left) and Slingshot (right) minigames from the VSB-M system. There is an image being built in the background based on the player’s area of interest.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -107,7 +115,10 @@ Our second game, Slingshot, was designed around trajectories and how to use them
 
 <!-- TODO: (see Figure ~\ref{fig:vsb-slingshot}) --->
 <figure class=img-fig>
-  <img class=scale-w100 src="vsb_slingshot_shot.png">
+  <img class=scale-w100 
+    src="vsb_slingshot_shot.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 5. A player attempting to shoot a block during the slingshot minigame from the VSB-M system.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -124,7 +135,10 @@ For future iterations, we conceptualized a tutorial system where a participant's
 
 <!--- TODO: (see Figure ~\ref{fig:vsb-stats}) --->
 <figure class=img-fig>
-  <img class=scale-w100 src="vsb_resultsTable.png">
+  <img class=scale-w100 
+    src="vsb_resultsTable.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 6. Play statistics for the VSB-M minigames after each system upgrade.</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -142,7 +156,7 @@ For our subsequent studies and in terms of hardware, we learned that tablet or t
 In terms of software, we learned that we should prioritize incorporating the virtual buddy as a core part of the experience, interacting directly with the participant. We also learned that our grab gesture works well as an interaction mechanic and minigames could be designed around this mechanic. Lastly, we learned that a system could be deployed in the field for an extended period with minimal input required by site staff and that being able to remotely apply updates or debug problems was very beneficial.
 
 
-[^diss]: Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.
-[^vsb1]: Ball, Catherine, Sun Joo Ahn, and Kyle Johnsen. "Design and field study of motion-based informal learning games for a children’s museum." 2019 IEEE 5th workshop on everyday virtual reality (WEVR). IEEE, 2019.
-[^vfb-c1]: Ahn, Sun Joo, Kyle Johnsen, and Catherine Ball. "Points-based reward systems in gamification impact children’s physical activity strategies and psychological needs." Health Education & Behavior 46.3 (2019): 417-425.
+[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537)
+[^vsb1]: [Ball, Catherine, Sun Joo Ahn, and Kyle Johnsen. "Design and field study of motion-based informal learning games for a children’s museum." 2019 IEEE 5th workshop on everyday virtual reality (WEVR). IEEE, 2019.](https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf)
+[^vfb-c1]: [Ahn, Sun Joo, Kyle Johnsen, and Catherine Ball. "Points-based reward systems in gamification impact children’s physical activity strategies and psychological needs." Health Education & Behavior 46.3 (2019): 417-425.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/)
 TODO: cite cmoa website??

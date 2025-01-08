@@ -21,7 +21,10 @@ The Virtual Buddy Fruit and Vegetable (VB-F\&V) system was designed to encourage
         
 <!--- TODO: (Figure ~\ref{fig:vfbc-size}) --->
 <figure>
-  <img class=scale-w100 src="vfbC_vfb_size.png">
+  <img class=scale-w100
+    src="vfbC_vfb_size.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 1. The range of VB sizes from the least healthy (left) to the most healthy (right).</figcaption>
 </figure>
 <!--- 
@@ -35,7 +38,10 @@ Prior to this system, the team had developed the original Virtual Fitness Buddy 
 
 <!--- TODO: (see Figure ~\ref{fig:fnv-interface})--->
 <figure>
-  <img class=scale-w100 src="vbFV_interface.png">
+  <img class=scale-w100
+    src="vbFV_interface.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 2. A play station for the VB-F\&V system (A, left), including the Novint Falcon haptic joystick (B, left). An example of the VB-F\&V virtual world, showing a VB and give paw trick (C, right), where the red sphere shown represents the virtual cursor controlled by the haptic joystick (B, left).</figcaption>
 </figure>
 <!--- \begin{figure}[h]
@@ -48,7 +54,10 @@ Each child needed to pump their VB’s virtual heart and feel the elasticity of 
 
 <!--- TODO: (Figure ~\ref{fig:fnv-heart}) --->
 <figure>
-  <img class=scale-w100 src="vbFV_heart_interface.png">
+  <img class=scale-w100
+    src="vbFV_heart_interface.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 3. The VB-F\&V heart pumping (A, left) and artery checking minigames (B, right). The sliders on the bottom left represent the health of the VB, ranging from min health (left/red) and max health (right/green).</figcaption>
 </figure>
 <!---
@@ -72,7 +81,10 @@ Similar to the VB-F\&V system, the VFB-C system consisted of a customizable VFB,
      
 <!--- TODO: (Figure ~\ref{fig:vfbc-kiosk} (left)) --->
 <!--- <figure>
-  <img class=scale-w100 src="vfbC_kiosk.png">
+  <img class=scale-w100
+    src="vfbC_kiosk.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 4. A child interacting with their VFB. The VFB-C mobile kiosk is shown on the left with the hover selection system shown on the right. The hover select cursor is shown as a pink circle on the right (located on the bottom of the image in the center near the VFB’s foot).</figcaption>
 </figure>--->
 <!---
@@ -86,7 +98,10 @@ Each child played with their VFB using a mobile kiosk system, consisting of a la
 
 <!--- TODO: (see Figure ~\ref{fig:vfbc-skele}) --->
 <figure>
-  <img class=scale-h50 src="vfbC_skeleton.png">
+  <img class=scale-h50
+    src="vfbC_skeleton.png"
+    alt="TODO:"
+    title="TODO:">
   <figcaption>Figure 5: An example of the virtual avatar used to represent the player. This avatar was displayed on the side of the screen.</figcaption>
 </figure>
 <!---

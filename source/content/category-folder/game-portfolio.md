@@ -32,16 +32,15 @@ title: Game Portfolio Overview
   color: #000; /* Change text color on hover */
 }
 -->
-TODO: blurb below headings?
+TODO: test on mobile
 
-TODO: intro blurb?
+TODO: go back over blurbs with fresh eyes
 
 TODO: collapsible sections? old method won't look good so need new method
 
 TODO: setup table of contents
 
 TODO: fix links: sort videos how I want them to be
-
 TODO: drop videos for now 
 
 <!-- ## <div class="portfolio-header">Research Projects</div>
@@ -55,6 +54,7 @@ TODO: drop videos for now
 <!-- > [!info] Title
 > 
 > This is a callout! -->
+>
 
 <nav class="toc">
     <h2>Table of Contents</h2>
@@ -65,7 +65,10 @@ TODO: drop videos for now
     </ul>
 </nav>
 
+This is a sample of various projects I have worked on since I started learning how to program over 11 years ago. In this time, I have completed my [PhD in engineering](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537) with a focus on building virtual experiences. I have included three types of projects that vary on their development cycle and scope. More details will be provided below.
+
 <h2 class="portfolio-header">Research Projects</h2>
+<p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a href="https://www.doctorcatball.com/category-folder/vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
 <div id="Research_Projects" class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
         <!-- TODO: Page link once setup -->
@@ -205,6 +208,7 @@ TODO: drop videos for now
 </div> <!-- End Research Projects Grid -->
 
 <h2 id="Class_Projects" class="portfolio-header">Class Projects</h2>
+<p>I built these projects as part of my course work for my various virtual/mixed reality and game programming classes. These had a shorter time scale than the research projects, wrapping after 2 weeks or 1 month. I used these opportunities to learn something new about the game engine (Unity3D or ImpactJS) and/or various design approaches for the given topic. Below, mixed reality projects are labeled as MR and virtual reality projects are labeled as VR. TODO: put art notice (especially for Enrage Timer)</p>
 <div class="responsive-image-grid"> <!-- Class Projects Grid -->
     <div class="grid-item"> <!-- Enrage Timer -->
         <!-- TODO: modify video and link video -->
@@ -320,12 +324,17 @@ TODO: drop videos for now
 </div> <!-- End Class Projects Grid -->
 
 <h2 id="Game_Jam_Projects" class="portfolio-header">Game Jam Projects</h2>
+<p>My game jam projects were all made over the course of a weekend (72 hours) each with my friends. I provided part of the programming and design utilized for these projects. SuperViRus and DMVania were made using Unity3D while Ghost quest was a board game.</p>
+<ul>
+    <li>SuperViRus is a VR puzzle game where the player must use both of their arms to simultaneously move two viruses along a maze, combining them in the end. It was made for the Global Game Jam 2018 where the theme was transmission.</li>
+    <li>Ghost Quest is a 2 player board game where each player has opposing goals. The human's goal is to escape the house with spells remaining while the ghosts's goal is to prevent the human from leaving. It was made for the 2018 Athens Game Jam where the theme was supernatural.</li>
+    <li>DMVania is a puzzle platformer where your goal is to renew your license. Along the way you must gather the proper forms to unlock certain abilities, including the ability to move forward. It was made for the 2017 Athens Game Jam where the theme was bureaucracy.</li>
+</ul>
 <div class="responsive-image-grid"> <!-- Game Jam Projects Grid -->
     <div class="grid-item"> <!-- SuperViRus -->
         <!-- TODO: upload video? found some on pc in web desktop folder -->
         <!-- TODO: link video -->
-        <!-- TODO: 2018 Global Game Jam: SuperVRus -->
-        <p class="grid-header-txt">SuperViRus</p>
+        <p class="grid-header-txt">SuperViRus</p> <!-- 2018 Global Game Jam: SuperViRus -->
         <img class="grid-img"
             src="supervrus_lev2-trim.png"
             alt="A biological, virtual maze with two virtual virus models."
@@ -340,8 +349,7 @@ TODO: drop videos for now
     </div> <!-- End SuperViRus -->
     <div class="grid-item"> <!-- Ghost Quest -->
         <!-- TODO: keep? -->
-        <!-- TODO: 2018 Athens Game Jam: Ghost Quest -->
-        <p class="grid-header-txt">Ghost Quest</p>
+        <p class="grid-header-txt">Ghost Quest</p> <!-- 2018 Athens Game Jam: Ghost Quest -->
         <img class="grid-img"
             src="ghost_boardGame.png"
             alt="A virtual grave."
@@ -356,8 +364,7 @@ TODO: drop videos for now
     </div> <!-- End Ghost Quest -->
     <div class="grid-item"> <!-- DMVania -->
         <!-- TODO: make video? or find one -->
-        <!-- TODO: 2017 Athens Game Jam: DMVania -->
-        <p class="grid-header-txt">DMVania</p>
+        <p class="grid-header-txt">DMVania</p> <!-- 2017 Athens Game Jam: DMVania -->
         <img class="grid-img"
             src="dmvania_scream.png"
             alt="A DMV set inside a classic, horror platformer."
@@ -371,10 +378,3 @@ TODO: drop videos for now
         </div> <!-- DMVania Link Grid -->
     </div> <!-- End DMVania -->
 </div> <!-- End Game Jam Projects Grid -->
-
-
-TODO: test on mobile
-
-TODO: add a blurb (one sentence tops) for all projects here along with picture and link to paper and/or demo and/or video 
-
-Like this: https://www.remedygames.com/games
