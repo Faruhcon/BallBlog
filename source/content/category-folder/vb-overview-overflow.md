@@ -11,7 +11,7 @@ draft: true
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w100 
             src="vfbC_kiosk-pet-skele.png"
-            alt="TODO:"
+            alt="Compilation of TV, virtual dog, and spheres in the shape of a human."
             title="VFB-C kiosk, buddy, and Kinect skeleton">
         <figcaption>The VFB-C kiosk, buddy, and Kinect skeleton.</figcaption>
     </figure>
@@ -158,22 +158,21 @@ TODO:
         </div> <!-- End VB-F&V Stats Table -->
     </details> <!-- End VB-F&V Stats -->
     <p>As part of this app, I implemented two different VB health checks: arterial elasticity and heart pumping. They were designed to represent different aspects of a child's VB. See below for more details on these health checks. In addition to these health checks, children were able to get their VFB to perform tricks and/or play fetch by spending trick credits earned through meeting their F&V goals.</p>
-    <p>TODO: pic?</p>
     <details open> <!-- VB-F&V Health Check Table -->
         <summary>VB-F&V Health Checks</summary>
         <!-- Arterial Elasticity -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-pic"> <!-- TODO: Pic -->
                 <img src="vbFV_arterial_elasticity.png"
-                    alt="TODO:"
-                    title="TODO:">
+                    alt="A major artery of a heart inside a lab."
+                    title="VB-F&V Arterial Elasticity Heath Check">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Arterial Elasticity</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> TODO:</li>
-                    <li><u>Goal:</u> TODO: </li>
-                    <li><u>Controls:</u> TODO:</li>
+                    <li><u>Type:</u> Arterial elasticity check TODO:</li>
+                    <li><u>Goal:</u> Determine the rigidity of a major artery TODO: </li>
+                    <li><u>Controls:</u> Use haptic joystick to press on artery to see how much it depresses TODO:</li>
                 </ul>
             </div> <!-- End List -->
         </div> <!-- End Table Cell -->
@@ -183,15 +182,15 @@ TODO:
             <div class="mgTable-listLeft"> <!-- List -->
                 <p class="mgTable-title">Heart Pumping</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> TODO: </li>
-                    <li><u>Goal:</u> TODO:</li>
-                    <li><u>Controls:</u> TODO:</li>
+                    <li><u>Type:</u> Heart pumping check TODO: </li>
+                    <li><u>Goal:</u> Determine how difficult is it to pump the heart TODO:</li>
+                    <li><u>Controls:</u> Use haptic joystick to pump heart and feel resistanceTODO:</li>
                 </ul>
             </div> <!-- End List -->
             <div class="mgTable-pic"> <!-- TODO: Pic -->
                 <img src="vbFV_heart_pumping.png"
-                    alt="TODO:"
-                    title="TODO:">
+                    alt="An anatomical heart in a lab."
+                    title="VB-F&V Heart Pumping Health Check">
             </div> <!-- End Pic -->
         </div> <!-- End Table Cell -->
         <!-- End Heart Pumping -->
