@@ -432,8 +432,11 @@ TODO: find the vfb video I made?? should be on youtube
                             <td>TV, PC, Kinect, Touchscreen</td>
                         </tr>
                         <tr>
-                            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">Paper</a>
-                            <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 4</a>
+                            <td>Publications</td>
+                            <td>
+                                <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">Paper</a>
+                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 4</a>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
