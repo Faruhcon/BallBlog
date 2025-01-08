@@ -24,55 +24,57 @@ TODO: find the vfb video I made?? should be on youtube
         <figcaption>The VFB-H iPad interface.</figcaption>
     </figure>
     <p>The Virtual Fitness Buddy Home (VFB-H) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.</p>
-    <details open> <!-- VFB-H Stats -->
-        <summary>VFB-H Stats</summary> <!-- TODO: switch to Study Stats or VFB-H Study Stats? -->
-        <div class="table-container"> <!-- VFB-H Stats Table -->
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual Fitness Buddy At-Home (VFB-H)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>Fall 2021 to Spring 2022</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>At-Home</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>2</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>4.5 months each</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>25 Treatment (44 Total)</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>Physical Activity</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Motion, Touch, and Voice </td>
-                    </tr>
-                    <tr>
-                        <td>Hardware</td>
-                        <td>iPad</td>
-                    </tr>
-                    <tr>
-                        <td>Publication</td>
-                        <td><a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 5</a></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div> <!-- End VFB-H Stats Table -->
-    </details> <!-- End VFB-H Stats -->
+    <div class=stats-container> <!-- VFB-H Stats -->
+        <details open>
+            <summary>VFB-H Stats</summary> <!-- TODO: switch to Study Stats or VFB-H Study Stats? -->
+            <div class="stats-table-container"> <!-- VFB-H Stats Table -->
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>Virtual Fitness Buddy At-Home (VFB-H)</td>
+                        </tr>
+                        <tr>
+                            <td>Dates</td>
+                            <td>Fall 2021 to Spring 2022</td>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>At-Home</td>
+                        </tr>
+                        <tr>
+                            <td>Cohorts</td>
+                            <td>2</td>
+                        </tr>
+                        <tr>
+                            <td>Duration</td>
+                            <td>4.5 months each</td>
+                        </tr>
+                        <tr>
+                            <td>Participants</td>
+                            <td>25 Treatment (44 Total)</td>
+                        </tr>
+                        <tr>
+                            <td>Focus</td>
+                            <td>Physical Activity</td>
+                        </tr>
+                        <tr>
+                            <td>Controls</td>
+                            <td>Motion, Touch, and Voice </td>
+                        </tr>
+                        <tr>
+                            <td>Hardware</td>
+                            <td>iPad</td>
+                        </tr>
+                        <tr>
+                            <td>Publication</td>
+                            <td><a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 5</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> <!-- End VFB-H Stats Table -->
+        </details> 
+    </div> <!-- End VFB-H Stats -->
     <!-- <figure class=img-fig>
         <img class=scale-w100 src="vfbA_petCustomizations_example.png">
         <figcaption>VFB coat, tag, collar, and hat customizations.</figcaption>
@@ -241,62 +243,64 @@ TODO: find the vfb video I made?? should be on youtube
         <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
     </figure>
     <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
-    <details open> <!-- VSB-M Stats -->
-        <summary>VSB-M Stats</summary>
-        <div class="table-container"> <!-- VSB-M Stats table -->
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual STEM Buddy Museum (VSB-M)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>January 2017 to May 2022</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>Children's Museum of Atlanta (CMOA)</td>
-                    </tr>
-                    <tr>
-                        <td>Sites</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>5 years</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>Unknown – 28,122 recorded plays over 2 years</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>STEM Education</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Motion and Touch</td>
-                    </tr>
-                    <tr>
-                        <td>Hardware</td>
-                        <td>TV, PC, Kinect, Android Tablet</td>
-                    </tr>
-                    <tr>
-                        <td>Publications</td>
-                        <td>
-                            <a href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">Paper</a>
-                            <a href ="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 3</a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div> <!-- End VSB-M Stats Table -->
-    </details> <!-- End VSB-M Stats -->
+    <div class=stats-container> <!-- VSB-M Stats -->
+        <details open>
+            <summary>VSB-M Stats</summary>
+            <div class="stats-table-container"> <!-- VSB-M Stats table -->
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>Virtual STEM Buddy Museum (VSB-M)</td>
+                        </tr>
+                        <tr>
+                            <td>Dates</td>
+                            <td>January 2017 to May 2022</td>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>Children's Museum of Atlanta (CMOA)</td>
+                        </tr>
+                        <tr>
+                            <td>Sites</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Cohorts</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Duration</td>
+                            <td>5 years</td>
+                        </tr>
+                        <tr>
+                            <td>Participants</td>
+                            <td>Unknown – 28,122 recorded plays over 2 years</td>
+                        </tr>
+                        <tr>
+                            <td>Focus</td>
+                            <td>STEM Education</td>
+                        </tr>
+                        <tr>
+                            <td>Controls</td>
+                            <td>Motion and Touch</td>
+                        </tr>
+                        <tr>
+                            <td>Hardware</td>
+                            <td>TV, PC, Kinect, Android Tablet</td>
+                        </tr>
+                        <tr>
+                            <td>Publications</td>
+                            <td>
+                                <a href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">Paper</a>
+                                <a href ="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 3</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> <!-- End VSB-M Stats Table -->
+        </details>
+    </div> <!-- End VSB-M Stats -->
     <p>TODO: maybe talk about gestures and adding the touchscreen because familiar interface?</p>
     <p>The tablet provided a familiar museum exhibit interface that was used for complex selection tasks, such as customizing their VSB. While the Kinect provided a more novel interface where players used their real world movements to interact with their VSB and play the minigames.</p>
     <figure class=img-fig>
@@ -381,59 +385,61 @@ TODO: find the vfb video I made?? should be on youtube
         <figcaption>  Kiosks used during the VFB-A pilot (left) and C1-A and C2-A (right). The C1-A/C2-A kiosk added a touchscreen display for menu selection.</figcaption>
     </figure>
     <p>The Virtual Fitness Buddy Afterschool (VFB-A) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.</p>
-    <details open> <!-- VFB-A Stats -->
-        <summary>VFB-A Stats</summary>
-        <div class="table-container"> <!-- VFB-A Stats Table -->
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual Fitness Buddy Afterschool (VFB-A)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>Spring 2018 to Fall 2019</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>Afterschool Programs</td>
-                    </tr>
-                    <tr>
-                        <td>Sites</td>
-                        <td>11 Treatment (21 Total)</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>3</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>6 months each</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>318 Treatment (464 Total)</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>Physical Activity</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Motion, Touch, and Voice </td>
-                    </tr>
-                    <tr>
-                        <td>Hardware</td>
-                        <td>TV, PC, Kinect, Touchscreen</td>
-                    </tr>
-                    <tr>
-                        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">Paper</a>
-                        <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 4</a>
-                    </tr>
-                </tbody>
-            </table>
-        </div> <!-- End VFB-A Stats Table -->
-    </details> <!-- End VFB-A Stats -->
+    <div class=stats-container> <!-- VFB-A Stats -->
+        <details open>
+            <summary>VFB-A Stats</summary>
+            <div class="stats-table-container"> <!-- VFB-A Stats Table -->
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>Virtual Fitness Buddy Afterschool (VFB-A)</td>
+                        </tr>
+                        <tr>
+                            <td>Dates</td>
+                            <td>Spring 2018 to Fall 2019</td>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>Afterschool Programs</td>
+                        </tr>
+                        <tr>
+                            <td>Sites</td>
+                            <td>11 Treatment (21 Total)</td>
+                        </tr>
+                        <tr>
+                            <td>Cohorts</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td>Duration</td>
+                            <td>6 months each</td>
+                        </tr>
+                        <tr>
+                            <td>Participants</td>
+                            <td>318 Treatment (464 Total)</td>
+                        </tr>
+                        <tr>
+                            <td>Focus</td>
+                            <td>Physical Activity</td>
+                        </tr>
+                        <tr>
+                            <td>Controls</td>
+                            <td>Motion, Touch, and Voice </td>
+                        </tr>
+                        <tr>
+                            <td>Hardware</td>
+                            <td>TV, PC, Kinect, Touchscreen</td>
+                        </tr>
+                        <tr>
+                            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">Paper</a>
+                            <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 4</a>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> <!-- End VFB-A Stats Table -->
+        </details>
+    </div> <!-- End VFB-A Stats -->
     <figure class=img-fig>
         <img class=scale-w75 
             src="VFB-A-H and VFB-C Comparison - Motion Blur.png"
@@ -552,62 +558,64 @@ TODO: find the vfb video I made?? should be on youtube
             title="VFB-C kiosk, buddy, and Kinect skeleton">
         <figcaption>The VFB-C kiosk, buddy, and Kinect skeleton.</figcaption>
     </figure>
-    <details open> <!-- VFB-C Stats -->
-        <summary>VFB-C Stats</summary>
-        <div class="table-container"> <!-- VFB-C Stats Table -->
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual Fitness Buddy Camp (VFB-C)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>Summer 2015</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>Summer Camp</td>
-                    </tr>
-                    <tr>
-                        <td>Sites</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>3 Days</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>39 Treatment (67 Total)</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>Physical Activity</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Motion and Voice </td>
-                    </tr>
-                    <tr>
-                        <td>Hardware</td>
-                        <td>TV, PC, Kinect</td>
-                    </tr>
-                    <tr>
-                        <td>Publications</td>
-                        <td>
-                            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">Paper</a>
-                            <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.2</a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div> <!-- End VFB-C Stats Table -->
-    </details> <!-- End VFB-C Stats -->
+    <div class=stats-container> <!-- VFB-C Stats -->
+        <details open>
+            <summary>VFB-C Stats</summary>
+            <div class="stats-table-container"> <!-- VFB-C Stats Table -->
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>Virtual Fitness Buddy Camp (VFB-C)</td>
+                        </tr>
+                        <tr>
+                            <td>Dates</td>
+                            <td>Summer 2015</td>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>Summer Camp</td>
+                        </tr>
+                        <tr>
+                            <td>Sites</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Cohorts</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Duration</td>
+                            <td>3 Days</td>
+                        </tr>
+                        <tr>
+                            <td>Participants</td>
+                            <td>39 Treatment (67 Total)</td>
+                        </tr>
+                        <tr>
+                            <td>Focus</td>
+                            <td>Physical Activity</td>
+                        </tr>
+                        <tr>
+                            <td>Controls</td>
+                            <td>Motion and Voice </td>
+                        </tr>
+                        <tr>
+                            <td>Hardware</td>
+                            <td>TV, PC, Kinect</td>
+                        </tr>
+                        <tr>
+                            <td>Publications</td>
+                            <td>
+                                <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">Paper</a>
+                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.2</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> <!-- End VFB-C Stats Table -->
+        </details>
+    </div> <!-- End VFB-C Stats -->
     <p>TODO: second blurb - what about?? there's no minigames</p>
     <p>TODO: pic?</p>
     <p>TODO: I was responsible for the following:</p>
@@ -638,62 +646,64 @@ TODO:
             title="Virtual Buddy Fruit and Vegetable (VB-F&V) Station">
         <figcaption>The VB-F&V Novint Falcon station.</figcaption>
     </figure>
-    <details open> <!-- VB-F&V Stats -->
-        <summary>VB-F&V Stats</summary>
-        <div class="table-container"> <!-- VB-F&V Stats Table -->
-            <table>
-                <tbody>
-                    <tr>
-                        <td>Name</td>
-                        <td>Virtual Buddy Fruit and Vegetable (VB-F&V)</td>
-                    </tr>
-                    <tr>
-                        <td>Dates</td>
-                        <td>Summer 2014</td>
-                    </tr>
-                    <tr>
-                        <td>Location</td>
-                        <td>Summer Camp</td>
-                    </tr>
-                    <tr>
-                        <td>Sites</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Cohorts</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <td>Duration</td>
-                        <td>3 Days</td>
-                    </tr>
-                    <tr>
-                        <td>Participants</td>
-                        <td>25 Treatment (68 Total)</td>
-                    </tr>
-                    <tr>
-                        <td>Focus</td>
-                        <td>Fruit and Vegetable Consumption</td>
-                    </tr>
-                    <tr>
-                        <td>Controls</td>
-                        <td>Haptic Joystick</td>
-                    </tr>
-                    <tr>
-                        <td>Hardware</td>
-                        <td>Mac, Novint Falcon</td>
-                    </tr>
-                    <tr>
-                        <td>Publications</td>
-                        <td>
-                            <a href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">Paper</a>
-                            <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.1</a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div> <!-- End VB-F&V Stats Table -->
-    </details> <!-- End VB-F&V Stats -->
+    <div class=stats-container> <!-- VB-F&V Stats -->
+        <details open>
+            <summary>VB-F&V Stats</summary>
+            <div class="stats-table-container"> <!-- VB-F&V Stats Table -->
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>Virtual Buddy Fruit and Vegetable (VB-F&V)</td>
+                        </tr>
+                        <tr>
+                            <td>Dates</td>
+                            <td>Summer 2014</td>
+                        </tr>
+                        <tr>
+                            <td>Location</td>
+                            <td>Summer Camp</td>
+                        </tr>
+                        <tr>
+                            <td>Sites</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Cohorts</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Duration</td>
+                            <td>3 Days</td>
+                        </tr>
+                        <tr>
+                            <td>Participants</td>
+                            <td>25 Treatment (68 Total)</td>
+                        </tr>
+                        <tr>
+                            <td>Focus</td>
+                            <td>Fruit and Vegetable Consumption</td>
+                        </tr>
+                        <tr>
+                            <td>Controls</td>
+                            <td>Haptic Joystick</td>
+                        </tr>
+                        <tr>
+                            <td>Hardware</td>
+                            <td>Mac, Novint Falcon</td>
+                        </tr>
+                        <tr>
+                            <td>Publications</td>
+                            <td>
+                                <a href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">Paper</a>
+                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.1</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> <!-- End VB-F&V Stats Table -->
+        </details>
+    </div> <!-- End VB-F&V Stats -->
     <p>As part of this app, I implemented two different VB health checks: arterial elasticity and heart pumping. They were designed to represent different aspects of a child's VB. See below for more details on these health checks. In addition to these health checks, children were able to get their VFB to perform tricks and/or play fetch by spending trick credits earned through meeting their F&V goals.</p>
     <details open> <!-- VB-F&V Health Check Table -->
         <summary>VB-F&V Health Checks</summary>

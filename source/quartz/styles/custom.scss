@@ -206,21 +206,70 @@ ul.mgTable{
     min-height: 60px;
 }
 
-.stats-table {
-    display: flex;
-    justify-content: center;
-    //align-items: center;
-}
-
 //#7393B3 is a great color
 //#6082B6 is too
 
-details > summary {
+.stats-container {
+    display: flex;
+    width: flex;
+    justify-content: center;
+    //Put this on the root div for stats table
+}
+
+.stats-table-container {
+    background-color: #797979;
+    box-shadow: 3px 3px 4px #797979;
+    border-radius: 5px;
+    //put this on the inner div under summary in a stats table
+}
+
+.stats-table-container tr:nth-of-type(even) {
+    background-color: light-dark(royalblue,#3e5d7b);
+}
+
+/*//do this for the even rows
+.stats-table-container tr:nth-of-type(odd) {
+    background-color: light-dark(rgb(185, 45, 10),#c74343);
+}*/
+
+.stats-table-container td {
+    color: light-dark(#efefef,lavender);
+}
+
+.stats-table-container a {
+    color: light-dark(#efefef,lavender);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+//TODO: add sliding up/down animation for tables
+// a solution: https://nerdy.dev/open-and-close-transitions-for-the-details-element
+
+details {
+    flex-basis: 52%;
+}
+
+details summary {
     background-color: light-dark(royalblue,#3e5d7b);
     box-shadow: 3px 3px 4px #797979;
     color: light-dark(#efefef,lavender);
     border-radius: 5px;
     cursor: pointer;
-    width: fit-content;
     padding: 0.5em;
 }
+
+/*//This is how you make changes to summary when it is closed
+details:not([open]) summary {
+    background-color: light-dark(royalblue,tomato);
+    box-shadow: 3px 3px 4px #797979;
+    color: light-dark(#efefef,lavender);
+    border-radius: 5px;
+    cursor: pointer;
+    width: fixed;
+    padding: 0.5em;
+}*/
+
+/*//And this is how you make changes to summary when it is open
+details[open] summary{
+    background-color: tomato;
+}*/

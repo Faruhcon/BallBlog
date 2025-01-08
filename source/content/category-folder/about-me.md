@@ -5,11 +5,11 @@ title: About Me
 
 Coming Soon!
 
-<div>
-    <details open> <!-- VFB-H Stats -->
+<div class=stats-container> <!-- VFB-H Stats -->
+    <details open>
         <summary>VFB-H Stats</summary>
-        <div class="table-container"> <!-- VFB-H Stats Table -->
-            <table class=stats-table>
+        <div class=stats-table-container> <!-- VFB-H Stats Table -->
+            <table>
                 <tbody>
                     <tr>
                         <td>Name</td>
@@ -54,5 +54,5 @@ Coming Soon!
                 </tbody>
             </table>
         </div> <!-- End VFB-H Stats Table -->
-    </details> <!-- End VFB-H Stats -->
-</div>
+    </details>
+</div>  <!-- End VFB-H Stats -->
