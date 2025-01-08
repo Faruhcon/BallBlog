@@ -34,7 +34,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 >Abstract: Serious games are games that are intended to serve a purpose other than merely to entertain, such as education or physical fitness. Childhood is a critical time for forming habits that extend into adulthood. Serious games can assist children in forming these habits while still being entertaining games to play. Additionally, virtual buddies can help both to motivate children to engage with the system and as a way to aid in forming these habits. With this in mind, we have designed several virtual buddy-based serious game systems to be used by children. These systems were designed with the ultimate goal of running them at a large-scale, unassisted in the field, where the environments played a pivotal role in the design and implementation of these systems. This article describes our experiences and lessons learned implementing each of these systems in the field. Finally, the goal of this dissertation is to analyze the data from our final study in order to uncover what parts of our latest system may affect participant engagement. 
 </div> <!-- End Dissertation (VFB-H) Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-at-home">VFB-H System Overview</a> -->
+<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-at-home">VFB-H System Overview</a> -->
 </div> <!-- End Dissertation (VFB-H) -->
 <div class="vfb-subheader"> <!-- VSB-M -->
 
@@ -47,7 +47,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 >Abstract: This paper discusses our experiences, lessons learned, and future research directions in designing and running a field study of a motion-based gaming system for visitors of a local children's museum. The system, named Virtual STEM Buddies, uses a large-screen kiosk to present minigames with interactive 3D content, such that the level of performance exhibited by participants indicates a level of understanding about the STEM concepts. The evolution of the system is presented, alongside evidence of improved usability and engagement throughout several prototyping iterations where the system has been used by thousands of visitors. We also describe a recently integrated mid-air free-hand interaction technique that facilitates selection and manipulation while staying accessible and intuitive to child visitors. Ultimately, we aim to learn how to best enable longitudinal interactions with the system that integrate virtual learning with the physically-rich museum learning environment.
 </div> <!-- End VSB-M Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">VSB-M System Overview</a> -->
+<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-stem-buddy-at-museum">VSB-M System Overview</a> -->
 </div> <!-- End VSB-M -->
 <div class="vfb-subheader"> <!-- VFB-A -->
 
@@ -59,7 +59,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 >Abstract: Childhood obesity is a growing concern as it can lead to lifelong health problems that carry over into adulthood. A substantial contributing factor to obesity is the physical activity (PA) habits that are formed in early childhood, as these habits tend to sustain throughout adulthood. To aid children in forming healthy PA habits, we designed a mixed reality system called the Virtual Fitness Buddy ecosystem, in which children can interact with a virtual pet agent. As a child exercises, their pet becomes slimmer, faster, and able to play more games with them. Our initial deployment of this project showed promise but was only designed for a short-term intervention lasting three days. More recently, we have scaled it from a pilot grade study to a 9-month intervention comprised of 422 children. Ultimately, our goal is to scale this project to be a nationwide primary prevention program to encourage moderate to vigorous PA in children. This article explores the challenges and lessons learned during the design and deployment of this system at scale in the field.
 </div> <!-- End VFB-A Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-afterschool">VFB-A System Overview</a> -->
+<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-afterschool">VFB-A System Overview</a> -->
 </div> <!-- End VFB-A -->
 <div class="vfb-subheader"> <!-- VFB-C -->
 
@@ -71,7 +71,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 >Abstract: Gamification is an increasingly popular form of health intervention but its efficacy remains elusive due to a lack of clarity in its conceptualization and operationalization. This study aimed to isolate and determine the direct causal effect of one of the most popular game elements used in gamified interventions, the points-based reward system, on physical activity (PA) in children. A 72-hour field study with children aged 9 to 13 (N = 67) was conducted using a digital PA intervention featuring a virtual dog, with and without a points-based reward system. PA was assessed with an activity monitor, and overall PA, three levels of PA intensity, and PA strategies during the 3-day intervention were measured. Guided by self-determination theory, the impact of the points-based reward system on children’s basic psychological needs was also investigated. Results indicated that the points-based reward system briefly increased PA engagement but did not significantly affect overall PA over time. When given equal number of points regardless of intensity, children approached the PA intervention strategically by engaging in significantly more light intensity and significantly less vigorous intensity PA than children who did not receive points. Results also suggested that the points-based reward system might promote perceptions of relatedness with the virtual agent featured in the gamified intervention.
 </div> <!-- End VFB-C Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-summer-camp">VFB-C System Overview</a> -->
+<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-summer-camp">VFB-C System Overview</a> -->
 </div> <!-- End VFB-C -->
 <div class="vfb-subheader"> <!-- VB-F&V -->
 
@@ -83,7 +83,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 > Abstract: A virtual pet in the form of a mid-sized dog was developed based on the framework of social cognitive theory and tested as a vehicle for promoting fruit and vegetable (F&V) consumption in children. Three groups of children (N = 68) between the ages of 7 and 13 years were studied: baseline (no treatment), computer only, and virtual dog. Children in the virtual dog condition interacted with the virtual dog for 3 days, setting F&V consumption goals and receiving evaluation and reinforcement based on whether they met their self-set goals. Children vicariously experienced future health outcomes of F&V consumption by seeing, hearing, and feeling their virtual dog's physical and mental health improve or deteriorate based on their F&V consumption in the physical world. Children in the computer only condition interacted with a computer system that presented equivalent features, but without the virtual dog. Children in the baseline condition did not receive any experimental treatment. Results indicated that children in the virtual dog condition chose to be served significantly more F&V than those in the computer only or baseline conditions did. However, children in the virtual dog condition were unable to consume significantly more F&V than those in the computer only condition, although children in those two conditions consumed more F&V than the baseline condition. Food preferences did not differ significantly across the three conditions before and after the experimental treatments. Theoretical and practical potentials of using a virtual pet to promote F&V consumption systematically in children are discussed.
 </div> <!-- End VB-F&V Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">VB-F&V System Overview</a> -->
+<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">VB-F&V System Overview</a> -->
 </div> <!-- End VB-F&V -->
 
 <div class="article-header"> <!-- Other Papers Header -->

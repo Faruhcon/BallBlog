@@ -68,7 +68,7 @@ TODO: drop videos for now
 This is a sample of various projects I have worked on since I started learning how to program over 11 years ago. In this time, I have completed my [PhD in engineering](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537) with a focus on building virtual experiences. I have included three types of projects that vary on their development cycle and scope. More details will be provided below.
 
 <h2 class="portfolio-header">Research Projects</h2>
-<p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a href="https://www.doctorcatball.com/category-folder/vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
+<p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a href="https://www.doctorcatball.com/Projects/vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
 <div id="Research_Projects" class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
         <!-- TODO: Page link once setup -->
@@ -84,7 +84,7 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">
                 Research</a>
             <a class="grid-link-item" 
-                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-at-home">
+                href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-at-home">
                 Overview</a>
         </div> <!-- End VFB-H Link Grid -->
     </div> <!-- End VFB-H -->
@@ -101,10 +101,10 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">
                 Research</a>
             <a class="grid-link-item" 
-                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-stem-buddy-at-museum">
+                href="https://www.doctorcatball.com/Projects/vb-overview#virtual-stem-buddy-at-museum">
                 Overview</a>
             <!-- <a class="grid-link-item"
-                href="https://www.doctorcatball.com/category-folder/vsb"> -->
+                href="https://www.doctorcatball.com/Projects/vsb"> -->
                 <!-- href="vsb.md"> -->
                 <!-- More Info</a> --> <!-- TODO: why border?? -->
             <!-- <a class="grid-link-item"
@@ -126,7 +126,7 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">
                 Research</a>
                 <a class="grid-link-item" 
-                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-afterschool">
+                href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-afterschool">
                 Overview</a>
             <!-- <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">
@@ -146,7 +146,7 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">
                 Research</a>
             <a class="grid-link-item" 
-                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-summer-camp">
+                href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-summer-camp">
                 Overview</a>
         </div> <!-- End VFB-C Link Grid -->
     </div> <!-- End VFB-C -->
@@ -164,7 +164,7 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
                 Research</a>
             <a class="grid-link-item" 
-                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">
+                href="https://www.doctorcatball.com/Projects/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">
                 Overview</a>
             <!-- <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
