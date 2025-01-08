@@ -5,6 +5,7 @@ title: About Me
 
 Coming Soon!
 
+Testing new elements here for now <3
 <div class=stats-container> <!-- VFB-H Stats -->
     <details open>
         <summary>VFB-H Stats</summary>
