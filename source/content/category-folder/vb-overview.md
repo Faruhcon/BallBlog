@@ -7,13 +7,15 @@ title: Virtual Buddy Projects Overview
 
 TODO: intro blurb
 
-This page contains info on the virtual buddy applications that I built through the course of my PhD work, which includes two major versions of the Virtual Fitness Buddy system and the Virtual STEM Buddy system, which encouraged children to engage in healthier exercise habits and to learn about various STEM concepts respectively. These systems took a <!-- TODO: more specific info on these projects can be found on their individual pages (links). -->
+This page contains info on the virtual buddy applications that I built through the course of my PhD work, which includes three iterations of the Virtual Fitness Buddy system, the Virtual STEM Buddy system, and the Virtual Buddy Fruit and Vegetable system. These systems encouraged children to engage in healthier exercise habits, to learn about various STEM concepts, and to engage in healthier fruit and vegetable consumption habits respectively. Each subsequent virtual buddy system built upon knowledge gleaned from all the previous virtual buddy systems. <!-- TODO: more specific info on these projects can be found on their individual pages (links). --> <!-- TODO: anymore to put here??? -->
 
 TODO: find the vfb video I made?? should be on youtube
+
 ## Virtual Fitness Buddy at Home
 
 <details open> <!-- VFB-H -->
-    <summary>VFB-H Info TODO: keep title?</summary>
+    <!-- <summary>VFB-H Info TODO: keep title?</summary> -->
+    <summary>Details</summary>
     <figure class=img-fig>
         <img class=scale-w100 
             src="vfbH_interface-example2.png"
@@ -23,7 +25,7 @@ TODO: find the vfb video I made?? should be on youtube
     </figure>
     <p>The Virtual Fitness Buddy Home (VFB-H) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.</p>
     <details open> <!-- VFB-H Stats -->
-        <summary>VFB-H Stats</summary>
+        <summary>VFB-H Stats</summary> <!-- TODO: switch to Study Stats or VFB-H Study Stats? -->
         <div class="table-container"> <!-- VFB-H Stats Table -->
             <table>
                 <tbody>

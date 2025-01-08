@@ -145,6 +145,9 @@ This is a sample of various projects I have worked on since I started learning h
             <a class="grid-link-item" 
                 href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">
                 Research</a>
+            <a class="grid-link-item" 
+                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-fitness-buddy-summer-camp">
+                Overview</a>
         </div> <!-- End VFB-C Link Grid -->
     </div> <!-- End VFB-C -->
     <div class="grid-item"> <!-- VB-F&V -->
@@ -160,6 +163,9 @@ This is a sample of various projects I have worked on since I started learning h
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
                 Research</a>
+            <a class="grid-link-item" 
+                href="https://www.doctorcatball.com/category-folder/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">
+                Overview</a>
             <!-- <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
                 Video</a> --> <!-- TODO: name for this, it's a proof of concept, also link -->

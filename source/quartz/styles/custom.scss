@@ -205,3 +205,22 @@ ul.mgTable{
     margin-bottom: -0.25em;
     min-height: 60px;
 }
+
+.stats-table {
+    display: flex;
+    justify-content: center;
+    //align-items: center;
+}
+
+//#7393B3 is a great color
+//#6082B6 is too
+
+details > summary {
+    background-color: light-dark(royalblue,#3e5d7b);
+    box-shadow: 3px 3px 4px #797979;
+    color: light-dark(#efefef,lavender);
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+    padding: 0.5em;
+}
