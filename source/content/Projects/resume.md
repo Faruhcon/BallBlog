@@ -17,8 +17,9 @@ draft: true
 
 - ~~Bachelor of Computer Science or equivalent Game Development qualifications~~
 - ~~Preferred: Post-graduate qualification in game design or related field~~
-- *Certifications or experience in Unity3D, Blender, Unreal Engine or similar a plus*
+- ~~*Certifications or experience in Unity3D, Blender, Unreal Engine or similar a plus*~~
 - *Portfolio of games, educational preferred, or interactive projects successfully completed and launched*
+  - TODO: videos! table of contents!
 
 #### Required Skills / Competencies:
 
@@ -147,7 +148,7 @@ STEM
 
 ### Programmer
 
-- Languages: C#, Python, SQL
+- Languages: C#, Python, SQL, Markdown, HTML, CSS
 - Major Libraries: PANDAS, Seaborn, Google Speech-to-Text, Oculus/Meta VR (Virtual Reality), HTC Vive VR (TODO: what's the name??), Microsoft Mixed Reality (TODO: what's the name), Apple iOS/iPadOS AR (Augmented Reality), Microsoft Kinect, Fitbit
   - TODO: combine the VR stuff together instead of separate??
 - Game Engine: Unity3D
