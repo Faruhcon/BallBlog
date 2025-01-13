@@ -11,11 +11,11 @@ These are only my papers
 
 Google scholar page link? --->
 
-[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ)
+<!-- [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ)
 
-TODO: intro blurb?
+TODO: intro blurb? -->
 
-These are academic papers where I am an author and where I was a primary developer for the associated applications. Much of my work has focused on building either mixed reality virtual buddy applications for children or virtual reality based assessments or ports (TODO: wording). My [Google Scholar page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ) is a hub for all of my academic papers.
+These are academic papers where I am an author and where I was a primary developer for the associated applications. Much of my work has focused on building either mixed reality virtual buddy applications for children or virtual reality based assessments or adaptations. My [Google Scholar page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ) is a hub for all of my academic papers.
 
 <!--- links to subsections below?? --->
 
@@ -53,7 +53,7 @@ These are academic papers where I am an author and where I was a primary develop
 
 ## VFB-A
 
-### [Scaling the Virtual Fitness Buddy Ecosystem as a School-Based Physical Activity Intervention for Children](https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/)[^vfb-a1] TODO:
+### [Scaling the Virtual Fitness Buddy Ecosystem as a School-Based Physical Activity Intervention for Children](https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/)[^vfb-a1]
 
 <div class="papers-abstract"> <!-- VFB-A Abstract -->
 

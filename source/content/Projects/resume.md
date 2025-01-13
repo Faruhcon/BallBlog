@@ -23,11 +23,11 @@ draft: true
 
 #### Required Skills / Competencies:
 
-- *Ability to work from a blank canvas*
-- *Ability to identify architectural challenges and articulate trade-offs*
-- *Ability to rapidly deploy small prototype playables for user testing*
+- ~~*Ability to work from a blank canvas*~~
+- ~~*Ability to identify architectural challenges and articulate trade-offs*~~
+- ~~*Ability to rapidly deploy small prototype playables for user testing*~~
 - *Comfortable working scrappy in order to test mechanics and ideas quickly*
-- *Confident working with external partners*
+- ~~*Confident working with external partners*~~
 
 #### Technical Skills:
 

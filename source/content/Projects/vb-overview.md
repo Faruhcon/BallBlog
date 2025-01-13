@@ -3,13 +3,11 @@ title: Virtual Buddy Projects Overview
 #draft: true
 ---
 
-# TODO: Page Header
-
-TODO: intro blurb
+<!-- TODO: intro blurb -->
 
 This page contains info on the virtual buddy applications that I built through the course of my PhD work, which includes three iterations of the Virtual Fitness Buddy system, the Virtual STEM Buddy system, and the Virtual Buddy Fruit and Vegetable system. These systems encouraged children to engage in healthier exercise habits, to learn about various STEM concepts, and to engage in healthier fruit and vegetable consumption habits respectively. Each subsequent virtual buddy system built upon knowledge gleaned from all the previous virtual buddy systems. <!-- TODO: more specific info on these projects can be found on their individual pages (links). --> <!-- TODO: anymore to put here??? -->
 
-TODO: find the vfb video I made?? should be on youtube
+<!-- TODO: find the vfb video I made?? should be on youtube -->
 
 ## Virtual Fitness Buddy at Home
 
@@ -234,7 +232,7 @@ TODO: find the vfb video I made?? should be on youtube
 ## Virtual STEM Buddy at Museum
 
 <details open> <!-- VSB-M -->
-    <summary>VSB-M Info TODO: keep title?</summary>
+    <summary>Details</summary>
     <figure class=img-fig>
         <img class=scale-w100 
             src="vsb_kiosk.png"
@@ -301,7 +299,7 @@ TODO: find the vfb video I made?? should be on youtube
             </div> <!-- End VSB-M Stats Table -->
         </details>
     </div> <!-- End VSB-M Stats -->
-    <p>TODO: maybe talk about gestures and adding the touchscreen because familiar interface?</p>
+    <!-- <p>TODO: maybe talk about gestures and adding the touchscreen because familiar interface?</p> -->
     <p>The tablet provided a familiar museum exhibit interface that was used for complex selection tasks, such as customizing their VSB. While the Kinect provided a more novel interface where players used their real world movements to interact with their VSB and play the minigames.</p>
     <figure class=img-fig>
         <img class=scale-h75 
@@ -370,13 +368,13 @@ TODO: find the vfb video I made?? should be on youtube
         <li>Data analysis on game play metrics</li>
         <li>Tech support and troubleshooting the kiosk</li>
     </ul> <!-- End VSB-M responsibilities list -->
-    <p>TODO: my responsibilities list</p>
+    <!-- <p>TODO: my responsibilities list</p> -->
 </details> <!-- End VSB-M -->
 
 ## Virtual Fitness Buddy Afterschool
 
 <details open> <!-- VFB-A -->
-    <summary>VFB-A Info TODO: keep title?</summary>
+    <summary>Details</summary>
     <figure class=img-fig>
         <img class=scale-w100 
             src="vfbA_kioskComparison.png"
@@ -545,14 +543,14 @@ TODO: find the vfb video I made?? should be on youtube
             <li>Creating notes on what each data point meant</li>
             <li>Converting this data into a format our statisticians could use to process the data easily</li>
         </ul> <!-- End Data Engineer list -->
-        <li>TODO: my responsibilities list</li>
+        <!-- <li>TODO: my responsibilities list</li> -->
     </ul> <!-- End VFB-A responsibilities list -->
 </details> <!-- End VFB-A -->
 
 ## Virtual Fitness Buddy Summer Camp
 
 <details open> <!-- VFB-C -->
-    <summary>VFB-C Info TODO: keep title?</summary>
+    <summary>Details</summary>
     <p><!-- TODO: done? -->The Virtual Fitness Buddy Summer Camp (VFB-C) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA goals, tracked using a Fitbit PA tracker, they would earn points to use to unlock new tricks and their VFB's health would increase, meaning that they were slimmer and faster. Unlike the other VFB projects, children could only interact with their VFB by playing fetch and completing tricks without any minigames. VFB-C was built as a mobile kiosk station to be used in a week-long summer camp consisting of a large screen display and Microsoft Kinect. Lastly, the control group for this study also had their own VFB, but they did not earn points to spend.</p>
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w100 
@@ -619,9 +617,9 @@ TODO: find the vfb video I made?? should be on youtube
             </div> <!-- End VFB-C Stats Table -->
         </details>
     </div> <!-- End VFB-C Stats -->
-    <p>TODO: second blurb - what about?? there's no minigames</p>
-    <p>TODO: pic?</p>
-    <p>TODO: I was responsible for the following:</p>
+    <!-- <p>TODO: second blurb - what about?? there's no minigames</p>
+    <p>TODO: pic?</p> -->
+    <p><!-- TODO: --> I was responsible for the following:</p>
     <ul> <!-- VFB-C Responsibilities List -->
         <li>Designing and implementing</li>
         <ul> <!-- VFB-C design and implement list -->
@@ -636,11 +634,11 @@ TODO: find the vfb video I made?? should be on youtube
     </ul> <!-- End VFB-C responsibilities list -->
 </details> <!-- End VFB-C -->
 
-TODO: 
+<!-- TODO: -->
 ## Virtual Buddy Fruit and Vegetable Summer Camp
 
 <details open> <!-- VB-F&V -->
-    <summary>VB-F&V Info TODO: keep title?</summary>
+    <summary>Details</summary>
     <p>The Virtual Buddy Fruit and Vegetable (VB-F&V) project was designed to encourage children to engage in healthier fruit and vegetable (F&V) habits through the use of a virtual dog buddy. As a child ate more fruits and vegetables, tracked by camp counselors, their VB's health would increase, which meant that their heart would be easier to pump, their major artery would be more elastic, and they could complete fetching and tricks faster. As that child met their F&V goals, they would earn credits to spend on performing tricks. VB-F&V was built as a station to be used in a week-long summer camp consisting of a Mac and Novint Falcon (haptic joystick).</p>
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w75 
@@ -720,9 +718,9 @@ TODO:
             <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Arterial Elasticity</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> Arterial elasticity check TODO:</li>
-                    <li><u>Goal:</u> Determine the rigidity of a major artery TODO: </li>
-                    <li><u>Controls:</u> Use haptic joystick to press on artery to see how much it depresses TODO:</li>
+                    <li><u>Type:</u> Arterial elasticity check <!-- TODO: --></li>
+                    <li><u>Goal:</u> Determine the rigidity of a major artery <!-- TODO: --> </li>
+                    <li><u>Controls:</u> Use haptic joystick to press on artery to see how much it depresses <!-- TODO: --></li>
                 </ul>
             </div> <!-- End List -->
         </div> <!-- End Table Cell -->
@@ -732,9 +730,9 @@ TODO:
             <div class="mgTable-listLeft"> <!-- List -->
                 <p class="mgTable-title">Heart Pumping</p>
                 <ul class="mgTable">
-                    <li><u>Type:</u> Heart pumping check TODO: </li>
-                    <li><u>Goal:</u> Determine how difficult is it to pump the heart TODO:</li>
-                    <li><u>Controls:</u> Use haptic joystick to pump heart and feel resistanceTODO:</li>
+                    <li><u>Type:</u> Heart pumping check <!-- TODO: --></li>
+                    <li><u>Goal:</u> Determine how difficult is it to pump the heart <!-- TODO: --></li>
+                    <li><u>Controls:</u> Use haptic joystick to pump heart and feel resistance <!-- TODO: --></li>
                 </ul>
             </div> <!-- End List -->
             <div class="mgTable-pic"> <!-- TODO: Pic -->
@@ -745,7 +743,7 @@ TODO:
         </div> <!-- End Table Cell -->
         <!-- End Heart Pumping -->
     </details> <!-- End VB-F&V Health Check Table -->
-    <p>TODO: In addition to implementing these health checks, I was responsible for the following:</p>
+    <p><!-- TODO: --> In addition to implementing these health checks, I was responsible for the following:</p>
     <ul> <!-- VB-F&V responsibilities list -->
         <li>Designing and implementing:</li>
         <ul> <!-- VB-F&V design and implement list -->

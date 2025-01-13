@@ -83,6 +83,10 @@ Coming Soon!
 - Led and architected the Virtual STEM Buddy experience from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta.
 
 
+- Development team lead on the afterschool Virtual Fitness Buddy project that launched to 155 children across 7 sites and ran 6 months. 
+- Prototyped a mixed reality keyboard over 2 months for Virtual Fitness Buddy that succeeded with adults but was unintuitive for children. 
+- Designed a 3d trophy model set that rewarded child fitness goals in the Virtual Fitness Buddy system.
+
 ## Other bullet points
 
 <!--- Ideas to massage --->
@@ -97,6 +101,11 @@ Coming Soon!
 - TODO: AR/VR/MR experience
 - TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back
 - TODO: VFB watch mentorship
+- TODO: coming up with bark it/agility (blank canvas, small prototype and scrappy too (other minigames too))
+- TODO: coming up with lever hero/slingshot?
+- TODO: simple animations?
+- TODO: designed 3d trophy system (trophy itself and pillar) with a 3d modeler
+- TODO: adept at model transform manipulation (to have them grow from a certain point; parenting things to have them move or scale the way I want)
 
 
 <!--- Non-Erin Approved (lol) --->
@@ -108,5 +117,3 @@ Coming Soon!
 
 <!-- -->
 
-- 
-- 
