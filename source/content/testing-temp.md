@@ -9,7 +9,7 @@ draft: true
     justify-content: center;
 }
 
-details {
+details.stats-table {
     max-width: 500px;
     overflow: hidden; /* Keep this line to prevent an odd blue outline around the element in Safari. */
     background: light-dark(royalblue,#3e5d7b);
@@ -73,12 +73,12 @@ div.stats-table-content a {
     font-style: italic;
 }
 
-details[open] + div.stats-table-content {
+details.stats-table[open] + div.stats-table-content {
     max-height: 800px; /* Set a max-height value enough to show all the content */
     transition: max-height 400ms ease-out, border 0ms linear;
 }
 
-details[open] summary::before {
+details.stats-table[open] summary.stats-table-summary::before {
     rotate: 90deg;
     transition: rotate 200ms ease-out;
 }
@@ -88,10 +88,14 @@ A page for constructing and testing various elements on a clean space
 
 Testing new elements here for now <3
 
-TODO: last things left: get the arrow back and rotating and centering table
+TODO: last things left: 
+- get the arrow back 
+- get the arrow rotating 
+- center table on page
+- make the scroll bar not show up when closing/opening ONLY
 
 <div class=stats-container2>
-    <details open>
+    <details open class="stats-table">
         <summary class="stats-table-summary" role="term" aria-details="pure-css">
            VFB-H Stats
         </summary>

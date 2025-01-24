@@ -1,23 +1,14 @@
 ---
 title: Papers
-#issueNo: 1
 ---
 
-<!--- TODO: Add links to papers here or maybe just google scholar? dont forget appropriate footnotes on individual pages
+<!-- TODO: Add links to papers here or maybe just google scholar? dont forget appropriate footnotes on individual pages
 
-TODO: link to the individual pages on this website using title as link text?? might be confusing that it doesn't link to the paper.. maybe buttons instead?
+These are only my papers -->
 
-These are only my papers
-
-Google scholar page link? --->
-
-<!-- [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ)
-
-TODO: intro blurb? -->
+<!-- TODO: intro blurb good? -->
 
 These are academic papers where I am an author and where I was a primary developer for the associated applications. Much of my work has focused on building either mixed reality virtual buddy applications for children or virtual reality based assessments or adaptations. My [Google Scholar page](https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ) is a hub for all of my academic papers.
-
-<!--- links to subsections below?? --->
 
 <div class="article-header"> <!-- Virtual Buddy Header -->
 
@@ -36,9 +27,8 @@ These are academic papers where I am an author and where I was a primary develop
 
 <a class="grid-link-item"
     href="vb-overview#virtual-fitness-buddy-at-home">
-    VFB-H System Overview</a>
+    Click Here for VFB-H System Overview</a>
 </div> <!-- End Dissertation (VFB-H) Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-at-home">VFB-H System Overview</a> -->
 </div><!-- End Dissertation (VFB-H) -->
 <div class="vfb-subheader"> <!-- VSB-M -->
 
@@ -53,9 +43,8 @@ These are academic papers where I am an author and where I was a primary develop
 
 <a class="grid-link-item"
     href="vb-overview#virtual-stem-buddy-at-museum">
-    VSB-M System Overview</a>
+    Click Here for VSB-M System Overview</a>
 </div> <!-- End VSB-M Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-stem-buddy-at-museum">VSB-M System Overview</a> -->
 </div> <!-- End VSB-M -->
 <div class="vfb-subheader"> <!-- VFB-A -->
 
@@ -69,12 +58,8 @@ These are academic papers where I am an author and where I was a primary develop
 
 <a class="grid-link-item"
     href="vb-overview#virtual-fitness-buddy-afterschool">
-    VFB-A System Overview</a>
+    Click Here for VFB-A System Overview</a>
 </div> <!-- End VFB-A Abstract -->
-
-
-
-<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-afterschool">VFB-A System Overview</a> -->
 </div> <!-- End VFB-A -->
 <div class="vfb-subheader"> <!-- VFB-C -->
 
@@ -88,9 +73,8 @@ These are academic papers where I am an author and where I was a primary develop
 
 <a class="grid-link-item"
     href="vb-overview#virtual-fitness-buddy-summer-camp">
-    VFB-C System Overview</a>
+    Click Here for VFB-C System Overview</a>
 </div> <!-- End VFB-C Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-fitness-buddy-summer-camp">VFB-C System Overview</a> -->
 </div> <!-- End VFB-C -->
 <div class="vfb-subheader"> <!-- VB-F&V -->
 
@@ -104,9 +88,8 @@ These are academic papers where I am an author and where I was a primary develop
 
 <a class="grid-link-item"
     href="vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">
-    VB-F&V System Overview</a>
+    Click Here for VB-F&V System Overview</a>
 </div> <!-- End VB-F&V Abstract -->
-<!-- TODO: <a href="https://www.doctorcatball.com/Projects/vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">VB-F&V System Overview</a> -->
 </div> <!-- End VB-F&V -->
 
 <div class="article-header"> <!-- Other Papers Header -->
@@ -157,8 +140,8 @@ These are academic papers where I am an author and where I was a primary develop
 [^f&v1]: [Ahn, Sun Joo Grace, et al. "Using Virtual Pets to Increase Fruit and Vegetable Consumption in Children: A Technology-Assisted Social Cognitive Theory Approach." Cyberpsychology, behavior and social networking 19.2 (2016): 86-92.](https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf)
 [^vsb1]: [Ball, Catherine, Sun Joo Ahn, and Kyle Johnsen. "Design and field study of motion-based informal learning games for a children’s museum." 2019 IEEE 5th workshop on everyday virtual reality (WEVR). IEEE, 2019.](https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf)
 [^vfb-c1]: [Ahn, Sun Joo, Kyle Johnsen, and Catherine Ball. "Points-based reward systems in gamification impact children’s physical activity strategies and psychological needs." Health Education & Behavior 46.3 (2019): 417-425.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/)
-[^vfb-a1]: [Ball, Catherine, et al. "Scaling the virtual fitness buddy ecosystem as a school-based physical activity intervention for children." IEEE computer graphics and applications 42.1 (2021): 105-115.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/)
-[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537)
+[^vfb-a1]: [Ball, Catherine, et al. "Scaling the virtual fitness buddy ecosystem as a school-based physical activity intervention for children." IEEE computer graphics and applications 42.1 (2021): 105-115.](https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/357014656_Scaling_the_Virtual_Fitness_Buddy_Ecosystem_as_a_School_Based_Physical_Activity_Intervention_for_Children/links/61e88d0b5779d35951be5545/Scaling-the-Virtual-Fitness-Buddy-Ecosystem-as-a-School-Based-Physical-Activity-Intervention-for-Children.pdf)
+[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959)
 [^arya]: [Basu, Aryabrata, et al. "Effects of user physical fitness on performance in virtual reality." 2016 IEEE symposium on 3D user interfaces (3DUI). IEEE, 2016.](https://www.researchgate.net/profile/Aryabrata-Basu/publication/301723763_Effects_of_user_physical_fitness_on_performance_in_virtual_reality/links/5a1525340f7e9b925cd530bc/Effects-of-user-physical-fitness-on-performance-in-virtual-reality.pdf)
 [^heart]: [Ball, Catherine, and Kyle Johnsen. "An accessible platform for everyday educational virtual reality." 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.](https://wevr.adalsimeone.me/2016/WEVR2016_Ball.pdf)
 [^heart-demo]: [Ball, Catherine, and Kyle Johnsen. "First-Person VR Design for Cardiac Anatomy Education."](https://www.researchgate.net/profile/Kyle-Johnsen-2/publication/304781751_First-Person_VR_Design_for_Cardiac_Anatomy_Education/links/577a74b908ae355e74f06b7e/First-Person-VR-Design-for-Cardiac-Anatomy-Education.pdf) <!-- TODO: put abstract for demo on this page? -->
