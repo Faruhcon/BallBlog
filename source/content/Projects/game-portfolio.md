@@ -2,70 +2,20 @@
 title: Game Portfolio Overview
 ---
 
-<!-- TODO: put below in css and update:
-.link-list {
-  display: flex; /* Arrange list items in a single line */
-  justify-content: center; /* Center-align the list */
-  gap: 8px; /* Add space between links */
-  list-style: none; /* Remove default bullets */
-  padding: 0; /* Remove default padding */
-  margin-top: 8px; /* Add some space above the list */
+<style>
+h2 {
+  font-size:2.5rem !important;
 }
-
-.link-list li {
-  display: inline-flex; /* Ensure links adjust to content width */
-}
-
-.link-list a {
-  display: inline-block; /* Allow padding and width adjustments */
-  padding: 8px 12px; /* Add padding around the text */
-  background-color: #f0f0f0; /* Background for the link */
-  border: 1px solid #ddd; /* Border for the link */
-  border-radius: 4px; /* Rounded corners for the link */
-  text-decoration: none; /* Remove underline from the link */
-  color: #333; /* Text color */
-  transition: background-color 0.3s ease; /* Smooth hover effect */
-}
-
-.link-list a:hover {
-  background-color: #e0e0e0; /* Change background on hover */
-  color: #000; /* Change text color on hover */
-}
--->
-<!-- TODO: go back over blurbs with fresh eyes -->
-
-<!-- TODO: collapsible sections? old method won't look good so need new method -->
-
-<!-- TODO: setup table of contents -->
-
-<!-- TODO: fix links: sort videos how I want them to be
-TODO: drop videos for now -->
-
-<!-- ## <div class="portfolio-header">Research Projects</div>
-
-## <div class="portfolio-header">Class Projects</div>
-
-## Research Projects
-
-## Class Projects -->
-
-<!-- > [!info] Title
-> 
-> This is a callout! -->
->
-
-<!-- <nav class="toc">
-    <h2>Table of Contents</h2>
-    <ul>
-      <li><a href="#research-projects">Research Projects</a></li>
-      <li><a href="#class-projects">Class Projects</a></li>
-      <li><a href="#game-jam-projects">Game Jam Projects</a></li>
-    </ul>
-</nav> -->
+</style>
 
 This is a sample of various projects I have worked on since I started learning how to program over 11 years ago. In this time, I have completed my [PhD in engineering](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537) with a focus on building virtual experiences. I have included three types of projects that vary on their development cycle and scope. More details will be provided below.
 
-<h2 id="research-projects" class="portfolio-header">Research Projects</h2>
+<!-- <h2 id="research-projects" class="portfolio-header">Research Projects</h2> -->
+<span id="research-projects" class="portfolio-header">
+
+## Research Projects
+
+</span>
 <p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a class="no-bg" href="vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a class="no-bg" href="vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a class="no-bg" href="vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
 <div id="Research_Projects" class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
@@ -211,7 +161,12 @@ This is a sample of various projects I have worked on since I started learning h
     </div> <!-- End fWIM -->
 </div> <!-- End Research Projects Grid -->
 
-<h2 id="class-projects" class="portfolio-header">Class Projects</h2>
+<!-- <h2 id="class-projects" class="portfolio-header">Class Projects</h2> -->
+<span id="class-projects" class="portfolio-header">
+
+## Class Projects
+
+</span>
 <p>I built these projects as part of my course work for my various virtual/mixed reality and game programming classes. These had a shorter time scale than the research projects, wrapping after 2 weeks or 1 month. I used these opportunities to learn something new about the game engine (Unity3D or ImpactJS) and/or various design approaches for the given topic. Below, mixed reality projects are labeled as MR and virtual reality projects are labeled as VR. <!-- TODO: put art notice (especially for Enrage Timer) --></p>
 <div class="responsive-image-grid"> <!-- Class Projects Grid -->
     <div class="grid-item"> <!-- Enrage Timer -->
@@ -327,7 +282,12 @@ This is a sample of various projects I have worked on since I started learning h
     </div> <!-- End MR Memory Match -->
 </div> <!-- End Class Projects Grid -->
 
-<h2 id="game-jam-projects" class="portfolio-header">Game Jam Projects</h2>
+<!-- <h2 id="game-jam-projects" class="portfolio-header">Game Jam Projects</h2> -->
+<span id="game-jam-projects" class="portfolio-header">
+
+## Game Jam Projects
+
+</span>
 <p>My game jam projects were all made over the course of a weekend (72 hours) each with my friends. I provided part of the programming and design utilized for these projects. SuperViRus and DMVania were made using Unity3D while Ghost quest was a board game.</p>
 <ul>
     <li>SuperViRus is a VR puzzle game where the player must use both of their arms to simultaneously move two viruses along a maze, combining them in the end. It was made for the Global Game Jam 2018 where the theme was transmission.</li>
@@ -385,3 +345,34 @@ This is a sample of various projects I have worked on since I started learning h
 
 <!-- TODO: add this website down here as maybe an other tab?
 TODO: also update skills and things to reflect this -->
+
+<!-- TODO: put below in css and update:
+.link-list {
+  display: flex; /* Arrange list items in a single line */
+  justify-content: center; /* Center-align the list */
+  gap: 8px; /* Add space between links */
+  list-style: none; /* Remove default bullets */
+  padding: 0; /* Remove default padding */
+  margin-top: 8px; /* Add some space above the list */
+}
+
+.link-list li {
+  display: inline-flex; /* Ensure links adjust to content width */
+}
+
+.link-list a {
+  display: inline-block; /* Allow padding and width adjustments */
+  padding: 8px 12px; /* Add padding around the text */
+  background-color: #f0f0f0; /* Background for the link */
+  border: 1px solid #ddd; /* Border for the link */
+  border-radius: 4px; /* Rounded corners for the link */
+  text-decoration: none; /* Remove underline from the link */
+  color: #333; /* Text color */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+.link-list a:hover {
+  background-color: #e0e0e0; /* Change background on hover */
+  color: #000; /* Change text color on hover */
+}
+-->

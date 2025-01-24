@@ -3,6 +3,7 @@ import { Root } from "mdast"
 import { visit } from "unist-util-visit"
 import { toString } from "mdast-util-to-string"
 import Slugger from "github-slugger"
+//import toc from "rehype-toc"
 
 export interface Options {
   maxDepth: 1 | 2 | 3 | 4 | 5 | 6
@@ -62,6 +63,7 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
         },
       ]
     },
+    //TODO: there's gotta be a way to use rehype-toc for the headers
   }
 }
 
