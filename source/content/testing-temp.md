@@ -1,6 +1,6 @@
 ---
 title: Element Testing Page
-draft: false
+draft: true
 ---
 
 <style>
@@ -88,7 +88,7 @@ A page for constructing and testing various elements on a clean space
 
 Testing new elements here for now <3
 
-TODO: last thing left: get the arrow back and rotating
+TODO: last things left: get the arrow back and rotating and centering table
 
 <div class=stats-container2>
     <details open>
