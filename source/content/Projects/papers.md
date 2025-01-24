@@ -97,9 +97,19 @@ These are academic papers where I am an author and where I was a primary develop
 
 <div class="papers-abstract"> <!-- Heart Tour Abstract -->
 
->Abstract[^heart] [^heart-demo]: Given the modern accessibility and affordability of requisite hardware, the use of immersive virtual reality is possible in almost any domain. However, there is insufficient evidence of the value of immersive virtual reality relative to alternative approaches. In addition, there are a range of displays and input devices with varying capabilities that are all competing in the marketplace. Our work is evaluating the benefits of a "baseline" interface that applications can target while simultaneously designing such an application and interaction techniques within it. We discuss our rationale for choosing the immersive VR platform, as well as studies planned to evaluate interaction techniques and metaphors designed for the platform relative to a "simulated" non-immersive VR platform.
+>Abstract[^heart]: Given the modern accessibility and affordability of requisite hardware, the use of immersive virtual reality is possible in almost any domain. However, there is insufficient evidence of the value of immersive virtual reality relative to alternative approaches. In addition, there are a range of displays and input devices with varying capabilities that are all competing in the marketplace. Our work is evaluating the benefits of a "baseline" interface that applications can target while simultaneously designing such an application and interaction techniques within it. We discuss our rationale for choosing the immersive VR platform, as well as studies planned to evaluate interaction techniques and metaphors designed for the platform relative to a "simulated" non-immersive VR platform.
 </div> <!-- End Heart Tour Abstract -->
 </div> <!-- End Heart Tour -->
+<div class="vfb-subheader"> <!-- Heart Demo -->
+
+### First-Person VR Design for Cardiac Anatomy Education 
+
+<div class="papers-abstract"> <!-- Heart Demo Abstract -->
+
+>Abstract[^heart-demo]: This demonstration showcases our research studying how to design first-person immersive experiences for education. Specifically, we are studying the benefits of immersion in certain applications such as cardiac anatomy education. To control for variance in the display equipment, we simulate a large-screen display within a head-mounted display. We are also studying joystick-based locomotion techniques for complex navigation tasks such as navigating the inside of a heart and navigational aids within these environments.
+
+</div> <!-- End Heart Tour Abstract -->
+</div> <!-- End Heart Demo -->
 <div class="vfb-subheader"> <!-- fWIM -->
 
 ### Filtering World-in-Miniature: Visual Analytics for Immersive Virtual Experiences

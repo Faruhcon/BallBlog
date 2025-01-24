@@ -6,6 +6,7 @@ title: About Me
 Coming Soon!
 
 <!-- TODO: ensure acronyms are spelled out everywhere or at least once -->
+<!-- TODO: dupe skills across headings? or maybe just reword them to fit better?? -->
 
 ## Programming
 
@@ -22,25 +23,46 @@ Coming Soon!
 <details open>
     <summary>Skills</summary>
     <p><!-- this is here to put space between summary and words while still keeping the stats table looking like I want AND doesn't put a box around the contained text here. TODO: find a better solution to this. --></p>
-    TODO:
+
+- Implemented modular design in [Virtual Fitness Buddy project](Projects/vb-overview) and utilized Unity3D's ease of cross-platform deployment to support PC, iOS/iPadOS, and Virtual Reality (Meta Quest) builds.
+- Translated child feedback into actionable design updates to gameplay mechanics that eliminated negative feedback. <!-- TODO: here or game design or other? -->
+- Implemented virtual reality (VR) tour of 3D modeled heart using Unity3D that competed at the 2016 IEEEVR Conference[^heart-demo]. <!-- TODO: video link?? cite workshop paper? -->
+- Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. <!-- TODO: here or game designer or other?? -->
+- Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
+
+
+- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children. This led to a design change in the overall project, incorporating a touchscreen, which was intuitive for children. <!-- TODO: is this additional sentence good??? -->
+
 </details>
 
 ## Game Designer
 
 <details open>
     <summary>Skills</summary>
-</details>
 
-## UI/UX Designer
+- Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
+- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
+- Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
+- Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
+- Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
+- Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? --> <!-- TODO: here, programming, or otherwise? -->
 
-<details open>
-    <summary>Skills</summary>
+
+- Designed a 3D trophy model set that rewarded child fitness goals in the [Virtual Fitness Buddy system](Projects/vb-overview#virtual-fitness-buddy-at-home).
+
 </details>
 
 ## Development Team Lead
+<!-- TODO: just rename team lead? --> <!-- TODO: keep this? -->
 
 <details open>
     <summary>Skills</summary>
+
+- Led and architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1].
+
+
+- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 155 children across 7 sites and ran 6 months[^vfb-a1].
+
 </details>
 
 ## Data Engineer
@@ -48,6 +70,12 @@ Coming Soon!
 <details open>
     <summary>Skills</summary>
 </details>
+
+<!-- ## UI/UX Designer
+
+<details open>
+    <summary>Skills</summary>
+</details> -->
 
 <!-- ## Hardware Designer
 
@@ -77,28 +105,41 @@ Coming Soon!
     <p>TODO:</p>
 </details> -->
 
-## Final-ish bullet points
+## TODO: Delete or Comment Everything Below Here
+
+<details>
+    <summary>Master Bullet Points and Notes</summary>
+
+### Final-ish bullet points
+
+<details>
 
 <!--- final-ish bullet points --->
+<!-- MOVED -->
 - Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
 - Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
-- Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
-- Translated child feedback into actionable design updates to gameplay mechanics that eliminated negative feedback.
-- Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
-- Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. 
 - Implemented modular design in [Virtual Fitness Buddy project](Projects/vb-overview) and utilized Unity3D's ease of cross-platform deployment to support PC, iOS/iPadOS, and Virtual Reality (Meta Quest) builds.
+- Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
+- Translated child feedback into actionable design updates to gameplay mechanics that eliminated negative feedback.
 - Implemented virtual reality (VR) tour of 3D modeled heart using Unity3D that competed at the 2016 IEEEVR Conference[^heart-demo]. <!-- TODO: video link?? cite workshop paper? -->
 - Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
-- Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? -->
-- Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
 - Led and architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1].
+- Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. 
+- Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
+- Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
+- Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? -->
 
 
-- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 155 children across 7 sites and ran 6 months[^vfb-a1]. 
-- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children. 
-- Designed a 3d trophy model set that rewarded child fitness goals in the [Virtual Fitness Buddy system](Projects/vb-overview#virtual-fitness-buddy-at-home).
+- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 155 children across 7 sites and ran 6 months[^vfb-a1].
+- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children.
+- Designed a 3D trophy model set that rewarded child fitness goals in the [Virtual Fitness Buddy system](Projects/vb-overview#virtual-fitness-buddy-at-home).
 
-## Other bullet points
+<!-- Not Moved -->
+</details>
+
+### TODO Bullet Points
+
+<details>
 
 <!--- Ideas to massage --->
 - TODO: add a bullet point for how we managed our feedback collection process
@@ -121,13 +162,19 @@ Coming Soon!
 
 <!-- Already addressed? -->
 <!-- TODO: designed 3d trophy system (trophy itself and pillar) with a 3d modeler -->
+</details>
 
+### Non-Erin Approved (lol)
+
+<details>
 
 <!--- Non-Erin Approved (lol) --->
 - Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
 - Architected application using MVC & MVVM design patterns to decouple modules for scaling the project.
 - ~~Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).~~
   - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability
+</details>
+</details>
 
 <!-- Footnotes/References -->
 [^f&v1]: [Ahn, Sun Joo Grace, et al. "Using Virtual Pets to Increase Fruit and Vegetable Consumption in Children: A Technology-Assisted Social Cognitive Theory Approach." Cyberpsychology, behavior and social networking 19.2 (2016): 86-92.](Projects/papers#vb-fv)
@@ -137,5 +184,5 @@ Coming Soon!
 [^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](Projects/papers#dissertation-vfb-h)
 [^arya]: [Basu, Aryabrata, et al. "Effects of user physical fitness on performance in virtual reality." 2016 IEEE symposium on 3D user interfaces (3DUI). IEEE, 2016.](Projects/papers#effects-of-user-physical-fitness-on-performance-in-virtual-reality)
 [^heart]: [Ball, Catherine, and Kyle Johnsen. "An accessible platform for everyday educational virtual reality." 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.](Projects/papers#an-accessible-platform-for-everyday-educational-virtual-reality)
-[^heart-demo]: Ball, Catherine, and Kyle Johnsen. "First-Person VR Design for Cardiac Anatomy Education." <!-- TODO: link? -->
+[^heart-demo]: [Ball, Catherine, and Kyle Johnsen. "First-Person VR Design for Cardiac Anatomy Education."](Projects/papers#first-person-vr-design-for-cardiac-anatomy-education)
 [^fwim]: [Ball, Catherine, and Kyle Johnsen. "Filtering world-in-miniature: visual analytics for immersive virtual experiences." Proceedings of the 5th Symposium on Spatial User Interaction. 2017.](Projects/papers#filtering-world-in-miniature-visual-analytics-for-immersive-virtual-experiences)
