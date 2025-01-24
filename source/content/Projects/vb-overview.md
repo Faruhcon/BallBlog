@@ -21,7 +21,8 @@ This page contains info on the virtual buddy applications that I built through t
             title="VFB-H iPad interface">
         <figcaption>The VFB-H iPad interface.</figcaption>
     </figure>
-    <p>The Virtual Fitness Buddy Home (VFB-H) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.</p>
+
+The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.
     <div class=stats-container> <!-- VFB-H Stats -->
         <details open>
             <summary>VFB-H Stats</summary> <!-- TODO: switch to Study Stats or VFB-H Study Stats? -->
@@ -240,7 +241,8 @@ This page contains info on the virtual buddy applications that I built through t
             title="Virtual STEM Buddy Kiosk">
         <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
     </figure>
-    <p>The Virtual STEM Buddy Museum (VSB-M) project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.</p>
+
+The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.
     <div class=stats-container> <!-- VSB-M Stats -->
         <details open>
             <summary>VSB-M Stats</summary>
@@ -382,7 +384,8 @@ This page contains info on the virtual buddy applications that I built through t
             title="Virtual Fitness Buddy Afterschool Kiosks">
         <figcaption>  Kiosks used during the VFB-A pilot (left) and C1-A and C2-A (right). The C1-A/C2-A kiosk added a touchscreen display for menu selection.</figcaption>
     </figure>
-    <p>The Virtual Fitness Buddy Afterschool (VFB-A) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.</p>
+
+The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.
     <div class=stats-container> <!-- VFB-A Stats -->
         <details open>
             <summary>VFB-A Stats</summary>
@@ -551,7 +554,8 @@ This page contains info on the virtual buddy applications that I built through t
 
 <details open> <!-- VFB-C -->
     <summary>Details</summary>
-    <p><!-- TODO: done? -->The Virtual Fitness Buddy Summer Camp (VFB-C) project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA goals, tracked using a Fitbit PA tracker, they would earn points to use to unlock new tricks and their VFB's health would increase, meaning that they were slimmer and faster. Unlike the other VFB projects, children could only interact with their VFB by playing fetch and completing tricks without any minigames. VFB-C was built as a mobile kiosk station to be used in a week-long summer camp consisting of a large screen display and Microsoft Kinect. Lastly, the control group for this study also had their own VFB, but they did not earn points to spend.</p>
+    
+The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA goals, tracked using a Fitbit PA tracker, they would earn points to use to unlock new tricks and their VFB's health would increase, meaning that they were slimmer and faster. Unlike the other VFB projects, children could only interact with their VFB by playing fetch and completing tricks without any minigames. VFB-C was built as a mobile kiosk station to be used in a week-long summer camp consisting of a large screen display and Microsoft Kinect. Lastly, the control group for this study also had their own VFB, but they did not earn points to spend. <!-- TODO: done? -->
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w100 
             src="vfbC_kiosk-pet-skele.png"
@@ -639,7 +643,8 @@ This page contains info on the virtual buddy applications that I built through t
 
 <details open> <!-- VB-F&V -->
     <summary>Details</summary>
-    <p>The Virtual Buddy Fruit and Vegetable (VB-F&V) project was designed to encourage children to engage in healthier fruit and vegetable (F&V) habits through the use of a virtual dog buddy. As a child ate more fruits and vegetables, tracked by camp counselors, their VB's health would increase, which meant that their heart would be easier to pump, their major artery would be more elastic, and they could complete fetching and tricks faster. As that child met their F&V goals, they would earn credits to spend on performing tricks. VB-F&V was built as a station to be used in a week-long summer camp consisting of a Mac and Novint Falcon (haptic joystick).</p>
+
+The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to encourage children to engage in healthier fruit and vegetable (F&V) habits through the use of a virtual dog buddy. As a child ate more fruits and vegetables, tracked by camp counselors, their VB's health would increase, which meant that their heart would be easier to pump, their major artery would be more elastic, and they could complete fetching and tricks faster. As that child met their F&V goals, they would earn credits to spend on performing tricks. VB-F&V was built as a station to be used in a week-long summer camp consisting of a Mac and Novint Falcon (haptic joystick).
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w75 
             src="vbFV_interface_modified4.png"
@@ -757,3 +762,10 @@ This page contains info on the virtual buddy applications that I built through t
         <li>Administering post-treatment questionnaires</li>
     </ul> <!-- End VB-F&V responsibilities list -->
 </details> <!-- End VB-F&V -->
+
+<!-- Footnotes/References -->
+[^f&v1]: [Ahn, Sun Joo Grace, et al. "Using Virtual Pets to Increase Fruit and Vegetable Consumption in Children: A Technology-Assisted Social Cognitive Theory Approach." Cyberpsychology, behavior and social networking 19.2 (2016): 86-92.](Projects/papers#vb-fv)
+[^vsb1]: [Ball, Catherine, Sun Joo Ahn, and Kyle Johnsen. "Design and field study of motion-based informal learning games for a children’s museum." 2019 IEEE 5th workshop on everyday virtual reality (WEVR). IEEE, 2019.](Projects/papers#vsb-m)
+[^vfb-c1]: [Ahn, Sun Joo, Kyle Johnsen, and Catherine Ball. "Points-based reward systems in gamification impact children’s physical activity strategies and psychological needs." Health Education & Behavior 46.3 (2019): 417-425.](Projects/papers#vfb-c)
+[^vfb-a1]: [Ball, Catherine, et al. "Scaling the virtual fitness buddy ecosystem as a school-based physical activity intervention for children." IEEE computer graphics and applications 42.1 (2021): 105-115.](Projects/papers#vfb-a)
+[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](Projects/papers#dissertation-vfb-h)
