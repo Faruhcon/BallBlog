@@ -5,8 +5,20 @@ title: About Me
 
 Coming Soon!
 
+TODO: keep citations/links or does it make the skills too cluttered?
+
 <!-- TODO: ensure acronyms are spelled out everywhere or at least once -->
 <!-- TODO: dupe skills across headings? or maybe just reword them to fit better?? -->
+
+<!-- TODO: add this? ## Education
+
+<details open>
+    <summary>Education</summary>
+
+- University of Georgia
+  - Doctor of Philosophy - PhD, Engineering (Software)
+  - Bachelor of Science - BS, Psychology
+</details> -->
 
 ## Programming
 

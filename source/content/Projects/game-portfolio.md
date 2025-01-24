@@ -4,7 +4,7 @@ title: Game Portfolio Overview
 
 <style>
 h2 {
-  font-size:2.5rem !important;
+  font-size:2.5rem;
 }
 </style>
 
