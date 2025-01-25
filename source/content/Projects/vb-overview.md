@@ -100,8 +100,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
                     title="VFB-H Agility Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Agility</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Agility</p>
                     <li><u>Type:</u> Obstacle course</li>
                     <li><u>Goal:</u> Guide VFB through obstacles as quickly as possible</li>
                     <li><u>Scoring:</u> Time remaining on 60&nbsp;second timer</li>
@@ -114,8 +114,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
         <!-- Bark It -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Bark It</p>
                 <ul class="mgTable">
+                <p class="mgTable-title">Bark It</p>
                     <li><u>Type:</u> Trick memory game</li>
                     <li><u>Goal:</u> Complete longest trick streak</li>
                     <li><u>Scoring:</u> Number of correct tricks performed</li>
@@ -138,8 +138,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
                     title="VFB-H Basketball Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Basketball</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Basketball</p>
                     <li><u>Type:</u> Goal throws from random locations game</li>
                     <li><u>Goal:</u> Maximize basketballs scored in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Goals scored</li>
@@ -152,8 +152,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
         <!-- Frisbee -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Frisbee</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Frisbee</p>
                     <li><u>Type:</u> Balloon popping game</li>
                     <li><u>Goal:</u> Maximize balloons popped in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Sum of balloon values plus VFB catch bonuses</li>
@@ -176,8 +176,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
                     title="VFB-H Soccer Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Soccer</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Soccer</p>
                     <li><u>Type:</u> Goal kicks from random locations game</li>
                     <li><u>Goal:</u> Maximize soccer balls scored in 60&nbsp;seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
@@ -190,8 +190,8 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
         <!-- Volleyball -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Volleyball</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Volleyball</p>
                     <li><u>Type:</u> Serve streak game</li>
                     <li><u>Goal:</u> Perform longest serve streak in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Length of streak</li>
@@ -321,8 +321,8 @@ The Virtual STEM Buddy Museum (VSB-&NoBreak;M)[^vsb1] project was designed to en
                     title="VSB-M Lever Hero Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Lever Hero</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Lever Hero</p>
                     <li><u>Type:</u> Lever balancing game</li>
                     <li><u>STEM Concept: </u>Levers</li>
                     <li><u>Goal:</u> Balance levers as quickly and accurately as possible </li>
@@ -335,8 +335,8 @@ The Virtual STEM Buddy Museum (VSB-&NoBreak;M)[^vsb1] project was designed to en
         <!-- Slingshot -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Slingshot</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Slingshot</p>
                     <li><u>Type:</u> Trajectory game</li>
                     <li><u>STEM Concept:</u> Trajectories</li>
                     <li><u>Goal:</u> Complete picture with minimal paint splats</li>
@@ -462,8 +462,8 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
                     title="VFB-A Basketball Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Basketball</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Basketball</p>
                     <li><u>Type:</u> Goal scoring game</li>
                     <li><u>Goal:</u> Maximize basketballs scored in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Goals scored</li>
@@ -475,8 +475,8 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
         <!-- Slingshot -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Slingshot</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Slingshot</p>
                     <li><u>Type:</u> Balloon popping game</li>
                     <li><u>Goal:</u> Maximize balloons popped in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Sum of balloon values</li>
@@ -498,8 +498,8 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
                     title="VFB-A Soccer Minigame">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Soccer</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Soccer</p>>
                     <li><u>Type:</u> Goal scoring game</li>
                     <li><u>Goal:</u> Maximize soccer balls scored in 60&nbsp;seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
@@ -511,8 +511,8 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
         <!-- Volleyball -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Volleyball</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Volleyball</p>
                     <li><u>Type:</u> Serve streak game</li>
                     <li><u>Goal:</u> Perform longest serve streak in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Length of streak</li>
@@ -721,8 +721,8 @@ The Virtual Buddy Fruit and Vegetable (V&NoBreak;F&V)[^f&v1] project was designe
                     title="VB-F&V Arterial Elasticity Heath Check">
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Arterial Elasticity</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Arterial Elasticity</p>
                     <li><u>Type:</u> Arterial elasticity check <!-- TODO: --></li>
                     <li><u>Goal:</u> Determine the rigidity of a major artery <!-- TODO: --> </li>
                     <li><u>Controls:</u> Use haptic joystick to press on artery to see how much it depresses <!-- TODO: --></li>
@@ -733,8 +733,8 @@ The Virtual Buddy Fruit and Vegetable (V&NoBreak;F&V)[^f&v1] project was designe
         <!-- Heart Pumping -->
         <div class="mgTable"> <!-- Table Cell -->
             <div class="mgTable-list"> <!-- List -->
-                <p class="mgTable-title">Heart Pumping</p>
                 <ul class="mgTable">
+                    <p class="mgTable-title">Heart Pumping</p>
                     <li><u>Type:</u> Heart pumping check <!-- TODO: --></li>
                     <li><u>Goal:</u> Determine how difficult is it to pump the heart <!-- TODO: --></li>
                     <li><u>Controls:</u> Use haptic joystick to pump heart and feel resistance <!-- TODO: --></li>
