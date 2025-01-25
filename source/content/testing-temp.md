@@ -105,11 +105,11 @@ TODO: last things left:
             <tbody>
                 <tr>
                     <td>Name</td>
-                    <td>Virtual Fitness Buddy At-Home (VFB-H)</td>
+                    <td>Virtual Fitness Buddy At-&NoBreak;Home (VFB-&NoBreak;H)</td>
                 </tr>
                 <tr>
                     <td>Dates</td>
-                    <td>Fall 2021 to Spring 2022</td>
+                    <td>Fall&nbsp;2021 to Spring&nbsp;2022</td>
                 </tr>
                 <tr>
                     <td>Location</td>
@@ -125,7 +125,7 @@ TODO: last things left:
                 </tr>
                 <tr>
                     <td>Participants</td>
-                    <td>25 Treatment (44 Total)</td>
+                    <td>25&nbsp;Treatment (44&nbsp;Total)</td>
                 </tr>
                 <tr>
                     <td>Focus</td>
@@ -141,7 +141,7 @@ TODO: last things left:
                 </tr>
                 <tr>
                     <td>Publication</td>
-                    <td><a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 5</a></td>
+                    <td><a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;5</a></td>
                 </tr>
             </tbody>
         </table>

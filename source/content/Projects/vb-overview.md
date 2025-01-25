@@ -22,7 +22,7 @@ This page contains info on the virtual buddy applications that I built through t
         <figcaption>The VFB-H iPad interface.</figcaption>
     </figure>
 
-The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.
+The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-&NoBreak;H was built as an iPad app that children could use at home, utilizing touchscreen, voice-activation, and real-life motion as ways to interact with the system.
     <div class=stats-container> <!-- VFB-H Stats -->
         <details open>
             <summary>VFB-H Stats</summary> <!-- TODO: switch to Study Stats or VFB-H Study Stats? -->
@@ -31,11 +31,11 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                     <tbody>
                         <tr>
                             <td>Name</td>
-                            <td>Virtual Fitness Buddy At-Home (VFB-H)</td>
+                            <td>Virtual Fitness Buddy At-&NoBreak;Home (VFB-&NoBreak;H)</td>
                         </tr>
                         <tr>
                             <td>Dates</td>
-                            <td>Fall 2021 to Spring 2022</td>
+                            <td>Fall&nbsp;2021 to Spring&nbsp;2022</td>
                         </tr>
                         <tr>
                             <td>Location</td>
@@ -51,7 +51,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                         </tr>
                         <tr>
                             <td>Participants</td>
-                            <td>25 Treatment (44 Total)</td>
+                            <td>25&nbsp;Treatment (44&nbsp;Total)</td>
                         </tr>
                         <tr>
                             <td>Focus</td>
@@ -67,7 +67,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                         </tr>
                         <tr>
                             <td>Publication</td>
-                            <td><a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 5</a></td>
+                            <td><a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;5</a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -104,7 +104,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                 <ul class="mgTable">
                     <li><u>Type:</u> Obstacle course</li>
                     <li><u>Goal:</u> Guide VFB through obstacles as quickly as possible</li>
-                    <li><u>Scoring:</u> Time remaining on 60 second timer</li>
+                    <li><u>Scoring:</u> Time remaining on 60&nbsp;second timer</li>
                     <li><u>Controls:</u> Virtual joystick (touchscreen)</li>
                     <li><u>Aids:</u> Guide arrow to next obstacle</li>
                 </ul>
@@ -113,7 +113,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
         <!-- End Agility -->
         <!-- Bark It -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Bark It</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Trick memory game</li>
@@ -141,7 +141,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                 <p class="mgTable-title">Basketball</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Goal throws from random locations game</li>
-                    <li><u>Goal:</u> Maximize basketballs scored in 60 seconds</li>
+                    <li><u>Goal:</u> Maximize basketballs scored in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Goals scored</li>
                     <li><u>Controls:</u> Virtual joystick and buttons (touchscreen) and iPad AR movement</li>
                     <li><u>Aids:</u> Guide arrow to next location and hoop</li>
@@ -151,11 +151,11 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
         <!-- End Basketball -->
         <!-- Frisbee -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Frisbee</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Balloon popping game</li>
-                    <li><u>Goal:</u> Maximize balloons popped in 60 seconds</li>
+                    <li><u>Goal:</u> Maximize balloons popped in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Sum of balloon values plus VFB catch bonuses</li>
                     <li><u>Controls:</u> Virtual buttons (touchscreen) and iPad AR movement</li>
                     <li><u>Aids:</u> Guide arrow to current balloon</li>
@@ -179,7 +179,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
                 <p class="mgTable-title">Soccer</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Goal kicks from random locations game</li>
-                    <li><u>Goal:</u> Maximize soccer balls scored in 60 seconds </li>
+                    <li><u>Goal:</u> Maximize soccer balls scored in 60&nbsp;seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
                     <li><u>Controls:</u> Virtual joystick and buttons (touchscreen) and virtual paddle using iPad AR movement</li>
                     <li><u>Aids:</u> Guide arrow to next location and goal</li>
@@ -189,11 +189,11 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
         <!-- End Soccer -->
         <!-- Volleyball -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Volleyball</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Serve streak game</li>
-                    <li><u>Goal:</u> Perform longest serve streak in 60 seconds</li>
+                    <li><u>Goal:</u> Perform longest serve streak in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Length of streak</li>
                     <li><u>Controls:</u> Virtual paddle using iPad AR movement</li>
                     <li><u>Aids:</u> Guide arrow to net</li>
@@ -222,7 +222,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
         <li>Adding sound effects to the park, including ball bouncing sounds, cheers, and dings</li> 
         <li>These sound effects were used to add some more realism to the app</li>
         <li>Additionally, they were used to provide feedback that the player was completing tasks correctly</li>
-        <li>Recording and editing a video to show how to use the VFB-H app (for the pilot, include?)</li>
+        <li>Recording and editing a video to show how to use the VFB-&NoBreak;H app (for the pilot, include?)</li>
         <li>Setting up the iPads to auto-update when we issued updates to the app</li>
         <li>Bug troubleshooting and fixes for both VFB app and Fitbit syncing</li>
         <li>Tech support and troubleshooting iPads and physical activity trackers</li>
@@ -242,7 +242,7 @@ The Virtual Fitness Buddy Home (VFB-H)[^diss] project was designed to encourage 
         <figcaption>The VSB Kiosk at the Children’s Museum of Atlanta.</figcaption>
     </figure>
 
-The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.
+The Virtual STEM Buddy Museum (VSB-&NoBreak;M)[^vsb1] project was designed to encourage children to learn more about various STEM concepts through the use of a virtual robot buddy. As a child played the minigames, their VSB would provide instructions on how to play in addition to information on the underlying STEM concept being used, such as levers and trajectories. This info was conveyed both through text and audio as it could not be assumed that all of its players would be able to read. VSB-&NoBreak;M was built as an exhibit at the Children's Museum of Atlanta (CMOA) consisting of a large screen display, Android tablet, and Microsoft Kinect.
     <div class=stats-container> <!-- VSB-M Stats -->
         <details open>
             <summary>VSB-M Stats</summary>
@@ -251,11 +251,11 @@ The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage c
                     <tbody>
                         <tr>
                             <td>Name</td>
-                            <td>Virtual STEM Buddy Museum (VSB-M)</td>
+                            <td>Virtual STEM Buddy Museum (VSB-&NoBreak;M)</td>
                         </tr>
                         <tr>
                             <td>Dates</td>
-                            <td>January 2017 to May 2022</td>
+                            <td>January&nbsp;2017 to May&nbsp;2022</td>
                         </tr>
                         <tr>
                             <td>Location</td>
@@ -275,7 +275,7 @@ The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage c
                         </tr>
                         <tr>
                             <td>Participants</td>
-                            <td>Unknown – 28,122 recorded plays over 2 years</td>
+                            <td>Unknown – 28,122 recorded plays over 2&nbsp;years</td>
                         </tr>
                         <tr>
                             <td>Focus</td>
@@ -293,7 +293,7 @@ The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage c
                             <td>Publications</td>
                             <td>
                                 <a href="https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf">Paper</a>
-                                <a href ="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 3</a>
+                                <a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;3</a>
                             </td>
                         </tr>
                     </tbody>
@@ -334,7 +334,7 @@ The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage c
         <!-- End Lever Hero -->
         <!-- Slingshot -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Slingshot</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Trajectory game</li>
@@ -382,10 +382,10 @@ The Virtual STEM Buddy Museum (VSB-M)[^vsb1] project was designed to encourage c
             src="vfbA_kioskComparison.png"
             alt="Two mobile, locking cabinets with large screen televisions on top."
             title="Virtual Fitness Buddy Afterschool Kiosks">
-        <figcaption>  Kiosks used during the VFB-A pilot (left) and C1-A and C2-A (right). The C1-A/C2-A kiosk added a touchscreen display for menu selection.</figcaption>
+        <figcaption>  Kiosks used during the VF&NoBreak;A pilot (left) and C1-&NoBreak;A and C2-&NoBreak;A (right). The C1-&NoBreak;A/C2-&NoBreak;A kiosk added a touchscreen display for menu selection.</figcaption>
     </figure>
 
-The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.
+The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-&NoBreak;A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.
     <div class=stats-container> <!-- VFB-A Stats -->
         <details open>
             <summary>VFB-A Stats</summary>
@@ -394,11 +394,11 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                     <tbody>
                         <tr>
                             <td>Name</td>
-                            <td>Virtual Fitness Buddy Afterschool (VFB-A)</td>
+                            <td>Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)</td>
                         </tr>
                         <tr>
                             <td>Dates</td>
-                            <td>Spring 2018 to Fall 2019</td>
+                            <td>Spring&nbsp;2018 to Fall&nbsp;2019</td>
                         </tr>
                         <tr>
                             <td>Location</td>
@@ -406,7 +406,7 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                         </tr>
                         <tr>
                             <td>Sites</td>
-                            <td>11 Treatment (21 Total)</td>
+                            <td>11&nbsp;Treatment (21&nbsp;Total)</td>
                         </tr>
                         <tr>
                             <td>Cohorts</td>
@@ -418,7 +418,7 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                         </tr>
                         <tr>
                             <td>Participants</td>
-                            <td>318 Treatment (464 Total)</td>
+                            <td>318&nbsp;Treatment (464&nbsp;Total)</td>
                         </tr>
                         <tr>
                             <td>Focus</td>
@@ -435,8 +435,8 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                         <tr>
                             <td>Publications</td>
                             <td>
-                                <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9016571/">Paper</a>
-                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 4</a>
+                                <a href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/357014656_Scaling_the_Virtual_Fitness_Buddy_Ecosystem_as_a_School_Based_Physical_Activity_Intervention_for_Children/links/61e88d0b5779d35951be5545/Scaling-the-Virtual-Fitness-Buddy-Ecosystem-as-a-School-Based-Physical-Activity-Intervention-for-Children.pdf">Paper</a>
+                                <a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;4</a>
                             </td>
                         </tr>
                     </tbody>
@@ -449,7 +449,7 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
             src="VFB-A-H and VFB-C Comparison - Motion Blur.png"
             alt="A comparison of two versions a virtual dog."
             title="VFB-A and VFB-C Buddy Comparison">
-        <figcaption>The evolution of the VFB model from older systems (left) to the VFB-A system (right) with the UGA Arch in the background.</figcaption>
+        <figcaption>The evolution of the VFB model from older systems (left) to the VFB-&NoBreak;A system (right) with the UGA Arch in the background.</figcaption>
     </figure>
     <p>As part of this app, I designed six different minigames: agility, bark it, basketball, frisbee, soccer, and volleyball. See below for more details on these games. In addition to these games, children were able to get their VFB to perform tricks using their voice and could play fetch without having to interact with a minigame. To achieve this, I implemented various midair gesture-based systems that players would use to perform the necessary actions for the minigames, tricks, and fetch.</p>
     <details open> <!-- VFB-A Minigame Table -->
@@ -465,7 +465,7 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                 <p class="mgTable-title">Basketball</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Goal scoring game</li>
-                    <li><u>Goal:</u> Maximize basketballs scored in 60 seconds</li>
+                    <li><u>Goal:</u> Maximize basketballs scored in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Goals scored</li>
                     <li><u>Controls:</u> Shot zone system and Kinect movement</li>
                 </ul>
@@ -474,11 +474,11 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
         <!-- End Basketball -->
         <!-- Slingshot -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Slingshot</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Balloon popping game</li>
-                    <li><u>Goal:</u> Maximize balloons popped in 60 seconds</li>
+                    <li><u>Goal:</u> Maximize balloons popped in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Sum of balloon values</li>
                     <li><u>Controls:</u> Kinect grabbing gesture and movement</li>
                 </ul>
@@ -501,7 +501,7 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
                 <p class="mgTable-title">Soccer</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Goal scoring game</li>
-                    <li><u>Goal:</u> Maximize soccer balls scored in 60 seconds </li>
+                    <li><u>Goal:</u> Maximize soccer balls scored in 60&nbsp;seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
                     <li><u>Controls:</u> Virtual paddle attached to foot for kicking</li>
                 </ul>
@@ -510,11 +510,11 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
         <!-- End Soccer -->
         <!-- Volleyball -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Volleyball</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Serve streak game</li>
-                    <li><u>Goal:</u> Perform longest serve streak in 60 seconds</li>
+                    <li><u>Goal:</u> Perform longest serve streak in 60&nbsp;seconds</li>
                     <li><u>Scoring:</u> Length of streak</li>
                     <li><u>Controls:</u> Virtual paddle attached to hand to return serve</li>
                 </ul>
@@ -555,13 +555,13 @@ The Virtual Fitness Buddy Afterschool (VFB-A)[^vfb-a1] project was designed to e
 <details open> <!-- VFB-C -->
     <summary>Details</summary>
     
-The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA goals, tracked using a Fitbit PA tracker, they would earn points to use to unlock new tricks and their VFB's health would increase, meaning that they were slimmer and faster. Unlike the other VFB projects, children could only interact with their VFB by playing fetch and completing tricks without any minigames. VFB-C was built as a mobile kiosk station to be used in a week-long summer camp consisting of a large screen display and Microsoft Kinect. Lastly, the control group for this study also had their own VFB, but they did not earn points to spend. <!-- TODO: done? -->
+The Virtual Fitness Buddy Summer Camp (VFB-&NoBreak;C)[^vfb-c1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA goals, tracked using a Fitbit PA tracker, they would earn points to use to unlock new tricks and their VFB's health would increase, meaning that they were slimmer and faster. Unlike the other VFB projects, children could only interact with their VFB by playing fetch and completing tricks without any minigames. VFB-&NoBreak;C was built as a mobile kiosk station to be used in a week-long summer camp consisting of a large screen display and Microsoft Kinect. Lastly, the control group for this study also had their own VFB, but they did not earn points to spend. <!-- TODO: done? -->
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w100 
             src="vfbC_kiosk-pet-skele.png"
             alt="Compilation of TV, virtual dog, and spheres in the shape of a human."
             title="VFB-C kiosk, buddy, and Kinect skeleton">
-        <figcaption>The VFB-C kiosk, buddy, and Kinect skeleton.</figcaption>
+        <figcaption>The VFB-&NoBreak;C kiosk, buddy, and Kinect skeleton.</figcaption>
     </figure>
     <div class=stats-container> <!-- VFB-C Stats -->
         <details open>
@@ -571,15 +571,15 @@ The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to e
                     <tbody>
                         <tr>
                             <td>Name</td>
-                            <td>Virtual Fitness Buddy Camp (VFB-C)</td>
+                            <td>Virtual Fitness Buddy Camp (VFB-&NoBreak;C)</td>
                         </tr>
                         <tr>
                             <td>Dates</td>
-                            <td>Summer 2015</td>
+                            <td>Summer&nbsp;2015</td>
                         </tr>
                         <tr>
                             <td>Location</td>
-                            <td>Summer Camp</td>
+                            <td>Summer&nbsp;Camp</td>
                         </tr>
                         <tr>
                             <td>Sites</td>
@@ -595,7 +595,7 @@ The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to e
                         </tr>
                         <tr>
                             <td>Participants</td>
-                            <td>39 Treatment (67 Total)</td>
+                            <td>39&nbsp;Treatment (67&nbsp;Total)</td>
                         </tr>
                         <tr>
                             <td>Focus</td>
@@ -613,7 +613,7 @@ The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to e
                             <td>Publications</td>
                             <td>
                                 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">Paper</a>
-                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.2</a>
+                                <a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;2.2</a>
                             </td>
                         </tr>
                     </tbody>
@@ -632,7 +632,7 @@ The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to e
             <li>Trick shop</li>
             <li>Trick and Fitbit selection systems</li>
         </ul> <!-- End VFB-C design and implement list -->
-        <li>Observing and troubleshooting VFB-C system throughout the study</li>
+        <li>Observing and troubleshooting VFB-&NoBreak;C system throughout the study</li>
         <li>Fitbit setup and troubleshooting</li>
         <li>Administering post-treatment questionnaires</li>
     </ul> <!-- End VFB-C responsibilities list -->
@@ -644,13 +644,13 @@ The Virtual Fitness Buddy Summer Camp (VFB-C)[^vfb-c1] project was designed to e
 <details open> <!-- VB-F&V -->
     <summary>Details</summary>
 
-The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to encourage children to engage in healthier fruit and vegetable (F&V) habits through the use of a virtual dog buddy. As a child ate more fruits and vegetables, tracked by camp counselors, their VB's health would increase, which meant that their heart would be easier to pump, their major artery would be more elastic, and they could complete fetching and tricks faster. As that child met their F&V goals, they would earn credits to spend on performing tricks. VB-F&V was built as a station to be used in a week-long summer camp consisting of a Mac and Novint Falcon (haptic joystick).
+The Virtual Buddy Fruit and Vegetable (V&NoBreak;F&V)[^f&v1] project was designed to encourage children to engage in healthier fruit and vegetable (F&V) habits through the use of a virtual dog buddy. As a child ate more fruits and vegetables, tracked by camp counselors, their VB's health would increase, which meant that their heart would be easier to pump, their major artery would be more elastic, and they could complete fetching and tricks faster. As that child met their F&V goals, they would earn credits to spend on performing tricks. VB-&NoBreak;F&V was built as a station to be used in a week-long summer camp consisting of a Mac and Novint Falcon (haptic joystick).
     <figure class=img-fig> <!-- TODO: right size? -->
         <img class=scale-w75 
             src="vbFV_interface_modified4.png"
             alt="Virtual dog on a screen with a haptic joystick controller."
             title="Virtual Buddy Fruit and Vegetable (VB-F&V) Station">
-        <figcaption>The VB-F&V Novint Falcon station.</figcaption>
+        <figcaption>The VB-&NoBreak;F&V Novint Falcon station.</figcaption>
     </figure>
     <div class=stats-container> <!-- VB-F&V Stats -->
         <details open>
@@ -660,15 +660,15 @@ The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to en
                     <tbody>
                         <tr>
                             <td>Name</td>
-                            <td>Virtual Buddy Fruit and Vegetable (VB-F&V)</td>
+                            <td>Virtual Buddy Fruit and Vegetable (VB-&NoBreak;F&V)</td>
                         </tr>
                         <tr>
                             <td>Dates</td>
-                            <td>Summer 2014</td>
+                            <td>Summer&nbsp;2014</td>
                         </tr>
                         <tr>
                             <td>Location</td>
-                            <td>Summer Camp</td>
+                            <td>Summer&nbsp;Camp</td>
                         </tr>
                         <tr>
                             <td>Sites</td>
@@ -684,7 +684,7 @@ The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to en
                         </tr>
                         <tr>
                             <td>Participants</td>
-                            <td>25 Treatment (68 Total)</td>
+                            <td>25&nbsp;Treatment (68&nbsp;Total)</td>
                         </tr>
                         <tr>
                             <td>Focus</td>
@@ -696,13 +696,13 @@ The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to en
                         </tr>
                         <tr>
                             <td>Hardware</td>
-                            <td>Mac, Novint Falcon</td>
+                            <td>Mac, Novint&nbsp;Falcon</td>
                         </tr>
                         <tr>
                             <td>Publications</td>
                             <td>
                                 <a href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">Paper</a>
-                                <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">Dissertation Ch. 2.1</a>
+                                <a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">Dissertation Ch.&nbsp;2.1</a>
                             </td>
                         </tr>
                     </tbody>
@@ -732,7 +732,7 @@ The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to en
         <!-- End Arterial Elasticity -->
         <!-- Heart Pumping -->
         <div class="mgTable"> <!-- Table Cell -->
-            <div class="mgTable-listLeft"> <!-- List -->
+            <div class="mgTable-list"> <!-- List -->
                 <p class="mgTable-title">Heart Pumping</p>
                 <ul class="mgTable">
                     <li><u>Type:</u> Heart pumping check <!-- TODO: --></li>
@@ -758,7 +758,7 @@ The Virtual Buddy Fruit and Vegetable (VB-F&V)[^f&v1] project was designed to en
             <li>Heart and artery testing minigames</li>
             <li>Updating gesture system to use the haptic joystick</li>
         </ul> <!-- End VB-F&V design and implement list -->
-        <li>Observing and troubleshooting VB-F&V system throughout the study</li>
+        <li>Observing and troubleshooting VB-&NoBreak;F&V system throughout the study</li>
         <li>Administering post-treatment questionnaires</li>
     </ul> <!-- End VB-F&V responsibilities list -->
 </details> <!-- End VB-F&V -->

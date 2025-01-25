@@ -156,7 +156,7 @@ For our subsequent studies and in terms of hardware, we learned that tablet or t
 In terms of software, we learned that we should prioritize incorporating the virtual buddy as a core part of the experience, interacting directly with the participant. We also learned that our grab gesture works well as an interaction mechanic and minigames could be designed around this mechanic. Lastly, we learned that a system could be deployed in the field for an extended period with minimal input required by site staff and that being able to remotely apply updates or debug problems was very beneficial.
 
 
-[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537)
+[^diss]: [Ball, Catherine. Design and Field Implementation of Virtual Buddy-Based Serious Games for Children. Diss. University of Georgia, 2023.](https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959)
 [^vsb1]: [Ball, Catherine, Sun Joo Ahn, and Kyle Johnsen. "Design and field study of motion-based informal learning games for a children’s museum." 2019 IEEE 5th workshop on everyday virtual reality (WEVR). IEEE, 2019.](https://wevr.adalsimeone.me/2019/WEVR2019_Ball.pdf)
 [^vfb-c1]: [Ahn, Sun Joo, Kyle Johnsen, and Catherine Ball. "Points-based reward systems in gamification impact children’s physical activity strategies and psychological needs." Health Education & Behavior 46.3 (2019): 417-425.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/)
 TODO: cite cmoa website??

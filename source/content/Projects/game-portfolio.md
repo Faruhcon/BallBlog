@@ -8,7 +8,7 @@ h2 {
 }
 </style>
 
-This is a sample of various projects I have worked on since I started learning how to program over 11 years ago. In this time, I have completed my [PhD in engineering](https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537) with a focus on building virtual experiences. I have included three types of projects that vary on their development cycle and scope. More details will be provided below.
+This is a sample of various projects I have worked on since I started learning how to program over 11 years ago. In this time, I have completed my [PhD in engineering](https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959) with a focus on building virtual experiences. I have included three types of projects that vary on their development cycle and scope. More details will be provided below.
 
 <!-- <h2 id="research-projects" class="portfolio-header">Research Projects</h2> -->
 <span id="research-projects" class="portfolio-header">
@@ -16,7 +16,7 @@ This is a sample of various projects I have worked on since I started learning h
 ## Research Projects
 
 </span>
-<p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a class="no-bg" href="vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a class="no-bg" href="vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a class="no-bg" href="vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
+<p>These research projects were longer term projects where I acted as lead game designer and programmer. Of these, my primary projects focused on building virtual buddy experiences for children to aid them in learning how to engage in <a class="no-bg" href="vb-overview#virtual-fitness-buddy-at-home">healthier physical activity habits</a> or <a class="no-bg" href="vb-overview#virtual-stem-buddy-at-museum">learning various science, technology, engineering, and math (STEM) concepts</a>. These projects became the focus of my <a href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">dissertation</a>. I have provided links to their respective papers, posters, or conference demonstrations as well as a link to an <a class="no-bg" href="vb-overview">overview</a> of my major projects. Lastly, all of these projects were made using Unity3D and C# with data analysis done in Python or R.</p>
 <div id="Research_Projects" class="responsive-image-grid"> <!-- Research Projects Grid -->
     <div class="grid-item"> <!-- VFB-H -->
         <!-- TODO: Page link once setup -->
@@ -29,7 +29,7 @@ This is a sample of various projects I have worked on since I started learning h
         >
         <div class="link-grid"> <!-- VFB-H Link Grid -->
             <a class="grid-link-item" 
-                href="https://www.proquest.com/dissertations-theses/design-field-implementation-virtual-buddy-based/docview/2917424271/se-2?accountid=14537">
+                href="https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959">
                 Research</a>
             <a class="grid-link-item" 
                 href="vb-overview#virtual-fitness-buddy-at-home">

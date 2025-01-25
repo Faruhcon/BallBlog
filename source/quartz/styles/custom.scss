@@ -74,6 +74,7 @@ img.scale-h100{
     height:100%
 }
 
+/* //original settings
 div.mgTable{
     border: thin gray solid;
     //float: center;
@@ -117,6 +118,46 @@ p.mgTable-title{
     font-weight: bold;
     text-decoration: underline;
     vertical-align: text-top;
+    margin-bottom: -0.5em;
+}*/
+
+div.mgTable{
+    border: thin gray solid;
+    //float: center;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.25em;
+    margin-bottom: 0.5em;
+    //padding-bottom: 0.5em;
+    //vertical-align: center;
+}
+
+.mgTable-pic{
+    width: 55%;
+    padding: 0.5em;
+    display: inline-block;
+    //float: inline-end;
+    vertical-align: center;
+}
+
+div.mgTable-list{
+    width: 35%;
+    padding: 0.5em;
+    display: inline-block;
+    //float: inline-end;
+    text-align: left;
+    vertical-align: center;
+    margin-left: 0.3em;
+}
+
+p.mgTable-title{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    //vertical-align: text-top;
+    margin-top: 0em;
     margin-bottom: -0.5em;
 }
 
