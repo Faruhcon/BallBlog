@@ -499,7 +499,7 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
             </div> <!-- End Pic -->
             <div class="mgTable-list"> <!-- List -->
                 <ul class="mgTable">
-                    <p class="mgTable-title">Soccer</p>>
+                    <p class="mgTable-title">Soccer</p>
                     <li><u>Type:</u> Goal scoring game</li>
                     <li><u>Goal:</u> Maximize soccer balls scored in 60&nbsp;seconds </li>
                     <li><u>Scoring:</u> Goals scored</li>
