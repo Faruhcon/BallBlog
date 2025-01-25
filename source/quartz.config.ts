@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Dr. Cat Ball Home", //TODO: update this
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

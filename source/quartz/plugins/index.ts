@@ -22,7 +22,8 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   if (ctx.argv.serve) {
     const wsUrl = ctx.argv.remoteDevHost
       ? `wss://${ctx.argv.remoteDevHost}:${ctx.argv.wsPort}`
-      : `ws://localhost:${ctx.argv.wsPort}`
+       : `ws://localhost:${ctx.argv.wsPort}`
+      //: `ws://0.0.0.0:${ctx.argv.wsPort}`
 
     staticResources.js.push({
       loadTime: "afterDOMReady",
