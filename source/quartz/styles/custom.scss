@@ -176,7 +176,6 @@ ul.mgTable{
         padding-left: 16px;
     }
 }
-
 //End vary grid columns
 
 .grid-item {
@@ -227,7 +226,7 @@ ul.mgTable{
 //.responsive-link-grid{
 .link-grid{
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Exactly 4 columns, each taking equal space */
+    grid-template-columns: repeat(3, 1fr); /* Exactly 3 columns, each taking equal space */
     gap: 5px;
     grid-auto-flow: row;
     //display: flex; //TODO: if not full, center buttons
@@ -254,29 +253,12 @@ ul.mgTable{
 }
 
 //Start vary grid-link-item font size at smaller screen sizes
-@media (1414px > width >= 1359px) or (1121px > width >= 1065px) or (796 > width >= 742px) or (430px > width >= 403px) { 
-    .grid-link-item { font-size: 1em; } 
+@media (1236px > width >= 1200px) or (943px > width >= 901px ) or (343px > width) {
+    .grid-link-item { font-size: 1em; }
 }
-@media (1359px > width >= 1297px) or (1065px > width >= 1005px) or (742px > width >= 680px) or (403px > width >= 373px) {
+@media (901px > width >= 875px ){
     .grid-link-item { font-size: 0.9em; }
 }
-@media (1297px > width >= 1236px) or (1005px > width >= 943px) or (680px > width >= 612px) or (373px > width) {
-    .grid-link-item { font-size: 0.8em; }
-}
-@media (1236px > width >= 1200.5px) or (943px > width >= 883px) or (612px > width >= 600.5px) {
-    .grid-link-item { font-size: 0.7em; }
-}
-@media (883px > width >= 875px) {
-    .grid-link-item { font-size: 0.59em; }
-}
-//@media (max-width:779px) and (min-width:715px){ .grid-link-item{ font-size:1em; }}
-//@media (max-width:714px) and (min-width:664px){ .grid-link-item{ font-size:0.9em; }}
-//@media (max-width:663px) and (min-width:601px){ .grid-link-item{ font-size:0.79em; }}
-//600px >= width >= 401px is fine at the original 1.09em 
-//@media (max-width:400px) and (min-width:325px){ .grid-link-item{ font-size:4.2vw; }}
-//@media (max-width:324px) and (min-width:272px){ .grid-link-item{ font-size:4vw; }}
-//@media (max-width:271px) and (min-width:234px){ .grid-link-item{ font-size:3.8vw; }}
-//@media (max-width:233px){ .grid-link-item { font-size:3.5vw; } }
 //End vary grid-link-item font size at smaller screen sizes
 //End Grid Elements
 
