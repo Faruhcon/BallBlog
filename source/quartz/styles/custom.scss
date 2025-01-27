@@ -27,8 +27,8 @@
     text-align: left;
 }
 
-//Figure related
-figure.img-fig{
+//Start Image Related Elements
+figure.img-fig{ //Figure related
     float:center;
     width: 75%;
     text-align: center;
@@ -73,7 +73,9 @@ img.scale-h75{
 img.scale-h100{
     height:100%
 }
+//End Image Related Elements
 
+//Start Minigame Table
 @media (max-width: 500px) {
     div.mgTable{
         border: thin gray solid; 
@@ -148,20 +150,23 @@ p.mgTable-title{
     margin-top: 0em;
     margin-bottom: 0em;
     display: block;
+    
 }
 
 ul.mgTable{
     padding-left: 0.5em;
     text-indent: -0.25em;
 }
+//End Minigame Table
 
+//Start Grid Elements
 .responsive-image-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Exactly 2 columns, each taking equal space */
     gap: 16px;
     grid-auto-flow: row;
 }
-  
+
 @media (max-width: 600px) {
     .responsive-image-grid {
       grid-template-columns: 1fr; /* Stack images in a single column on smaller screens */
@@ -204,12 +209,6 @@ ul.mgTable{
     justify-items: center;
 }
 
-/* @media (max-width: 200px) {
-    .responsive-link-grid {
-      grid-template-columns: 1fr; // Stack links in a single column on smaller screens
-    }
-}*/
-
 .grid-link-item {
     text-align: center;
     justify-content: center;
@@ -227,6 +226,14 @@ ul.mgTable{
     align-items: center;
     width: 98%;
 }
+
+//Start vary grid-link-item font size at smaller screen sizes
+@media (max-width:400px) and (min-width:325px){ .grid-link-item{ font-size:4.2vw; }}
+@media (max-width:324px) and (min-width:272px){ .grid-link-item{ font-size:4vw; }}
+@media (max-width:271px) and (min-width:234px){ .grid-link-item{ font-size:3.8vw; }}
+@media (max-width:233px){ .grid-link-item { font-size:3.5vw; } }
+//End vary grid-link-item font size at smaller screen sizes
+//End Grid Elements
 
 .no-bg {
     background: transparent !important;
@@ -248,6 +255,8 @@ ul.mgTable{
 //#7393B3 is a great color
 //#6082B6 is too
 
+
+//Start Stats Table
 .stats-container {
     display: flex;
     width: flex;
@@ -283,7 +292,9 @@ ul.mgTable{
 
 //TODO: add sliding up/down animation for tables
 // a solution: https://nerdy.dev/open-and-close-transitions-for-the-details-element
+//End Stats Table
 
+//Start Collapsible Elements
 details {
     flex-basis: 52%;
 }
@@ -313,3 +324,4 @@ details:not([open]) summary {
 details[open] summary{
     background-color: tomato;
 }*/
+//End Collapsible Elements

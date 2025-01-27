@@ -168,6 +168,7 @@ This is a sample of various projects I have worked on since I started learning h
 
 </span>
 <p>I built these projects as part of my course work for my various virtual/mixed reality and game programming classes. These had a shorter time scale than the research projects, wrapping after 2 weeks or 1 month. I used these opportunities to learn something new about the game engine (Unity3D or ImpactJS) and/or various design approaches for the given topic. Below, mixed reality projects are labeled as MR and virtual reality projects are labeled as VR. <!-- TODO: put art notice (especially for Enrage Timer) --></p>
+<p>Videos coming soon!</p>
 <div class="responsive-image-grid"> <!-- Class Projects Grid -->
     <div class="grid-item"> <!-- Enrage Timer -->
         <!-- TODO: modify video and link video -->

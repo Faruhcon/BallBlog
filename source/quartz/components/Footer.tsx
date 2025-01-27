@@ -23,6 +23,9 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <li><a href="/about-me">About Me</a></li>
+          <li><a href="/Projects">Projects</a></li>
+          <li><a href="https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ">Scholar</a></li>
         </ul>
       </footer>
     )
