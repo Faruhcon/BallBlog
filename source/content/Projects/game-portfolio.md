@@ -115,8 +115,8 @@ This is a sample of various projects I have worked on since I started learning h
                 href="vb-overview#virtual-buddy-fruit-and-vegetable-summer-camp">
                 Overview</a>
             <!-- <a class="grid-link-item" 
-                href="https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf">
-                Video</a> --> <!-- TODO: name for this, it's a proof of concept, also link -->
+                href="https://youtu.be/j8iOVPG0mLA">
+                Prototype Video</a> --> <!-- TODO: name for this, it's a proof of concept, also link -->
         </div> <!-- End VB-F&V Link Grid -->
     </div> <!-- End VB-F&V -->
     <div class="grid-item"> <!-- Heart Tour -->
@@ -135,9 +135,9 @@ This is a sample of various projects I have worked on since I started learning h
             <a class="grid-link-item" 
                 href="https://www.researchgate.net/profile/Kyle-Johnsen-2/publication/304781751_First-Person_VR_Design_for_Cardiac_Anatomy_Education/links/577a74b908ae355e74f06b7e/First-Person-VR-Design-for-Cardiac-Anatomy-Education.pdf">
                 Demo Paper</a>
-            <!-- <a class="grid-link-item" 
-                href="https://wevr.adalsimeone.me/2016/WEVR2016_Ball.pdf">
-                Video</a> --> <!-- TODO: -->
+            <a class="grid-link-item" 
+                href="https://youtu.be/VtpjDNi3hrQ">
+                2015 Video</a>
         </div> <!-- End Heart Tour Grid -->
     </div> <!-- End Heart Tour -->
     <div class="grid-item"> <!-- fWIM -->
@@ -154,9 +154,9 @@ This is a sample of various projects I have worked on since I started learning h
             <a class="grid-link-item" 
                 href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
                 Poster</a>
-            <!-- <a class="grid-link-item" 
-                href="https://dl.acm.org/doi/abs/10.1145/3131277.3134353">
-                Video</a> --> <!-- TODO: -->
+            <a class="grid-link-item" 
+                href="https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJjMDdkZGY0OTY1MDMxMGVlZjQyMDI2MWI0MTIxOThiZCIsImV4cCI6MTczODMzMTIwMywia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.o50rB7rXRKb4kbN3shR7ZrAPONeobzSzHQzb1hvRhthyBDF0ioYr38gkHoRfM9wKW4CY2ZZl1Gmg3J3Wo2E7PuWu_-88ZoiuQVif2zjQcRZbFvHcX3OAetY0PqMOZgYwtklYXAjdHjfe5YX-arkQBlLB05bsmbBaY4Sf4x0ax5ctW0KQmrus7e6wyLkVDv_qgmj3mX_y4W8hmGQuuT5MmUPPglq40kP98lZKofoo55o2QD9NZrWfTtC8DfUQ4sXqwkVwW8n7ts1icSYCTkE4sll1ZWyQ_3qH3M87Mxn32zTmnKxdtZ4eDWkmgs-Vo2r_R79sWa8kK1rLfStwg1CULg">
+                2022 Video</a> <!-- TODO: -->
         </div> <!-- End fWIM Link Grid -->
     </div> <!-- End fWIM -->
 </div> <!-- End Research Projects Grid -->
@@ -179,11 +179,11 @@ This is a sample of various projects I have worked on since I started learning h
             alt="A virtual turret aiming at a flying bunny enemy."
             title="Enrage Timer"
         >
-        <!-- <div class="link-grid"> Enrage Timer Link Grid TODO:
+        <div class="link-grid"> <!-- Enrage Timer Link Grid TODO: -->
             <a class="grid-link-item" 
-                href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6566098/">
-                Video</a>
-        </div> --> <!-- Enrage Timer Link Grid -->
+                href="https://youtu.be/nOyui6TpCbM">
+                2015 Video</a>
+        </div> <!-- Enrage Timer Link Grid -->
     </div> <!-- End Enrage Timer -->
     <div class="grid-item"> <!-- Merkules -->
         <!-- TODO: link github playable demo here -->
@@ -227,11 +227,11 @@ This is a sample of various projects I have worked on since I started learning h
             alt="A virtual ball being thrown at a bullseye."
             title="VR Target Throw Demo"
         >
-        <!-- <div class="link-grid"> VR Target Throw Link Grid TODO: 
+        <div class="link-grid"> <!-- VR Target Throw Link Grid TODO: --> 
             <a class="grid-link-item" 
-                href="https://faruhcon.github.io/Project2b/">
-                Video</a>
-        </div> --> <!-- VR Target Throw Demo Link Grid -->
+                href="https://youtu.be/D8-uVnTQlzo">
+                2016 Video</a>
+        </div> <!-- VR Target Throw Demo Link Grid -->
     </div> <!-- End VR Target Throw Demo -->
     <div class="grid-item"> <!-- Jetpack Maze -->
         <!-- TODO: pick and modify video and link video -->
@@ -243,11 +243,11 @@ This is a sample of various projects I have worked on since I started learning h
             alt="The outside of a lava-filled maze."
             title="Jane Bond Jetpack Maze"
         >
-        <!-- <div class="link-grid"> Jetpack Maze Link Grid TODO:
+        <div class="link-grid"> <!-- Jetpack Maze Link Grid TODO: -->
             <a class="grid-link-item" 
-                href="https://faruhcon.github.io/Project2b/">
-                Video</a>
-        </div> --> <!-- Jetpack Maze Link Grid -->
+                href="https://youtu.be/LaV8u1-mFSQ">
+                2015 Video</a>
+        </div> <!-- Jetpack Maze Link Grid -->
     </div> <!-- End Jetpack Maze -->
     <div class="grid-item"> <!-- MM: The Simulation -->
         <!-- TODO: modify video and link video -->
@@ -259,11 +259,11 @@ This is a sample of various projects I have worked on since I started learning h
             alt="An exploded block surrounded by other blocks."
             title="Mewer Mech: The Simulation"
         >
-        <!-- <div class="link-grid"> MM: The Simulation Link Grid TODO:
+        <div class="link-grid"> <!-- MM: The Simulation Link Grid -->
             <a class="grid-link-item" 
-                href="https://faruhcon.github.io/Project2b/">
-                Video</a>
-        </div> --> <!-- MM: The Simulation Link Grid -->
+                href="https://youtu.be/CBYzQ5oXejw">
+                2014 Video</a>
+        </div> <!-- MM: The Simulation Link Grid -->
     </div> <!-- End MM: The Simulation -->
     <div class="grid-item"> <!-- MR Memory Match -->
         <!-- TODO: modify video and link video -->
@@ -275,11 +275,11 @@ This is a sample of various projects I have worked on since I started learning h
             alt="A start screen displaying virtual controllers."
             title="MR Memory Match"
         >
-        <!-- <div class="link-grid"> MR Memory Match Link Grid TODO:
+        <div class="link-grid"> <!-- MR Memory Match Link Grid -->
             <a class="grid-link-item" 
-                href="https://faruhcon.github.io/Project2b/">
-                Video</a>
-        </div> --><!-- MR Memory Match Link Grid -->
+                href="https://youtu.be/af4rXHNNL7k">
+                2014 Video</a>
+        </div> <!-- MR Memory Match Link Grid -->
     </div> <!-- End MR Memory Match -->
 </div> <!-- End Class Projects Grid -->
 
@@ -310,6 +310,9 @@ This is a sample of various projects I have worked on since I started learning h
                 href="https://v3.globalgamejam.org/2018/games/supervirus">
                 <!-- Global Game Jam</a> -->
                 More Info</a> <!-- TODO: or Product or something else? -->
+            <a class="grid-link-item" 
+                href="https://youtu.be/k8BIPBW1GhM">
+                2018 Trailer</a> 
         </div> <!-- SuperViRus Link Grid -->
     </div> <!-- End SuperViRus -->
     <div class="grid-item"> <!-- Ghost Quest -->

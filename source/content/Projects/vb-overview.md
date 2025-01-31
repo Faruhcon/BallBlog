@@ -74,14 +74,6 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
             </div> <!-- End VFB-H Stats Table -->
         </details> 
     </div> <!-- End VFB-H Stats -->
-    <!-- <figure class=img-fig>
-        <img class=scale-w100 src="vfbA_petCustomizations_example.png">
-        <figcaption>VFB coat, tag, collar, and hat customizations.</figcaption>
-    </figure>
-    <figure class=img-fig>
-        <img class=scale-w100 src="vfbA_petToys_example.png">
-        <figcaption>Toy options and customizations.</figcaption>
-    </figure> -->
     <figure class=img-fig>
         <img class=scale-w100 
             src="vfbA_petCustomizations-and-toys.png"
@@ -207,27 +199,37 @@ The Virtual Fitness Buddy Home (VFB-&NoBreak;H)[^diss] project was designed to e
         </div> <!-- End Table Cell -->
         <!-- End Volleyball -->
     </details> <!-- End VFB-H Minigame Table -->
-    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
-    <ul> <!-- VFB-H responsibilities list -->
-        <li>Lead designer and software engineer</li>
-        <li>Designing and implementing:</li>
-        <ul> <!-- VFB-H design and implement list -->
-            <li>New park layout to allow for exploration</li>
-            <li>Virtual kiosks to start/stop games, display instructions, and show leaderboards</li>
-            <li>Speech to text (STT) for VFB tricks using Google's STT API</li>
-            <li>Arrow navigation system to show players where to go for their next objective</li>
-            <li>Trophy system that dynamically changed size as players met higher and higher physical activity goals</li>
-            <li>New iPad-based input system (touchscreen, AR motion, and voice)</li>
-        </ul> <!-- End VFB-H design and implement list -->
-        <li>Adding sound effects to the park, including ball bouncing sounds, cheers, and dings</li> 
-        <li>These sound effects were used to add some more realism to the app</li>
-        <li>Additionally, they were used to provide feedback that the player was completing tasks correctly</li>
-        <li>Recording and editing a video to show how to use the VFB-&NoBreak;H app (for the pilot, include?)</li>
-        <li>Setting up the iPads to auto-update when we issued updates to the app</li>
-        <li>Bug troubleshooting and fixes for both VFB app and Fitbit syncing</li>
-        <li>Tech support and troubleshooting iPads and physical activity trackers</li>
-        <li>Data analysis on game play metrics</li>
-    </ul> <!-- End VFB-H responsibilities list -->
+    <p>For the VFB-&NoBreak;H app, I was responsible for the following:</p>
+    <details open>
+        <summary>Responsibilities</summary>
+        <ul> <!-- VFB-H responsibilities list -->
+            <li>Lead game designer and software engineer</li>
+            <li>Designing and implementing:</li>
+            <ul> <!-- VFB-H design and implement list -->
+                <li>Minigames</li>
+                <li>New park layout to allow for exploration</li>
+                <li>Virtual kiosks to start/stop games, display instructions, and show leaderboards</li>
+                <li>Speech-to-text (STT) for VFB tricks using Google's STT API</li>
+                <li>Arrow navigation system to show players where to go for their next objective</li>
+                <li>Trophy system that dynamically changed size as players met higher and higher physical activity goals</li>
+                <li>New iPad-based input system (touchscreen, AR motion, and voice)</li>
+                <li>User interfaces (UI)</li>
+                <li>Player control system</li>
+                <li>App software architecture</li>
+            </ul> <!-- End VFB-H design and implement list -->
+            <li>Adding sound effects to the park<!--, including ball bouncing sounds, cheers, and dings --></li> 
+            <ul>
+                <li>Add sense of realism to app</li>
+                <li>Add <!--positive -->feedback when completing tasks correctly</li>
+            </ul>
+            <li>Recording and editing video guide on how to use app <!--(for the pilot, include?)--></li>
+            <!--<li>Setting up the iPads to auto-update when app updates were available</li>-->
+            <li>Initializing iPads and Fitbits for player use</li>
+            <li><!--Bug t-->Troubleshooting and bug fixes for app and Fitbit syncing</li>
+            <li>Tech support and troubleshooting iPads and physical activity trackers</li>
+            <li>Data analysis on gameplay metrics</li>
+        </ul> <!-- End VFB-H responsibilities list -->
+    </details>
 </details> <!-- End VFB-H -->
 
 ## Virtual STEM Buddy at Museum
@@ -352,24 +354,39 @@ The Virtual STEM Buddy Museum (VSB-&NoBreak;M)[^vsb1] project was designed to en
         </div> <!-- End Table Cell -->
         <!-- End Slingshot -->
     </details> <!-- End VSB-M Minigame Table -->
-    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
-    <ul> <!-- VSB-M responsibilities list -->
-        <li>Lead designer and software engineer</li><!-- TODO: instructions and text to voice, game play logic and loop-->
-        <li>Designing and implementing:</li>
-        <ul> <!-- VSB-M design and implement list -->
-            <li>VSB interactivity</li>
-            <li>Data logging system and its data structures</li>
-            <li>New player avatar system</li>
-        </ul> <!-- End VSB-M design and implement list -->
-        <li>Worked with CMOA staff to:</li>
-        <ul>
-            <li>Scale the interactions to the exhibit's allocated physical space</li>
-            <li>Design game mechanics that would fit well and safely into the museum environment</li>
-        </ul>
-        <li>Observing and recording interactions in person in order to update the system to address any issues that arose</li>
-        <li>Data analysis on game play metrics</li>
-        <li>Tech support and troubleshooting the kiosk</li>
-    </ul> <!-- End VSB-M responsibilities list -->
+    <p>For the VSB-&NoBreak;M app, I was responsible for the following:</p>
+    <details open>
+        <summary>Responsibilities</summary>
+        <ul> <!-- VSB-M responsibilities list -->
+            <li>Lead game designer and software engineer</li><!-- TODO: instructions and text to voice, game play logic and loop-->
+            <li>Designing and implementing:</li>
+            <ul> <!-- VSB-M design and implement list -->
+                <li>Minigames</li>
+                <li>Overall game controls</li>
+                <li>VSB interactivity and behavior</li>
+                <li>New player skeletal avatar system</li>
+                <li>Android tablet game selection system</li>
+                <li>Bluetooth communication between tablet and pc</li>
+                <li>User interfaces (UI)</li>
+                <li>Player control system</li>
+                <li>App software architecture</li>
+            </ul> <!-- End VSB-M design and implement list -->
+            <li>Worked with CMOA staff to:</li>
+            <ul>
+                <li>Scale interactions to exhibit's allocated physical space</li>
+                <li>Design game mechanics that would fit well and safely into museum environment</li>
+            </ul>
+            <li>Observing and recording interactions on-site for bug fixes and data collection<!--in person in order to update the system to address any issues that arose--></li>
+            <li>Tech support and troubleshooting kiosk</li>
+            <li>Data Engineering:</li>
+            <ul> <!-- Data Engineer list -->
+                <li>Data logging system and its data structures</li>
+                <li>Generate codebook describing all variables</li>
+                <li>Utilize ETL (extract, transform, load) processes to provide data in analyzable format</li>
+                <li>Data analysis on gameplay metrics</li>
+            </ul> <!-- End Data Engineer list -->
+        </ul> <!-- End VSB-M responsibilities list -->
+    </details>
     <!-- <p>TODO: my responsibilities list</p> -->
 </details> <!-- End VSB-M -->
 
@@ -382,7 +399,7 @@ The Virtual STEM Buddy Museum (VSB-&NoBreak;M)[^vsb1] project was designed to en
             src="vfbA_kioskComparison.png"
             alt="Two mobile, locking cabinets with large screen televisions on top."
             title="Virtual Fitness Buddy Afterschool Kiosks">
-        <figcaption>  Kiosks used during the VF&NoBreak;A pilot (left) and C1-&NoBreak;A and C2-&NoBreak;A (right). The C1-&NoBreak;A/C2-&NoBreak;A kiosk added a touchscreen display for menu selection.</figcaption>
+        <figcaption>Kiosks used during the VF&NoBreak;A pilot (left) and C1-&NoBreak;A and C2-&NoBreak;A (right). The C1-&NoBreak;A/C2-&NoBreak;A kiosk added a touchscreen display for menu selection.</figcaption>
     </figure>
 
 The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was designed to encourage children to engage in healthier physical activity (PA) habits through the use of a virtual dog buddy. As a child completed PA, tracked using a Fitbit PA tracker, their VFB's health would increase, which meant that they could play for longer, unlock new games and tricks, and earn points to spend on various customizations. VFB-&NoBreak;A was built as a mobile kiosk station to be used in afterschool programs consisting of a large screen display, touchscreen, and Microsoft Kinect.
@@ -527,27 +544,35 @@ The Virtual Fitness Buddy Afterschool (VFB-&NoBreak;A)[^vfb-a1] project was desi
         </div> <!-- End Table Cell -->
         <!-- End Volleyball -->
     </details> <!-- End VFB-A Minigame Table -->
-    <p>In addition to designing and implementing these minigames, I was also responsible for the following:</p>
-    <ul> <!-- VFB-A responsibilities list -->
-        <li>Lead designer and software engineer</li>
-        <li>Lead a small team of artists and programmers</li>
-        <li>Designed and implemented:</li>
-        <ul> <!-- VFB-A design and implement list -->
-            <li>Avatar</li>
-            <li>Touchscreen selection system</li>
-            <li>Two different throwing and trick gesture systems</li>
-            <li>Leaderboards</li>
-            <li>Data logging and data structures</li>
-        </ul> <!-- End VFB-A design and implement list -->
-        <li>Setting up and maintaining both control and treatment kiosks</li>
-        <li>Tech support and troubleshooting for both kiosks and physical activity trackers</li>
-        <li>Data engineer</li>
-        <ul> <!-- Data Engineer list -->
-            <li>Creating notes on what each data point meant</li>
-            <li>Converting this data into a format our statisticians could use to process the data easily</li>
-        </ul> <!-- End Data Engineer list -->
-        <!-- <li>TODO: my responsibilities list</li> -->
-    </ul> <!-- End VFB-A responsibilities list -->
+    <p>For the VFB-&NoBreak;A app, I was responsible for the following:</p>
+    <details open>
+        <summary>Responsibilities</summary>
+        <ul> <!-- VFB-A responsibilities list -->
+            <li>Lead game designer and software engineer</li>
+            <li>Lead small team of artists and programmers</li>
+            <li>Designing and implementing:</li>
+            <ul> <!-- VFB-A design and implement list -->
+                <li>Skeletal Avatar</li>
+                <li>Touchscreen selection system</li>
+                <li>Two throwing and trick gesture systems</li>
+                <li>Leaderboards</li>
+                <li>Control kiosk app</li>
+                <li>User interfaces (UI)</li>
+                <li>Player control system</li>
+                <li>App software architecture</li>
+            </ul> <!-- End VFB-A design and implement list -->
+            <li>Setting up and maintaining control and treatment kiosks</li>
+            <li>Tech support and troubleshooting for both kiosks and physical activity trackers</li>
+            <li>Data Engineering:</li>
+            <ul> <!-- Data Engineer list -->
+                <li>Data logging system and its data structures</li>
+                <li>Generate codebook describing all variables</li>
+                <li>Utilize ETL (extract, transform, load) processes to provide data in analyzable format</li>
+                <li>Data analysis on gameplay metrics</li>
+            </ul> <!-- End Data Engineer list -->
+            <!-- <li>TODO: my responsibilities list</li> -->
+        </ul> <!-- End VFB-A responsibilities list -->
+    </details>
 </details> <!-- End VFB-A -->
 
 ## Virtual Fitness Buddy Summer Camp
@@ -623,19 +648,22 @@ The Virtual Fitness Buddy Summer Camp (VFB-&NoBreak;C)[^vfb-c1] project was desi
     </div> <!-- End VFB-C Stats -->
     <!-- <p>TODO: second blurb - what about?? there's no minigames</p>
     <p>TODO: pic?</p> -->
-    <p><!-- TODO: --> I was responsible for the following:</p>
-    <ul> <!-- VFB-C Responsibilities List -->
-        <li>Designing and implementing</li>
-        <ul> <!-- VFB-C design and implement list -->
-            <li>Updated user interface (UI)</li>
-            <li>Hover selection technique for menu selection</li>
-            <li>Trick shop</li>
-            <li>Trick and Fitbit selection systems</li>
-        </ul> <!-- End VFB-C design and implement list -->
-        <li>Observing and troubleshooting VFB-&NoBreak;C system throughout the study</li>
-        <li>Fitbit setup and troubleshooting</li>
-        <li>Administering post-treatment questionnaires</li>
-    </ul> <!-- End VFB-C responsibilities list -->
+    <p>For the VFB-&NoBreak;C app, I was responsible for the following:</p>
+    <details open>
+        <summary>Responsibilities</summary>
+        <ul> <!-- VFB-C Responsibilities List -->
+            <li>Designing and implementing:</li>
+            <ul> <!-- VFB-C design and implement list -->
+                <li>Updated user interface (UI)</li>
+                <li>Hover selection technique for menu selection</li>
+                <li>Trick shop</li>
+                <li>Trick and Fitbit selection systems</li>
+            </ul> <!-- End VFB-C design and implement list -->
+            <li>Observing and troubleshooting system throughout study</li>
+            <li>Fitbit setup and troubleshooting</li>
+            <li>Administering post-treatment questionnaires</li>
+        </ul> <!-- End VFB-C responsibilities list -->
+    </details>
 </details> <!-- End VFB-C -->
 
 <!-- TODO: -->
@@ -748,19 +776,24 @@ The Virtual Buddy Fruit and Vegetable (V&NoBreak;F&V)[^f&v1] project was designe
         </div> <!-- End Table Cell -->
         <!-- End Heart Pumping -->
     </details> <!-- End VB-F&V Health Check Table -->
-    <p><!-- TODO: --> In addition to implementing these health checks, I was responsible for the following:</p>
-    <ul> <!-- VB-F&V responsibilities list -->
-        <li>Designing and implementing:</li>
-        <ul> <!-- VB-F&V design and implement list -->
-            <li>Haptic joystick input system</li>
-            <li>Reward system based on fruit and vegetable consumption</li>
-            <li>RFID login system</li>
-            <li>Heart and artery testing minigames</li>
-            <li>Updating gesture system to use the haptic joystick</li>
-        </ul> <!-- End VB-F&V design and implement list -->
-        <li>Observing and troubleshooting VB-&NoBreak;F&V system throughout the study</li>
-        <li>Administering post-treatment questionnaires</li>
-    </ul> <!-- End VB-F&V responsibilities list -->
+    <p>For the VB-&NoBreak;F&V app, I was responsible for the following:</p>
+    <details open>
+        <summary>Responsibilities</summary>
+        <ul> <!-- VB-F&V responsibilities list -->
+            <li>Designing and implementing:</li>
+            <ul> <!-- VB-F&V design and implement list -->
+                <li>VB health checks</li>
+                <li>Haptic joystick input system</li>
+                <li>Gesture system utilizing haptic joystick</li>
+                <li>Reward system based on fruit and vegetable consumption</li>
+                <li>RFID login system</li>
+                <li>User interfaces (UI)</li>
+                <li>Player control system</li>
+            </ul> <!-- End VB-F&V design and implement list -->
+            <li>Observing and troubleshooting system throughout study</li>
+            <li>Administering post-treatment questionnaires</li>
+        </ul> <!-- End VB-F&V responsibilities list -->
+    </details>
 </details> <!-- End VB-F&V -->
 
 <!-- Footnotes/References -->

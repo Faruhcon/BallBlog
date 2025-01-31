@@ -25,10 +25,11 @@ TODO: keep citations/links or does it make the skills too cluttered?
 <details open>
     <summary>Qualifications</summary>
 
-- Languages: C#, Python, SQL, HTML, CSS
-- Major Libraries: PANDAS, Seaborn, Google Speech-to-Text, Oculus/Meta VR (Virtual Reality), SteamVR, OpenXR, Apple iOS/iPadOS AR (Augmented Reality), Microsoft Kinect, Fitbit
+- Languages: C#, Python, SQL, HTML, CSS, JS
+- Major Libraries: pandas, Seaborn, Google Speech-to-Text, Oculus/Meta VR (Virtual Reality), SteamVR, OpenXR, Apple iOS/iPadOS AR (Augmented Reality), Microsoft Kinect, Fitbit
 - Game Engine: Unity3D
 - Platforms: PC, Android, iOS, VR, and AR
+- Source Control: Git
 
 </details>
 
@@ -41,9 +42,10 @@ TODO: keep citations/links or does it make the skills too cluttered?
 - Implemented virtual reality (VR) tour of 3D modeled heart using Unity3D that competed at the 2016 IEEEVR Conference[^heart-demo]. <!-- TODO: video link?? cite workshop paper? -->
 - Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. <!-- TODO: here or game designer or other?? -->
 - Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
+- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
 
 
-- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children. This led to a design change in the overall project, incorporating a touchscreen, which was intuitive for children. <!-- TODO: is this additional sentence good??? -->
+- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children. This led to a design change in the overall project, incorporating a touchscreen, which was intuitive for children to use. <!-- TODO: is this additional sentence good??? -->
 
 </details>
 
@@ -53,7 +55,6 @@ TODO: keep citations/links or does it make the skills too cluttered?
     <summary>Skills</summary>
 
 - Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
-- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
 - Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
 - Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
 - Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
@@ -73,7 +74,7 @@ TODO: keep citations/links or does it make the skills too cluttered?
 - Led and architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1].
 
 
-- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 155 children across 7 sites and ran 6 months[^vfb-a1].
+- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 318 children across 12 sites and ran 6 months[^vfb-a1].<!-- TODO: include c2 or just c1 (155child, 7)sites?? -->
 
 </details>
 
@@ -116,6 +117,15 @@ TODO: keep citations/links or does it make the skills too cluttered?
     <summary>Skills</summary>
     <p>TODO:</p>
 </details> -->
+
+<!-- old ones -->
+- Design various virtual experiences to be used in the field for extended periods with many participants with a focus on mixed reality devices.
+- Implement the front-end for the aforementioned virtual experiences, including game logic, user interfaces (UI), interfacing with database, and world layout.
+- Design physical kiosk-based hardware systems used by the aforementioned virtual experiences.
+- Run and analyze data from user studies with a focus on game outcomes and user feedback.
+- Lead designer, hardware troubleshooter, and leader of a team of undergraduates for a multimillion-dollar, large-scale research project with a focus on children’s physical activity habit modification with the assistance of a virtual buddy (Virtual Fitness Buddy project).
+- Worked with a cross-disciplinary team during the aforementioned project in regard to virtual experience design and implementation, hardware interfaces, and field visits.
+
 
 ## TODO: Delete or Comment Everything Below Here
 
@@ -177,6 +187,11 @@ TODO: keep citations/links or does it make the skills too cluttered?
 </details>
 
 ### Non-Erin Approved (lol)
+
+- TODO: Establish initial data structures for required player data and app data alongside algorithms both for storage in relational SQL database and for utilization in app and data analysis.
+- TODO: Utilize ETL (extract, transform, load) processes to prepare player data for use in the game application, repacking for use during data analysis, and for long-term storage.
+- TODO: Analyze gameplay metrics for preferences, usability, and engagement
+- TODO: Design mixed reality virtual experiences for extended field deployment utilized by hundreds of players
 
 <details>
 
