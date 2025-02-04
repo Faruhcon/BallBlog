@@ -20,7 +20,7 @@ TODO: keep citations/links or does it make the skills too cluttered?
   - Bachelor of Science - BS, Psychology
 </details> -->
 
-## Programming
+## Programmer
 
 <details open>
     <summary>Qualifications</summary>
@@ -57,7 +57,7 @@ TODO: keep citations/links or does it make the skills too cluttered?
 - Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
 - Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
 - Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
-- Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
+- Designed and implemented an engaging physical activity improvement program in collaboration with psychology, kinesiology, engineering, and statistics departments
 - Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? --> <!-- TODO: here, programming, or otherwise? -->
 
 
@@ -82,19 +82,15 @@ TODO: keep citations/links or does it make the skills too cluttered?
 
 <details open>
     <summary>Skills</summary>
+
+- Designed ETL (TODO: acronym) process to handle virtual buddy player loading under 3 seconds to retain child attention during start up
+- Analyzed initial VSB deployment mechanics at CMOA and recommended upgrade resulted in 58% increase (88.3 / 139.8) in engagement with an approximate 10,000 exhibit visitors per year <!-- with 39% increase (13.6 / 18.9) in LH plays/day between upgrades 2 and 3 and in corresponding time frame slingshot saw 9% increase (23.7 / 25.8); 58% (88.3 / 139.8) in play time/game and 15% (100.0 / 115.3) for slingshot -->
 </details>
 
 <!-- ## UI/UX Designer
 
 <details open>
     <summary>Skills</summary>
-</details> -->
-
-<!-- ## Hardware Designer
-
-<details open>
-    <summary>Skills</summary>
-    <p>TODO:?</p>
 </details> -->
 
 <!-- ## QA
@@ -104,19 +100,14 @@ TODO: keep citations/links or does it make the skills too cluttered?
     <p>TODO:?</p>
 </details> -->
 
-<!-- ## Field Consultant
+<!-- ## Field Engineer
 
 <details open>
     <summary>Skills</summary>
     <p>TODO:?</p>
 </details> -->
+<!-- ### Hardware Designer -->
 
-<!-- ## Tech Support
-
-<details open>
-    <summary>Skills</summary>
-    <p>TODO:</p>
-</details> -->
 
 <!-- old ones -->
 - Design various virtual experiences to be used in the field for extended periods with many participants with a focus on mixed reality devices.
@@ -163,24 +154,42 @@ TODO: keep citations/links or does it make the skills too cluttered?
 
 <details>
 
-<!--- Ideas to massage --->
-- TODO: add a bullet point for how we managed our feedback collection process
-- TODO: how to reach out to the community to get them involved
-- TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer and hardware)
+<!-- Catherine todos -->
+- TODO: turn this into bullet point as elevator pitch on why I was good in field; got it deployed and all they had to do was plug in; captured data when working that met needs of departments involved; app worked for kids; work with parents; was easy on site staff b/c only plugin and turn on tv; managed stakeholders across domains well
+  - tech support bullet point regarding site staff feedback and implementation
+- TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer)
+  - cost vs making a custom mat that detected when player was out of bounds and not standing in startup location
+  - one for hardware; one for software if there is one for VSB otherwise use below for software
 - TODO: heart navigation/learning trade-off (software/ux)
-- TODO: tech support bullet point regarding site staff feedback and implementation
-- TODO: novel hardware choices (kinect, novint falcon), off the shelf hardware choices (software too?)
-- TODO: (programming): notebook on what system stats mean, documentation
-- TODO: state machine for vfb/vsb animations and maybe arduino??
-- TODO: AR/VR/MR experience
-- TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back
+- TODO: fix this: Created a data dictionary that reduced the 4 person analysis team's time to understand projection iteration 14 hours per person for VFB
 - TODO: VFB watch mentorship
+  - Created a reference architecture that was able to guide a junior programmer to create the next evolution of VFB that would allow children to take their buddy with them and get rewards for doing fitness all the time 
+    - note: reference finch "self-care", including PA, to say this is a real thing they're already using; market has validated that these ideas work
+    - give a comparison to how helpful the reference architecture was
+    - a programming win as lead designer of the architecture to help junior programmer
+- ~~TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back~~
+  - TODO: Event data log handling ex how I would go about processing the event log by person and session, use pipeline of processing raw event log history into total game sessions or daily game events
+    - converting sql log entries into a data event
+  - data pipeline of raw event log into series of game events (per player per session)
+
+<!--- Ideas to massage --->
+- ~~TODO: add a bullet point for how we managed our feedback collection process~~
+- TODO: AR/VR/MR experience - check to see how much these are called out in other bullet points
 - TODO: coming up with bark it/agility (blank canvas, small prototype and scrappy too (other minigames too))
-- TODO: coming up with lever hero/slingshot?
-- TODO: simple animations?
-- TODO: adept at model transform manipulation (to have them grow from a certain point; parenting things to have them move or scale the way I want)
-- TODO: C# design patterns
+  - example of lead programmer behavior/example of ownership of entire process
+  - number of times games I came up with were played vs those I didn't (or the initial idea that wasn't mine)
+  - coming up with lever hero/slingshot? own bullet point?
+- TODO: unity win story? example of experience unity developer choices (scene hierarchy organization)
+  - adept at model transform manipulation (to have them grow from a certain point; parenting things to have them move or scale the way I want)
+- TODO: C# design patterns (https://refactoring.guru/)
+  - gonna need much more massaging
+  - my job is to identify patterns I have used or may have used
 - TODO: Physics engine vs deterministic tradeoff
+  - do you want it to look cool vs be consistent every time
+  - why is this an example of an experience unity developer?
+  - how would I tell junior devs how to make this tradeoff every time
+
+
 
 <!-- Already addressed? -->
 <!-- TODO: designed 3d trophy system (trophy itself and pillar) with a 3d modeler -->
@@ -188,10 +197,15 @@ TODO: keep citations/links or does it make the skills too cluttered?
 
 ### Non-Erin Approved (lol)
 
-- TODO: Establish initial data structures for required player data and app data alongside algorithms both for storage in relational SQL database and for utilization in app and data analysis.
-- TODO: Utilize ETL (extract, transform, load) processes to prepare player data for use in the game application, repacking for use during data analysis, and for long-term storage.
-- TODO: Analyze gameplay metrics for preferences, usability, and engagement
-- TODO: Design mixed reality virtual experiences for extended field deployment utilized by hundreds of players
+Data Engineer
+- Designed data warehouse for analysis/to use
+  - TODO: Supported virtual fitness buddy data warehouse development to enable future research analysis 
+    - replace supported with something more descriptive
+
+
+
+
+
 
 <details>
 

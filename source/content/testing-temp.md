@@ -3,6 +3,9 @@ title: Element Testing Page
 draft: true
 ---
 
+<!-- //TODO: add sliding up/down animation for tables
+// a solution: https://nerdy.dev/open-and-close-transitions-for-the-details-element -->
+
 <style>
 .stats-container2 {
     width: flex;
