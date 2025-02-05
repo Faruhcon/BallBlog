@@ -3,7 +3,52 @@ title: Resume/CV Notes
 draft: true
 ---
 
+### Notes and brainstorming
+Working Ideas
+<!--- Working Ideas --->
+- I designed a way to be intentional about interactions in a system where there are no physical buttons where expression is free form.
+- chose off the shelf hardware and able to implement architecture evolved we were able to introduce new hardware with minimal rework -- didn't spend grant money on custom hardware
+- Was able to maximize developed content by using as easter eggs to encourage play and discovery and reward intrinsic sense of discovery, ask questions and explore limits of system
+- I was aware of considering ways of targeting personally identifiable information, included facial recognition and body motions.
+  - Didn't want to identify face or who just that **someone** was there
+- Safeguarded child privacy by avoiding capturing and storing personally identifiable information, such as facial recognition.
+
+Working Topics:
+
+- Iterative design with feedback:
+  - I did this. The feedback was from the kids, parents, and the rest of our team
+  - Iterative across projects and within projects too
+- Design with edu goals in mind
+  - worked with Kinesiologist and Psychologist for VFB; worked with Psychologist and museum staff for VSB
+  - adapted our study goals into design decisions, iterating based on feedback
+- Lead team of undergrads (collab with external partners)
+- Degree is in engineering with a focus on building unique virtual experiences
+- worked with Unity3D and C# for over a decade
+- Often given the high level goals for the experience then translated those into executable program designs
+- Worked on a fast time scale due to study time requirements (ex: in 5 years, we ran 5 studies all with different, iterated prototypes); had to test prototypes on the fly in order to discover what felt good to us and translated well to kids (used kids of study investigators for early testing then pilot studies with kids in similar environment to main study target)
+- Had to work with a team from multiple backgrounds (engineering, stats, psychology, kinesiology) and worked with various site staff to properly target environmental needs
+- Primary game designer on various projects
+- I did have to dabble in animations based on models designed by other members from our team
+- Modeled determinant trajectories while also leveraging the physics engine for bounciness and other traits
+
 #### Iterative design with feedback
+
+
+- took in feedback from site staff to better accommodate their specific (environmental) needs
+- for the virtual buddy apps, they literally were built and grew upon each other
+  - took feedback from the current study and used it to target things to update or address in the next iteration
+
+TODO: tech support bullet point regarding site staff feedback and implementation
+
+- From the site staff, I garnered feedback regarding how well the system was working in the field and quickly prototyped and tested updates before deploying them in the field as necessary.
+
+- These updates were made both in between and during studies, pending the severity of the issue.
+  - some were also made if participants had not reached certain points in the game, meaning that they would not impact study goals as much before and after their implementation as they were implemented before they even got to try them
+- Worked on 5 different virtual buddy projects that drew inspiration from previous applications.
+
+We had anywhere from a few weeks to 3 months to finish up the next prototype for use in the field.
+
+TODO: Iterative design process 
 
 - took in feedback from multidisciplinary team on prototypes
 
@@ -15,19 +60,14 @@ Based on feedback from our multiple disciplinary team, study site staff, and par
   - engr, 
   - pet health = old PA*0.9 + new PA*0.1
 
+
+TODO: add "advertisement" for all projects on this page, maybe dupe it on landing page (teaser for what it is, pic, and link for further info and/or demo)
+
 ##### Bringing four departments together
 
 Psyc+kine = here's what we want
 engr = here's how to do it
 Stats = here's how it did and other data metrics
-
-<!--- Brainstorming --->
-Was able to synthesize requirements from the psychology and kinesiology departments with the capabilities of the engineering department and measure its success from the statisticians on making an engaging physical activity improvement program.
-
-Based on study requirements from the psychology and kinesiology departments, 
-
-Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
-
 
 ##### Participant feedback
 
@@ -57,7 +97,6 @@ Integrated Children's Museum of Atlanta deployment requirements into Virtual STE
 audio
 exhibit size
 hardware
-
 
 ##### Iterative Design Stuff
 
@@ -100,16 +139,9 @@ to use Unity3D multiplatform deployment for VFB ()
 TODO: simulation - fwim
 TODO: navigation - heart tour
 
-
 Understanding trade offs of user experience and navigation
 
 recognize that the value of experience was guided navigation and not free form nav - focus energy on importance of the tour itself rather than the novel concept of 3d heart to explore
-
-Designed virtual reality tour of 3D modeled heart using Unity3D that competed at 2016 IEEEVR Conference. TODO: link paper and demo paper
-
-Expanded the boundaries of a VR guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility. (TODO: cite heartx2)
-
-Designed a virtual reality exploratory data analysis (EDA) tool using Unity3D to simplify understanding of heart study interactions (TODO: cite all 3 fwim+2 heart).
 
 worrying about navigation
 
@@ -171,7 +203,6 @@ executing my vision for the minigame
 
 ### Architectural
 
-- TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer and hardware)
 - TODO: novel hardware choices (kinect, novint falcon), off the shelf hardware choices (software too?) - tradeoff between novel hardware vs readily available/familiar
 - TODO: heart navigation/learning trade-off (software/ux) - deciding how someone should experience it, which impacts what systems would need to be made or used ex 1DOF vs 3DOF
 - TODO: clear software examples of tradeoffs
@@ -229,20 +260,6 @@ executing my vision for the minigame
 - see above TODOs, ex: agility see-saw
 - trajectory system?
 - heart minigames - artery elasticity; novint falcon work
-
-### AR/VR/MR
-
-- TODO: AR/VR/MR experience
-
-### Data Engineer
-
-- TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back
-- TODO: (programming): notebook on what system stats mean, documentation
-  - more generalized audience
-
-
-- TODO: add a bullet point for how we managed our feedback collection process
-- TODO: how to reach out to the community to get them involved
 
 ### Educational goal alignment
 

@@ -10,15 +10,16 @@ TODO: keep citations/links or does it make the skills too cluttered?
 <!-- TODO: ensure acronyms are spelled out everywhere or at least once -->
 <!-- TODO: dupe skills across headings? or maybe just reword them to fit better?? -->
 
-<!-- TODO: add this? ## Education
+## Education
 
+TODO: make this look better <3
 <details open>
     <summary>Education</summary>
 
 - University of Georgia
   - Doctor of Philosophy - PhD, Engineering (Software)
   - Bachelor of Science - BS, Psychology
-</details> -->
+</details>
 
 ## Programmer
 
@@ -54,7 +55,7 @@ TODO: keep citations/links or does it make the skills too cluttered?
 <details open>
     <summary>Skills</summary>
 
-- Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
+- Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by over 400 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
 - Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
 - Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
 - Designed and implemented an engaging physical activity improvement program in collaboration with psychology, kinesiology, engineering, and statistics departments
@@ -71,10 +72,9 @@ TODO: keep citations/links or does it make the skills too cluttered?
 <details open>
     <summary>Skills</summary>
 
-- Led and architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1].
-
-
-- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 318 children across 12 sites and ran 6 months[^vfb-a1].<!-- TODO: include c2 or just c1 (155child, 7)sites?? -->
+- Realized the Virtual Buddy systems by synthesizing and implementing the needs of the entire spectrum of stakeholders from child players, their parents, and deployment site staff like CMOA, to supporting UGA staff of psychologists, statisticians, kinesiologists, and engineers to turn a proof of concept into fully realized applications played by 60,000 children over 5 years
+- <!--Led and a-->Architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1] played by approximately 60,000 children.
+- <!-- TODO: as dev team lead-->Orchestrated the [afterschool Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to over 300 children across 12 sites and ran 6 months[^vfb-a1].<!-- TODO: include c2 or just c1 (155child, 7)sites?? -->
 
 </details>
 
@@ -84,29 +84,28 @@ TODO: keep citations/links or does it make the skills too cluttered?
     <summary>Skills</summary>
 
 - Designed ETL (TODO: acronym) process to handle virtual buddy player loading under 3 seconds to retain child attention during start up
-- Analyzed initial VSB deployment mechanics at CMOA and recommended upgrade resulted in 58% increase (88.3 / 139.8) in engagement with an approximate 10,000 exhibit visitors per year <!-- with 39% increase (13.6 / 18.9) in LH plays/day between upgrades 2 and 3 and in corresponding time frame slingshot saw 9% increase (23.7 / 25.8); 58% (88.3 / 139.8) in play time/game and 15% (100.0 / 115.3) for slingshot -->
+- Analyzed initial VSB deployment mechanics at CMOA and recommended upgrade resulted in 58% increase (88.3 / 139.8) in engagement with an approximate 14,000 exhibit visitors per year <!-- with 39% increase (13.6 / 18.9) in LH plays/day between upgrades 2 and 3 and in corresponding time frame slingshot saw 9% increase (23.7 / 25.8); 58% (88.3 / 139.8) in play time/game and 15% (100.0 / 115.3) for slingshot -->
+- Created VFB data dictionary reducing comprehension time by 14 hours during impact and success analysis of VFB 
+
 </details>
 
-<!-- ## UI/UX Designer
+## UI/UX Designer
 
 <details open>
     <summary>Skills</summary>
-</details> -->
 
-<!-- ## QA
+- TODO:?
 
-<details open>
-    <summary>Skills</summary>
-    <p>TODO:?</p>
-</details> -->
+</details>
 
-<!-- ## Field Engineer
+## Field Engineer
 
 <details open>
     <summary>Skills</summary>
-    <p>TODO:?</p>
-</details> -->
-<!-- ### Hardware Designer -->
+
+- TODO:?
+
+</details>
 
 
 <!-- old ones -->
@@ -120,53 +119,31 @@ TODO: keep citations/links or does it make the skills too cluttered?
 
 ## TODO: Delete or Comment Everything Below Here
 
-<details>
-    <summary>Master Bullet Points and Notes</summary>
-
-### Final-ish bullet points
-
-<details>
-
-<!--- final-ish bullet points --->
-<!-- MOVED -->
-- Designed child intuitive, motion-detection interaction algorithm for using real-world motion as a primary input system used by 410 children (prior to the release of the consumer Oculus Rift virtual reality headset in 2015). <!-- TODO: put a ref here? but to what? dissertation? -->
-- Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
-- Implemented modular design in [Virtual Fitness Buddy project](Projects/vb-overview) and utilized Unity3D's ease of cross-platform deployment to support PC, iOS/iPadOS, and Virtual Reality (Meta Quest) builds.
-- Designed a responsive and intuitive jetpack flight system in virtual reality (VR) that resulted in being hired by the Virtual Experiences Lab at the University of Georgia. <!-- TODO: link if there is a specific one for it/its video -->
-- Translated child feedback into actionable design updates to gameplay mechanics that eliminated negative feedback.
-- Implemented virtual reality (VR) tour of 3D modeled heart using Unity3D that competed at the 2016 IEEEVR Conference[^heart-demo]. <!-- TODO: video link?? cite workshop paper? -->
-- Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
-- Led and architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1].
-- Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. 
-- Collaborated with psychology, kinesiology, engineering, and statistics departments to design an engaging physical activity improvement program validated by game analytics.
-- Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
-- Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? -->
-
-
-- Development team lead on the afterschool [Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to 155 children across 7 sites and ran 6 months[^vfb-a1].
-- Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children.
-- Designed a 3D trophy model set that rewarded child fitness goals in the [Virtual Fitness Buddy system](Projects/vb-overview#virtual-fitness-buddy-at-home).
-
-<!-- Not Moved -->
-</details>
 
 ### TODO Bullet Points
 
 <details>
 
 <!-- Catherine todos -->
-- TODO: turn this into bullet point as elevator pitch on why I was good in field; got it deployed and all they had to do was plug in; captured data when working that met needs of departments involved; app worked for kids; work with parents; was easy on site staff b/c only plugin and turn on tv; managed stakeholders across domains well
-  - tech support bullet point regarding site staff feedback and implementation
 - TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer)
   - cost vs making a custom mat that detected when player was out of bounds and not standing in startup location
   - one for hardware; one for software if there is one for VSB otherwise use below for software
+  - how to talk about this? like I don't know cost savings
+    - cost could be time or focus of effort ex limited time and funds to put into designing and implementing say a custom mat vs just using tape on the ground 
+    - safety first: both software and "hardware" (tape) 
 - TODO: heart navigation/learning trade-off (software/ux)
-- TODO: fix this: Created a data dictionary that reduced the 4 person analysis team's time to understand projection iteration 14 hours per person for VFB
+  - TODO: don't have distinguishing results for learning trade off, respin or toss?
+  - win here is people preferred the immersive version, no simulator sickness
+  - had sense of what people want and this was born out by data
+  - Enhanced VR nav system to make it a fluid and natural experience which resulted in 50% increased engagement by users
+
 - TODO: VFB watch mentorship
   - Created a reference architecture that was able to guide a junior programmer to create the next evolution of VFB that would allow children to take their buddy with them and get rewards for doing fitness all the time 
     - note: reference finch "self-care", including PA, to say this is a real thing they're already using; market has validated that these ideas work
     - give a comparison to how helpful the reference architecture was
     - a programming win as lead designer of the architecture to help junior programmer
+
+
 - ~~TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back~~
   - TODO: Event data log handling ex how I would go about processing the event log by person and session, use pipeline of processing raw event log history into total game sessions or daily game events
     - converting sql log entries into a data event
@@ -201,12 +178,6 @@ Data Engineer
 - Designed data warehouse for analysis/to use
   - TODO: Supported virtual fitness buddy data warehouse development to enable future research analysis 
     - replace supported with something more descriptive
-
-
-
-
-
-
 <details>
 
 <!--- Non-Erin Approved (lol) --->
