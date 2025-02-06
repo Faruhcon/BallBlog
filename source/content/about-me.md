@@ -19,6 +19,7 @@ TODO: make this look better <3
 - University of Georgia
   - Doctor of Philosophy - PhD, Engineering (Software)
   - Bachelor of Science - BS, Psychology
+
 </details>
 
 ## Programmer
@@ -142,12 +143,16 @@ TODO: make this look better <3
     - note: reference finch "self-care", including PA, to say this is a real thing they're already using; market has validated that these ideas work
     - give a comparison to how helpful the reference architecture was
     - a programming win as lead designer of the architecture to help junior programmer
+  - Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration, enabling children to bring their buddy on "real-world" walks (or PA?)
+    - bring in market validate approach?
+  - TODO: Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration (write about how it helped the junior dev)
 
 
 - ~~TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back~~
   - TODO: Event data log handling ex how I would go about processing the event log by person and session, use pipeline of processing raw event log history into total game sessions or daily game events
     - converting sql log entries into a data event
   - data pipeline of raw event log into series of game events (per player per session)
+  - TODO: Implemented VFB ETL pipeline to convert logs to game events per player session reducing analysts' workload saving xyz hours (SQL, Python)
 
 <!--- Ideas to massage --->
 - ~~TODO: add a bullet point for how we managed our feedback collection process~~
