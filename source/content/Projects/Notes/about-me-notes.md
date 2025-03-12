@@ -51,6 +51,15 @@ draft: true
 ## Development Team Lead
 <!-- TODO: just rename team lead? --> <!-- TODO: keep this? -->
 
+- TODO: VFB watch mentorship
+  - Created a reference architecture that was able to guide a junior programmer to create the next evolution of VFB that would allow children to take their buddy with them and get rewards for doing fitness all the time 
+    - note: reference finch "self-care", including PA, to say this is a real thing they're already using; market has validated that these ideas work
+    - give a comparison to how helpful the reference architecture was
+    - a programming win as lead designer of the architecture to help junior programmer
+  - Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration, enabling children to bring their buddy on "real-world" walks (or PA?)
+    - bring in market validate approach?
+  - TODO: Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration (write about how it helped the junior dev)
+
 <details open>
     <summary>Skills</summary>
 

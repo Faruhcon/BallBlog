@@ -3,16 +3,16 @@ title: About Me
 #draft: true
 ---
 
-Coming Soon!
+<!-- Coming Soon!
 
-TODO: keep citations/links or does it make the skills too cluttered?
+TODO: keep citations/links or does it make the skills too cluttered? -->
 
 <!-- TODO: ensure acronyms are spelled out everywhere or at least once -->
 <!-- TODO: dupe skills across headings? or maybe just reword them to fit better?? -->
 
 ## Education
 
-TODO: make this look better <3
+<!-- TODO: make this look better <3  -->
 <details open>
     <summary>Education</summary>
 
@@ -45,8 +45,6 @@ TODO: make this look better <3
 - Iterated bi weekly for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) on 4 separate departments' requirements that both entertained children and supported physical activity gameplay goals. <!-- TODO: here or game designer or other?? -->
 - Integrated Children's Museum of Atlanta deployment requirements into [Virtual STEM Buddy mixed reality exhibit](Projects/vb-overview#virtual-stem-buddy-at-museum) that had no reported physical incidents over 5 year life span[^vsb1]. <!-- TODO: link to CMOA homepage?? -->
 - Optimized input system to accommodate real-world interference and physical safety constraints for elementary school lunchroom and children's museum exhibit environments.
-
-
 - Prototyped a mixed reality keyboard over 2 months for [Virtual Fitness Buddy](Projects/vb-overview#virtual-fitness-buddy-afterschool) that succeeded with adults but was unintuitive for children. This led to a design change in the overall project, incorporating a touchscreen, which was intuitive for children to use. <!-- TODO: is this additional sentence good??? -->
 
 </details>
@@ -61,8 +59,6 @@ TODO: make this look better <3
 - Expanded the boundaries of a virtual reality (VR) guided heart tour to give an audience-focused, exploratory experience with minimal navigation friction that improved accessibility[^heart]. <!-- TODO: cite heart demo paper too? -->
 - Designed and implemented an engaging physical activity improvement program in collaboration with psychology, kinesiology, engineering, and statistics departments
 - Designed a virtual reality (VR) exploratory data analysis (EDA) tool[^fwim] using Unity3D to simplify understanding of heart study[^heart] interactions. <!-- TODO: are cites in good places? cite heart demo paper too? --> <!-- TODO: here, programming, or otherwise? -->
-
-
 - Designed a 3D trophy model set that rewarded child fitness goals in the [Virtual Fitness Buddy system](Projects/vb-overview#virtual-fitness-buddy-at-home).
 
 </details>
@@ -74,8 +70,9 @@ TODO: make this look better <3
     <summary>Skills</summary>
 
 - Realized the Virtual Buddy systems by synthesizing and implementing the needs of the entire spectrum of stakeholders from child players, their parents, and deployment site staff like CMOA, to supporting UGA staff of psychologists, statisticians, kinesiologists, and engineers to turn a proof of concept into fully realized applications played by 60,000 children over 5 years
-- <!--Led and a-->Architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1] played by approximately 60,000 children.
-- <!-- TODO: as dev team lead-->Orchestrated the [afterschool Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to over 300 children across 12 sites and ran 6 months[^vfb-a1].<!-- TODO: include c2 or just c1 (155child, 7)sites?? -->
+- Architected the [Virtual STEM Buddy experience](Projects/vb-overview#virtual-stem-buddy-at-museum) from conception to implementation which resulted in a 5 year exhibit at the Children's Museum of Atlanta[^vsb1] played by approximately 60,000 children. <!-- add Led and to beginning -->
+- Orchestrated the [afterschool Virtual Fitness Buddy project](Projects/vb-overview#virtual-fitness-buddy-afterschool) that launched to over 300 children across 12 sites and ran 6 months[^vfb-a1].<!-- TODO: include c2 or just c1 (155child, 7)sites?? --> <!-- TODO: as dev team lead-->
+- Created VFB reference architecture to reduce VFB iteration development time for junior programmers
 
 </details>
 
@@ -84,13 +81,13 @@ TODO: make this look better <3
 <details open>
     <summary>Skills</summary>
 
-- Designed ETL (TODO: acronym) process to handle virtual buddy player loading under 3 seconds to retain child attention during start up
+- Designed ETL <!-- (TODO: acronym) --> process to handle virtual buddy player loading under 3 seconds to retain child attention during start up
 - Analyzed initial VSB deployment mechanics at CMOA and recommended upgrade resulted in 58% increase (88.3 / 139.8) in engagement with an approximate 14,000 exhibit visitors per year <!-- with 39% increase (13.6 / 18.9) in LH plays/day between upgrades 2 and 3 and in corresponding time frame slingshot saw 9% increase (23.7 / 25.8); 58% (88.3 / 139.8) in play time/game and 15% (100.0 / 115.3) for slingshot -->
-- Created VFB data dictionary reducing comprehension time by 14 hours during impact and success analysis of VFB 
+- Created VFB data dictionary reducing comprehension time by 14 hours during impact and success analysis of VFB
 
 </details>
 
-## UI/UX Designer
+<!-- ## UI/UX Designer
 
 <details open>
     <summary>Skills</summary>
@@ -106,11 +103,11 @@ TODO: make this look better <3
 
 - TODO:?
 
-</details>
+</details> -->
 
 
 <!-- old ones -->
-- Design various virtual experiences to be used in the field for extended periods with many participants with a focus on mixed reality devices.
+<!-- - Design various virtual experiences to be used in the field for extended periods with many participants with a focus on mixed reality devices.
 - Implement the front-end for the aforementioned virtual experiences, including game logic, user interfaces (UI), interfacing with database, and world layout.
 - Design physical kiosk-based hardware systems used by the aforementioned virtual experiences.
 - Run and analyze data from user studies with a focus on game outcomes and user feedback.
@@ -121,41 +118,36 @@ TODO: make this look better <3
 ## TODO: Delete or Comment Everything Below Here
 
 
-### TODO Bullet Points
+### TODO Bullet Points -->
 
-<details>
+<!-- <details> -->
 
 <!-- Catherine todos -->
-- TODO: architectural tradeoffs of tablet placement and ground markers and gameplay+safety (programmer)
-  - cost vs making a custom mat that detected when player was out of bounds and not standing in startup location
-  - one for hardware; one for software if there is one for VSB otherwise use below for software
-  - how to talk about this? like I don't know cost savings
-    - cost could be time or focus of effort ex limited time and funds to put into designing and implementing say a custom mat vs just using tape on the ground 
-    - safety first: both software and "hardware" (tape) 
+<!-- - TODO: architectural tradeoffs (programmer)
+  - one for hardware; one for software if there is one that can be used for both, do it
+  - For example: cost vs making a custom mat that detected when player was out of bounds and not standing in startup location
+    - how to talk about this? like I don't know cost savings
+      - cost could be time or focus of effort ex limited time and funds to put into designing and implementing say a custom mat vs just using tape on the ground 
 - TODO: heart navigation/learning trade-off (software/ux)
   - TODO: don't have distinguishing results for learning trade off, respin or toss?
   - win here is people preferred the immersive version, no simulator sickness
   - had sense of what people want and this was born out by data
   - Enhanced VR nav system to make it a fluid and natural experience which resulted in 50% increased engagement by users
-
-- TODO: VFB watch mentorship
-  - Created a reference architecture that was able to guide a junior programmer to create the next evolution of VFB that would allow children to take their buddy with them and get rewards for doing fitness all the time 
-    - note: reference finch "self-care", including PA, to say this is a real thing they're already using; market has validated that these ideas work
-    - give a comparison to how helpful the reference architecture was
-    - a programming win as lead designer of the architecture to help junior programmer
-  - Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration, enabling children to bring their buddy on "real-world" walks (or PA?)
-    - bring in market validate approach?
-  - TODO: Created VFB reference architecture to aid junior programmer develop the watch-based VFB iteration (write about how it helped the junior dev)
-
+ 
+- TODO: safety considerations in MR/VR/AR
+  - safety first: both software and "hardware" (tape) 
+  - could also be trade off of hoping for an incident not to happen vs planning safety features to address it
+    - alternative considered instead of disaster case
+    - 
 
 - ~~TODO: C# ETL (extract, transform, and load) pipeline of data from database to app and back~~
   - TODO: Event data log handling ex how I would go about processing the event log by person and session, use pipeline of processing raw event log history into total game sessions or daily game events
     - converting sql log entries into a data event
   - data pipeline of raw event log into series of game events (per player per session)
-  - TODO: Implemented VFB ETL pipeline to convert logs to game events per player session reducing analysts' workload saving xyz hours (SQL, Python)
+  - TODO: Implemented VFB ETL pipeline to convert logs to game events per player session reducing analysts' workload saving xyz hours (SQL, Python) -->
 
 <!--- Ideas to massage --->
-- ~~TODO: add a bullet point for how we managed our feedback collection process~~
+<!-- - ~~TODO: add a bullet point for how we managed our feedback collection process~~
 - TODO: AR/VR/MR experience - check to see how much these are called out in other bullet points
 - TODO: coming up with bark it/agility (blank canvas, small prototype and scrappy too (other minigames too))
   - example of lead programmer behavior/example of ownership of entire process
@@ -166,16 +158,18 @@ TODO: make this look better <3
 - TODO: C# design patterns (https://refactoring.guru/)
   - gonna need much more massaging
   - my job is to identify patterns I have used or may have used
+  - Tying into larger architectural decisions
+  - trying to find narrative to give during interview in regards to these to say that I make good architectural design decisions and rationale behind them
+  - talking about patterns in terms of software architecture and trying to come up with story on how I have good experience and decisions and use these as a way to show it
+    - tldr these are a filter to say I know what I'm talking about
 - TODO: Physics engine vs deterministic tradeoff
   - do you want it to look cool vs be consistent every time
   - why is this an example of an experience unity developer?
   - how would I tell junior devs how to make this tradeoff every time
-
-
-
+- TODO: look into ui/ux terminology and design programs -> hold off for now -->
 <!-- Already addressed? -->
 <!-- TODO: designed 3d trophy system (trophy itself and pillar) with a 3d modeler -->
-</details>
+<!-- </details>
 
 ### Non-Erin Approved (lol)
 
@@ -183,15 +177,15 @@ Data Engineer
 - Designed data warehouse for analysis/to use
   - TODO: Supported virtual fitness buddy data warehouse development to enable future research analysis 
     - replace supported with something more descriptive
-<details>
+<details> -->
 
 <!--- Non-Erin Approved (lol) --->
-- Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
+<!-- - Designed robust system used by xxx children across yyy sites which continued to run daily with minimal upkeep for zzz years. TODO: add numbers
 - Architected application using MVC & MVVM design patterns to decouple modules for scaling the project.
 - ~~Implemented portable designs to support PC, iOS/iPadOS, Android, and Virtual Reality (Meta Quest).~~
   - TODO: describe new hardware and new environments as new bullet point(s), buzz word: portability
 </details>
-</details>
+</details> -->
 
 <!-- Footnotes/References -->
 [^f&v1]: [Ahn, Sun Joo Grace, et al. "Using Virtual Pets to Increase Fruit and Vegetable Consumption in Children: A Technology-Assisted Social Cognitive Theory Approach." Cyberpsychology, behavior and social networking 19.2 (2016): 86-92.](https://www.researchgate.net/profile/Sun-Joo-Grace-Ahn/publication/281627304_Using_Virtual_Pets_to_Increase_Fruit_and_Vegetable_Consumption_in_Children_A_Technology-Assisted_Social_Cognitive_Theory_Approach/links/55f092ca08aef559dc46d679/Using-Virtual-Pets-to-Increase-Fruit-and-Vegetable-Consumption-in-Children-A-Technology-Assisted-Social-Cognitive-Theory-Approach.pdf)
