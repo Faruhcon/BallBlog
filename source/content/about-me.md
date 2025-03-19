@@ -18,7 +18,7 @@ TODO: keep citations/links or does it make the skills too cluttered? -->
 
 - University of Georgia
   - Doctor of Philosophy - PhD, Engineering (Software)
-    - Dissertation: Design and Field Implementation of Virtual Buddy-Based Serious Games for Children
+    - [Dissertation: Design and Field Implementation of Virtual Buddy-Based Serious Games for Children](https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-Field-Implementation-of-Virtual/9949618127102959)
   - Bachelor of Science - BS, Psychology
 
 </details>
