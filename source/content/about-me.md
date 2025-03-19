@@ -18,6 +18,7 @@ TODO: keep citations/links or does it make the skills too cluttered? -->
 
 - University of Georgia
   - Doctor of Philosophy - PhD, Engineering (Software)
+    - Dissertation: Design and Field Implementation of Virtual Buddy-Based Serious Games for Children
   - Bachelor of Science - BS, Psychology
 
 </details>
@@ -30,7 +31,7 @@ TODO: keep citations/links or does it make the skills too cluttered? -->
 - Languages: C#, Python, SQL, HTML, CSS, JS
 - Major Libraries: pandas, Seaborn, Google Speech-to-Text, Oculus/Meta VR (Virtual Reality), SteamVR, OpenXR, Apple iOS/iPadOS AR (Augmented Reality), Microsoft Kinect, Fitbit
 - Game Engine: Unity3D
-- Platforms: PC, Android, iOS, VR, and AR
+- Platforms: PC, Android, iOS, VR, MR, and AR
 - Source Control: Git
 
 </details>
