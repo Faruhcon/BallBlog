@@ -26,6 +26,7 @@ export default ((opts?: Options) => {
           <li><a href="/about-me">About Me</a></li>
           <li><a href="/Projects">Projects</a></li>
           <li><a href="https://scholar.google.com/citations?hl=en&user=bljBlOQAAAAJ">Scholar</a></li>
+          <li><a href="https://www.linkedin.com/in/drcatball/">LinkedIn</a></li>
         </ul>
       </footer>
     )
